@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2083405453891944641",
+    "created_at": "2026-08-01T08:45:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T09:45:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083474274661323156"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554387909587136512",
+          "start": 0,
+          "username": "Gag_Order_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083474274661323156",
+    "in_reply_to_user_id": "1554387909587136512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083433962471317895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gag_Order_ iso倒是价格还好，找试剂代购一百多买250mg能玩几次，不算太贵，DPT就贵了，思诺思的话其实也好开，随便挂个睡眠门诊然后说自己失眠，之前在别的地方医生开过唑吡坦效果很好基本就开出来了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2083405453891944641",
+        "created_at": "2026-08-01T08:45:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T09:45:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083474274661323156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083474274661323156",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083433962471317895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ iso倒是价格还好，找试剂代购一百多买250mg能玩几次，不算太贵，DPT就贵了，思诺思的话其实也好开，随便挂个睡眠门诊然后说自己失眠，之前在别的地方医生开过唑吡坦效果很好基本就开出来了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2083405453891944641",
+        "created_at": "2026-08-01T06:05:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083433962471317895"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083433962471317895",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 69,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083413341624791360",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 思诺思得去医院开吧…\n其他的没渠道买要不就是太贵了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 223,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 151
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2079494310861382058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240,
+          "following_count": 249,
+          "like_count": 1039,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 512
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2089007442202128384",
+        "3_2089007442181152768"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2089007465379856835",
+    "created_at": "2026-08-16T15:12:46.000Z",
+    "display_text_range": [
+      0,
+      114
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T16:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089007465379856835"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2bEoAX9vY2",
+          "end": 138,
+          "expanded_url": "https://x.com/YangDowond/status/2089007465379856835/photo/1",
+          "media_key": "3_2089007442202128384",
+          "start": 115,
+          "url": "https://t.co/2bEoAX9vY2"
+        },
+        {
+          "display_url": "pic.x.com/2bEoAX9vY2",
+          "end": 138,
+          "expanded_url": "https://x.com/YangDowond/status/2089007465379856835/photo/1",
+          "media_key": "3_2089007442181152768",
+          "start": 115,
+          "url": "https://t.co/2bEoAX9vY2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089007465379856835",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2089007442202128384"
+      },
+      {
+        "media_key": "3_2089007442181152768"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在玩异环，傻猫这身材太离谱了（）\n然后整了1mg地佐环平（MK-801）配劳拉2t舌下加上8t DXM，我得一个多月没玩过解离了，飘飘忽忽还是很舒服的，但是用MK-801还是要注意用量，千万不要一不小心把一瓶子全吃了，会疯的（） https://t.co/2bEoAX9vY2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2089007442202128384",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2lM12a8AAWSGB.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2089007442181152768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2lM1xa4AAAbZo.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089007442202128384",
+            "3_2089007442181152768"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2089007465379856835",
+        "created_at": "2026-08-16T15:12:46.000Z",
+        "display_text_range": [
+          0,
+          114
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T16:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089007465379856835"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bEoAX9vY2",
+              "end": 138,
+              "expanded_url": "https://x.com/YangDowond/status/2089007465379856835/photo/1",
+              "media_key": "3_2089007442202128384",
+              "start": 115,
+              "url": "https://t.co/2bEoAX9vY2"
+            },
+            {
+              "display_url": "pic.x.com/2bEoAX9vY2",
+              "end": 138,
+              "expanded_url": "https://x.com/YangDowond/status/2089007465379856835/photo/1",
+              "media_key": "3_2089007442181152768",
+              "start": 115,
+              "url": "https://t.co/2bEoAX9vY2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089007465379856835",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089007442202128384"
+          },
+          {
+            "media_key": "3_2089007442181152768"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在玩异环，傻猫这身材太离谱了（）\n然后整了1mg地佐环平（MK-801）配劳拉2t舌下加上8t DXM，我得一个多月没玩过解离了，飘飘忽忽还是很舒服的，但是用MK-801还是要注意用量，千万不要一不小心把一瓶子全吃了，会疯的（） https://t.co/2bEoAX9vY2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2089007465379856835",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 201,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 41,
+          "tweet_count": 245
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

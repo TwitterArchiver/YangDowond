@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2081844095417569368",
+    "created_at": "2026-07-28T03:07:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T04:07:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081939536163242134"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1661418553801580544",
+          "start": 0,
+          "username": "Nzstz53"
+        },
+        {
+          "end": 24,
+          "id": "2048080271245975552",
+          "start": 9,
+          "username": "mitsushimaseii"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081939536163242134",
+    "in_reply_to_user_id": "1661418553801580544",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081936744942072035",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Nzstz53 @mitsushimaseii 还真是这么高的剂量，以至于菲尼布特都很少用mg这个单位而是直接用g比较多，甚至连灌胶囊都不方便，我原来用的时候甚至是直接兑水喝（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2081844095417569368",
+        "created_at": "2026-07-28T03:07:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T04:07:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081939536163242134"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1661418553801580544",
+              "start": 0,
+              "username": "Nzstz53"
+            },
+            {
+              "end": 24,
+              "id": "2048080271245975552",
+              "start": 9,
+              "username": "mitsushimaseii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081939536163242134",
+        "in_reply_to_user_id": "1661418553801580544",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081936744942072035",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Nzstz53 @mitsushimaseii 还真是这么高的剂量，以至于菲尼布特都很少用mg这个单位而是直接用g比较多，甚至连灌胶囊都不方便，我原来用的时候甚至是直接兑水喝（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1661418553801580544",
+        "conversation_id": "2081844095417569368",
+        "created_at": "2026-07-28T02:56:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T03:56:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081936744942072035"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2048080271245975552",
+              "start": 0,
+              "username": "mitsushimaseii"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081936744942072035",
+        "in_reply_to_user_id": "2048080271245975552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081844095417569368",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mitsushimaseii 我没用过，但是菲尼布特需要这么高的剂量吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 226,
+          "like_count": 295,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 142
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-24T17:07:22.000Z",
+        "description": "互 fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/2k77043",
+                "end": 23,
+                "expanded_url": "https://ngl.link/2k77043",
+                "start": 0,
+                "url": "https://t.co/c2ydAShFlf"
+              }
+            ]
+          }
+        },
+        "id": "1661418553801580544",
+        "name": "κ",
+        "pinned_tweet_id": "2079683328811454501",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004932256914440197/Z0wcEEtk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 101,
+          "following_count": 59,
+          "like_count": 298,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 190
+        },
+        "url": "https://t.co/c2ydAShFlf",
+        "username": "Nzstz53",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-25T16:54:21.000Z",
+        "description": "07混合型双向重焦 | Oder | 之前的号封了快来找我互fo |",
+        "id": "2048080271245975552",
+        "name": "Byeol",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048239651979395074/09c-yBXf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 12,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 16
+        },
+        "url": "",
+        "username": "mitsushimaseii",
+        "verified": false
+      }
+    ]
+  }
+}

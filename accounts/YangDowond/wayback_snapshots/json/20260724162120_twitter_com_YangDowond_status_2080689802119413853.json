@@ -1,0 +1,299 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2080639546115690969",
+    "created_at": "2026-07-24T16:21:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T17:21:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080689802119413853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2061066746203652100",
+          "start": 0,
+          "username": "Feifeimian8964"
+        },
+        {
+          "end": 29,
+          "id": "1989627406391635968",
+          "start": 16,
+          "username": "drug_artist2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080689802119413853",
+    "in_reply_to_user_id": "2061066746203652100",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080689238614671731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Feifeimian8964 @drug_artist2 得1-2g能上劲，量比较大，灌胶囊不方便，可能需要兑水服用"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2080639546115690969",
+        "created_at": "2026-07-24T16:21:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:21:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080689802119413853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2061066746203652100",
+              "start": 0,
+              "username": "Feifeimian8964"
+            },
+            {
+              "end": 29,
+              "id": "1989627406391635968",
+              "start": 16,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080689802119413853",
+        "in_reply_to_user_id": "2061066746203652100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080689238614671731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Feifeimian8964 @drug_artist2 得1-2g能上劲，量比较大，灌胶囊不方便，可能需要兑水服用"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2061066746203652100",
+        "conversation_id": "2080639546115690969",
+        "created_at": "2026-07-24T16:19:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T17:19:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080689238614671731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            },
+            {
+              "end": 25,
+              "id": "1989627406391635968",
+              "start": 12,
+              "username": "drug_artist2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080689238614671731",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080688856534573461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond @drug_artist2 一次多少合适阿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 217,
+          "like_count": 280,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 130
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      },
+      {
+        "created_at": "2026-05-31T12:49:53.000Z",
+        "description": "这里菲菲\n女初上学中｜overdose｜友跨｜顺直女\n｜寻互fo｜\n小天使：@lulu72010\n小天使：@YeanyeRun\ntg个人频道：\nhttps://t.co/MceDIlmkDR",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 38,
+                "username": "lulu72010"
+              },
+              {
+                "end": 63,
+                "start": 53,
+                "username": "YeanyeRun"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/+E_eio4c7vM40Z…",
+                "end": 95,
+                "expanded_url": "https://t.me/+E_eio4c7vM40ZDcx",
+                "start": 72,
+                "url": "https://t.co/MceDIlmkDR"
+              }
+            ]
+          }
+        },
+        "id": "2061066746203652100",
+        "name": "菲菲mian分享美金刚不好体验",
+        "pinned_tweet_id": "2080250651427426744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062184694431588352/yM8ce7tT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 135,
+          "following_count": 186,
+          "like_count": 1734,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "Feifeimian8964",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-15T09:32:30.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|长发视觉系4i男娘｜提问箱:https://t.co/jtp9SaKxdp|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy!  年号 雨玄 我从地狱回来了",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/drugs_artist",
+                "end": 57,
+                "expanded_url": "https://ngl.link/drugs_artist",
+                "start": 34,
+                "url": "https://t.co/jtp9SaKxdp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/CuWdphsu7d"
+              }
+            ]
+          }
+        },
+        "id": "1989627406391635968",
+        "location": "Xanax天国2mg自治区",
+        "name": "沐雨",
+        "pinned_tweet_id": "1992289000477102226",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1989627623304302594/iRhfipvR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 37,
+          "like_count": 129,
+          "listed_count": 1,
+          "media_count": 20,
+          "tweet_count": 155
+        },
+        "url": "https://t.co/CuWdphsu7d",
+        "username": "drug_artist2",
+        "verified": false
+      }
+    ]
+  }
+}

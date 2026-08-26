@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      }
+    ],
+    "conversation_id": "2083538996282765781",
+    "created_at": "2026-08-01T13:37:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T14:37:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083547776768680147"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2083547776768680147",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083538996282765781",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "已经进化到可以硬扛苯乙胺衍生物带来的恶心感而不需要任何止吐药的地步了…\n药效上升期突然发现迷幻剂就得配迷幻摇滚啊，波波的小曲原版（看，猫头鹰，Sat Tee Touy）那种丛林迷幻的风格和迷幻剂真的太搭了（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2083538976468860928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOo3qPgbgAAk0qa.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          }
+        ],
+        "conversation_id": "2083538996282765781",
+        "created_at": "2026-08-01T13:37:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:37:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083547776768680147"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2083547776768680147",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083538996282765781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "已经进化到可以硬扛苯乙胺衍生物带来的恶心感而不需要任何止吐药的地步了…\n药效上升期突然发现迷幻剂就得配迷幻摇滚啊，波波的小曲原版（看，猫头鹰，Sat Tee Touy）那种丛林迷幻的风格和迷幻剂真的太搭了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083538976468860928"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2083538996282765781",
+        "created_at": "2026-08-01T13:03:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T14:03:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083538996282765781"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RbF8lrK7U4",
+              "end": 78,
+              "expanded_url": "https://x.com/YangDowond/status/2083538996282765781/photo/1",
+              "media_key": "3_2083538976468860928",
+              "start": 55,
+              "url": "https://t.co/RbF8lrK7U4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083538996282765781",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天诸事顺利，于是Isoproscaline（iso🌵）环节，仍然是105mg\n让我们在他人的人生中去相遇吧 https://t.co/RbF8lrK7U4"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 224,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2089365060519141616",
+    "created_at": "2026-08-17T14:53:43.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T15:53:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089365060519141616"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangdowond/sta…",
+          "end": 125,
+          "expanded_url": "https://twitter.com/yangdowond/status/2089335516533850512",
+          "start": 102,
+          "url": "https://t.co/oaTBtKVebP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089365060519141616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089335516533850512",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好了终于结束了，回家躺到床上享受这余晖期吧\n似乎所有的解离剂在阻断NMDA受体之后谷氨酸砸向AMPA受体都会引发脑源神经营养因子的释放，然后整个人就会变的突然通透起来，平时的抑郁啦，焦虑啦就都烟消云散了 https://t.co/oaTBtKVebP"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2089365060519141616",
+        "created_at": "2026-08-17T14:53:43.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T15:53:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089365060519141616"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangdowond/sta…",
+              "end": 125,
+              "expanded_url": "https://twitter.com/yangdowond/status/2089335516533850512",
+              "start": 102,
+              "url": "https://t.co/oaTBtKVebP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089365060519141616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089335516533850512",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好了终于结束了，回家躺到床上享受这余晖期吧\n似乎所有的解离剂在阻断NMDA受体之后谷氨酸砸向AMPA受体都会引发脑源神经营养因子的释放，然后整个人就会变的突然通透起来，平时的抑郁啦，焦虑啦就都烟消云散了 https://t.co/oaTBtKVebP"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2089335516533850512",
+        "created_at": "2026-08-17T12:56:19.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:56:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089335516533850512"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangdowond/sta…",
+              "end": 85,
+              "expanded_url": "https://twitter.com/yangdowond/status/2089222501834567733",
+              "start": 62,
+              "url": "https://t.co/R5CD4mCW1z"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089335516533850512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 186,
+          "like_count": 2,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089222501834567733",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "事实证明不要在mk-801余晖期参加任何公众场所活动\n别人都在劝酒，我这边一闭眼，嚯，疯狂的内幻，还解离，我都快不会说话了 https://t.co/R5CD4mCW1z"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2089365060519141616",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 222,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 269
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

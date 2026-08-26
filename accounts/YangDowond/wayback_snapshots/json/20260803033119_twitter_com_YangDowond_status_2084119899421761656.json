@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2084084716232413309",
+    "created_at": "2026-08-03T03:31:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:31:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084119899421761656"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547812257676963840",
+          "start": 0,
+          "username": "YLS69979546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084119899421761656",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084116434011975950",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YLS69979546 之前推上我有一个互关玩过这种玩法，那个老哥独立在这个玩法上试验了半年，高剂量下产生的阿片样作用极明显了，副作用上便秘还好说，但高剂量它会阻滞心肌细胞hERG钾离子通道，一定概率会猝死的，那个老哥的缓解（安慰）自己的方法是-服用氯化钾缓释片（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2084084716232413309",
+        "created_at": "2026-08-03T03:31:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:31:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084119899421761656"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084119899421761656",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084116434011975950",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 之前推上我有一个互关玩过这种玩法，那个老哥独立在这个玩法上试验了半年，高剂量下产生的阿片样作用极明显了，副作用上便秘还好说，但高剂量它会阻滞心肌细胞hERG钾离子通道，一定概率会猝死的，那个老哥的缓解（安慰）自己的方法是-服用氯化钾缓释片（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084084716232413309",
+        "created_at": "2026-08-03T03:17:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:17:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084116434011975950"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084116434011975950",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084114948515569718",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 沃擦，虽然我一点也不想娱乐这玩意（哌替啶好爽医院用过，第一次阿片类体验说是）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 232,
+          "like_count": 326,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 178
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 169,
+          "like_count": 8768,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2108
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

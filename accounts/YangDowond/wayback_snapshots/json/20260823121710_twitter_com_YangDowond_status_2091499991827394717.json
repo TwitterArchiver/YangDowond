@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2091205857057071453",
+    "created_at": "2026-08-23T12:17:10.000Z",
+    "display_text_range": [
+      9,
+      81
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T13:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091499991827394717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2066389067080867840",
+          "start": 0,
+          "username": "Huhuixh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091499991827394717",
+    "in_reply_to_user_id": "2066389067080867840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091495999726653824",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Huhuixh 嗯嗯！配合加巴，pr80，哪怕是菲尼布特都是比较好的，单独高剂量使用巴氯芬确实太危险了，尤其是头晕和呼吸抑制风险很高，我主要是很享受那种去抑制感"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2091205857057071453",
+        "created_at": "2026-08-23T12:17:10.000Z",
+        "display_text_range": [
+          9,
+          81
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091499991827394717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2066389067080867840",
+              "start": 0,
+              "username": "Huhuixh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091499991827394717",
+        "in_reply_to_user_id": "2066389067080867840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091495999726653824",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Huhuixh 嗯嗯！配合加巴，pr80，哪怕是菲尼布特都是比较好的，单独高剂量使用巴氯芬确实太危险了，尤其是头晕和呼吸抑制风险很高，我主要是很享受那种去抑制感"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066389067080867840",
+        "conversation_id": "2091205857057071453",
+        "created_at": "2026-08-23T12:01:19.000Z",
+        "display_text_range": [
+          12,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T13:01:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091495999726653824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091495999726653824",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091488512092840038",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 哦哦哦好的谢谢！！！我平时搭配加巴我觉得1，2t和加巴一起也很不错！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2091499991827394717",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 290,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 369
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-15T05:16:21.000Z",
+        "description": "＝hh，第一世@Huhiosc3x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 7,
+                "username": "Huhiosc3x"
+              }
+            ]
+          }
+        },
+        "id": "2066389067080867840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091495999726653824",
+        "name": "Huhio3.0",
+        "pinned_tweet_id": "2090043415711170965",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066389067080867840/1785921562",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090744695941107712/qRDti5iB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 49,
+          "like_count": 247,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 208
+        },
+        "url": "",
+        "username": "Huhuixh",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

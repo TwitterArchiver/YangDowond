@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2089332533318037746",
+    "created_at": "2026-08-17T13:20:31.000Z",
+    "display_text_range": [
+      12,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T14:20:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089341605262287161"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2037817579448807424",
+          "start": 0,
+          "username": "Yuki283113"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089341605262287161",
+    "in_reply_to_user_id": "2037817579448807424",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089332533318037746",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki283113 应该是可以的，二氢可待因走CYP2D6代谢成活性的二氢吗啡，所以得用西柚汁里的呋喃香豆素把3A4抑制住"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2089332533318037746",
+        "created_at": "2026-08-17T13:20:31.000Z",
+        "display_text_range": [
+          12,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T14:20:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089341605262287161"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2037817579448807424",
+              "start": 0,
+              "username": "Yuki283113"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089341605262287161",
+        "in_reply_to_user_id": "2037817579448807424",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089332533318037746",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki283113 应该是可以的，二氢可待因走CYP2D6代谢成活性的二氢吗啡，所以得用西柚汁里的呋喃香豆素把3A4抑制住"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037817579448807424",
+        "conversation_id": "2089332533318037746",
+        "created_at": "2026-08-17T12:44:28.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T13:44:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089332533318037746"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089332533318037746",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 51,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "所以西柚汁到底能不能慢代谢二氢可待因，说是也从CYP2D6代谢，这个有点高深我不太懂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2089341605262287161",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 221,
+          "like_count": 373,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 268
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-28T09:02:43.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n\n互fo回归，请，会微差成分，全友好\n\n这是第几个了。?",
+        "id": "2037817579448807424",
+        "is_identity_verified": false,
+        "location": "衫之宫区 北校 C栋楼顶",
+        "most_recent_tweet_id": "2089340080896819623",
+        "name": "岐哥，梦想跪了。4.0",
+        "pinned_tweet_id": "2088874163620413586",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2037817579448807424/1786884389",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084998836246700033/-ARs9g6U_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 209,
+          "like_count": 222,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 158
+        },
+        "url": "",
+        "username": "Yuki283113",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

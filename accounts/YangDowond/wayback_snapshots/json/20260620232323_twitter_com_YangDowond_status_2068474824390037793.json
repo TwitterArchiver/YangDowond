@@ -1,0 +1,325 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2059550171831111860",
+    "created_at": "2026-06-20T23:23:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T00:23:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068474824390037793"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1659962043460354050",
+          "start": 0,
+          "username": "SalviaSWC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068474824390037793",
+    "in_reply_to_user_id": "1659962043460354050",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059550171831111860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SalviaSWC 异普会有这么明显的视觉幻觉嘛，这倒是跟舒尔金老爷子记录的不同呢，不过我还以为今年得禁掉iso呢，结果没禁，我手头还有250mg，改天试试（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1342,
+        "media_key": "3_2059293637897330688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQUpy8XoAAJdU1.jpg",
+        "width": 842
+      },
+      {
+        "height": 627,
+        "media_key": "3_2059293637935001600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQUpzFWcAASUfY.jpg",
+        "width": 536
+      },
+      {
+        "height": 858,
+        "media_key": "3_2059293637884665858",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQUpy5WYAIOJ6k.jpg",
+        "width": 534
+      },
+      {
+        "height": 3276,
+        "media_key": "3_2059293712711049216",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJQUuJpWYAAEMUH.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2059550171831111860",
+        "created_at": "2026-06-20T23:23:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T00:23:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068474824390037793"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1659962043460354050",
+              "start": 0,
+              "username": "SalviaSWC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068474824390037793",
+        "in_reply_to_user_id": "1659962043460354050",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059550171831111860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SalviaSWC 异普会有这么明显的视觉幻觉嘛，这倒是跟舒尔金老爷子记录的不同呢，不过我还以为今年得禁掉iso呢，结果没禁，我手头还有250mg，改天试试（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059293637897330688",
+            "3_2059293637935001600",
+            "3_2059293637884665858",
+            "3_2059293712711049216"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2059550171831111860",
+        "created_at": "2026-05-27T08:20:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T09:20:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059550171831111860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%8A%A5%E5%9…",
+              "end": 181,
+              "expanded_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/erowid/119417.html",
+              "start": 158,
+              "status": 200,
+              "title": "一份自述报告：主观迷幻体验——异普罗斯卡林 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/erowid/119417.html",
+              "url": "https://t.co/Gg1CajLR13"
+            },
+            {
+              "display_url": "pic.x.com/qLj97ob9gq",
+              "end": 205,
+              "expanded_url": "https://x.com/SalviaSWC/status/2059550171831111860/photo/1",
+              "media_key": "3_2059293637897330688",
+              "start": 182,
+              "url": "https://t.co/qLj97ob9gq"
+            },
+            {
+              "display_url": "pic.x.com/qLj97ob9gq",
+              "end": 205,
+              "expanded_url": "https://x.com/SalviaSWC/status/2059550171831111860/photo/1",
+              "media_key": "3_2059293637935001600",
+              "start": 182,
+              "url": "https://t.co/qLj97ob9gq"
+            },
+            {
+              "display_url": "pic.x.com/qLj97ob9gq",
+              "end": 205,
+              "expanded_url": "https://x.com/SalviaSWC/status/2059550171831111860/photo/1",
+              "media_key": "3_2059293637884665858",
+              "start": 182,
+              "url": "https://t.co/qLj97ob9gq"
+            },
+            {
+              "display_url": "pic.x.com/qLj97ob9gq",
+              "end": 205,
+              "expanded_url": "https://x.com/SalviaSWC/status/2059550171831111860/photo/1",
+              "media_key": "3_2059293712711049216",
+              "start": 182,
+              "url": "https://t.co/qLj97ob9gq"
+            },
+            {
+              "display_url": "x.com/SalviaSWC/stat…",
+              "end": 229,
+              "expanded_url": "https://twitter.com/SalviaSWC/status/2054839129641546223",
+              "start": 206,
+              "url": "https://t.co/KFyc6WIBvB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059550171831111860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 7626,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 77,
+          "retweet_count": 3
+        },
+        "referenced_tweets": [
+          {
+            "id": "2054839129641546223",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "药物报告day27——国人MTF服用isoproscaline致幻的报告\n\n一名国人跨性别者服用isoproscaline,一种苯乙胺类精神活性物质，这是ta的精神状态发生的变化🤓\n\n文风很专业呢，很有中国版的舒尔金的感觉🥹好奇是哪位推u，吃好吃的不跟大家说，还跑到erowid上放洋屁(bushi)😡\n\n全文链接：https://t.co/Gg1CajLR13 https://t.co/qLj97ob9gq https://t.co/KFyc6WIBvB"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 161,
+          "like_count": 207,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 50
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "name": "鼠尾草～🌿",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4895,
+          "following_count": 1022,
+          "like_count": 24611,
+          "listed_count": 12,
+          "media_count": 557,
+          "tweet_count": 7926
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false
+      }
+    ]
+  }
+}

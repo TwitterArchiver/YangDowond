@@ -1,0 +1,196 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2071627370608632100",
+    "created_at": "2026-06-29T17:39:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T18:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071649871526760915"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2071649871526760915",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071627370608632100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "太震撼了，视觉幻觉比我想象的要强烈的多，但我已经形容不出来了，总之啊，舒尔金老爷子的报告也不一定是普世的，请大家保持独立探索的精神"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2071627356440326144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL_mGs-bcAAVsfa.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2071627370608632100",
+        "created_at": "2026-06-29T17:39:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T18:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071649871526760915"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2071649871526760915",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071627370608632100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "太震撼了，视觉幻觉比我想象的要强烈的多，但我已经形容不出来了，总之啊，舒尔金老爷子的报告也不一定是普世的，请大家保持独立探索的精神"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071627356440326144"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2071627370608632100",
+        "created_at": "2026-06-29T16:10:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T17:10:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071627370608632100"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JjZnt4H2EK",
+              "end": 161,
+              "expanded_url": "https://x.com/YangDowond/status/2071627370608632100/photo/1",
+              "media_key": "3_2071627356440326144",
+              "start": 138,
+              "url": "https://t.co/JjZnt4H2EK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071627370608632100",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 55,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "isoproscaline的第二次体验，第一次很显然剂量没有到位\n第二次体验剂量给足了，感觉一定程度上突破了舒尔金先生的评测，有很明显的内幻和外幻，且躯体欣快感强烈，与DPT存在显著的差异，综合来看很有趣的一种物质，胜在性价比高，一百多可以买250毫克，相比起效力性价比很高 https://t.co/JjZnt4H2EK"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 170,
+          "like_count": 218,
+          "listed_count": 0,
+          "media_count": 10,
+          "tweet_count": 68
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      }
+    ]
+  }
+}

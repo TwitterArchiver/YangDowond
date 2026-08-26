@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2076732270384464027",
+    "created_at": "2026-08-13T04:19:22.000Z",
+    "display_text_range": [
+      29,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T05:19:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087755868523860026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1721895937357004800",
+          "start": 0,
+          "username": "Strf_9040C"
+        },
+        {
+          "end": 28,
+          "id": "2055822314969665536",
+          "start": 12,
+          "username": "GrievousPotato1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087755868523860026",
+    "in_reply_to_user_id": "1721895937357004800",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076732270384464027",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Strf_9040C @GrievousPotato1 昨天肌注回抽真的抽出血了，万幸还记得有回抽这个操作（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 546,
+        "media_key": "3_2076730612090912768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHfRvbwAAmrt6.jpg",
+        "width": 728
+      },
+      {
+        "height": 2893,
+        "media_key": "3_2076730612149522432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHfR9aEAAxzln.jpg",
+        "width": 4096
+      },
+      {
+        "height": 985,
+        "media_key": "3_2076730612124426240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHfR3bIAAxOkF.jpg",
+        "width": 1536
+      },
+      {
+        "height": 314,
+        "media_key": "3_2076730612078333952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNIHfRsb0AAMXDI.jpg",
+        "width": 450
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2076732270384464027",
+        "created_at": "2026-08-13T04:19:22.000Z",
+        "display_text_range": [
+          29,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T05:19:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087755868523860026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1721895937357004800",
+              "start": 0,
+              "username": "Strf_9040C"
+            },
+            {
+              "end": 28,
+              "id": "2055822314969665536",
+              "start": 12,
+              "username": "GrievousPotato1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087755868523860026",
+        "in_reply_to_user_id": "1721895937357004800",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076732270384464027",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Strf_9040C @GrievousPotato1 昨天肌注回抽真的抽出血了，万幸还记得有回抽这个操作（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076730612090912768",
+            "3_2076730612149522432",
+            "3_2076730612124426240",
+            "3_2076730612078333952"
+          ]
+        },
+        "author_id": "1721895937357004800",
+        "conversation_id": "2076732270384464027",
+        "created_at": "2026-07-13T18:15:31.000Z",
+        "display_text_range": [
+          0,
+          157
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-13T19:15:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076732270384464027"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3k4ZSeiFz4",
+              "end": 181,
+              "expanded_url": "https://x.com/Strf_9040C/status/2076732270384464027/photo/1",
+              "media_key": "3_2076730612090912768",
+              "start": 158,
+              "url": "https://t.co/3k4ZSeiFz4"
+            },
+            {
+              "display_url": "pic.x.com/3k4ZSeiFz4",
+              "end": 181,
+              "expanded_url": "https://x.com/Strf_9040C/status/2076732270384464027/photo/1",
+              "media_key": "3_2076730612149522432",
+              "start": 158,
+              "url": "https://t.co/3k4ZSeiFz4"
+            },
+            {
+              "display_url": "pic.x.com/3k4ZSeiFz4",
+              "end": 181,
+              "expanded_url": "https://x.com/Strf_9040C/status/2076732270384464027/photo/1",
+              "media_key": "3_2076730612124426240",
+              "start": 158,
+              "url": "https://t.co/3k4ZSeiFz4"
+            },
+            {
+              "display_url": "pic.x.com/3k4ZSeiFz4",
+              "end": 181,
+              "expanded_url": "https://x.com/Strf_9040C/status/2076732270384464027/photo/1",
+              "media_key": "3_2076730612078333952",
+              "start": 158,
+              "url": "https://t.co/3k4ZSeiFz4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076732270384464027",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2076730612090912768"
+          },
+          {
+            "media_key": "3_2076730612149522432"
+          },
+          {
+            "media_key": "3_2076730612124426240"
+          },
+          {
+            "media_key": "3_2076730612078333952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 3277,
+          "like_count": 33,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 5
+        },
+        "reply_settings": "everyone",
+        "text": "肌肉注射要点(切记两快一慢)\n1.避开神经与大血管\n2. 排尽空气，90°垂直快速进针，深度约2.5cm(留1/3针梗在外)\n3. 不要注射针全部刺入，否则肌肉收缩致针梗疲劳断裂，需切开取出\n4. 固定后必须回抽5秒，无回血方可慢推药；误入血管，油剂可致肺血管栓塞\n5. 拔针要快，干棉签纵向按压勿揉，防血肿与硬结 https://t.co/3k4ZSeiFz4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2087755868523860026",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 200,
+          "like_count": 361,
+          "listed_count": 0,
+          "media_count": 35,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-11-07T14:23:44.000Z",
+        "description": "Strf 9040C：于理想中的深度现代化\nMed：于急诊临床的理性与精神医学的感性之间\nStatus：MtX HRT：2023.08.26（Paused for Calibration）\nBirth：2009.09.04 23:15 (UTC+8) \nBackup：@SPYDER_AIO\n好姐姐：@10Lystra",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 145,
+                "start": 134,
+                "username": "SPYDER_AIO"
+              },
+              {
+                "end": 159,
+                "start": 150,
+                "username": "10Lystra"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "example.com",
+                "end": 23,
+                "expanded_url": "https://example.com/",
+                "start": 0,
+                "url": "https://t.co/Nc0UPvuPcD"
+              }
+            ]
+          }
+        },
+        "id": "1721895937357004800",
+        "is_identity_verified": false,
+        "location": "全真模拟 战区控制 瑞典",
+        "most_recent_tweet_id": "2087239896658481547",
+        "name": "STRIDSFORDON 9040C “№545” 🏳️‍⚧️",
+        "pinned_tweet_id": "2076732270384464027",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1721895937357004800/1786049814",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054961637405458435/USJRjPW1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1641,
+          "following_count": 2508,
+          "like_count": 15031,
+          "listed_count": 2,
+          "media_count": 705,
+          "tweet_count": 1224
+        },
+        "url": "https://t.co/Nc0UPvuPcD",
+        "username": "Strf_9040C",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-17T01:27:33.000Z",
+        "description": "同类互fo，成分请查看@aeglepotato/点赞狂魔/平时喜欢说怪话和发癫/一般通过肉块爱好者，大量匂坂郁纪发言注意👁️/备用@aeglepotato /🦋@aeglepotato /匿名提问箱https://t.co/C8vIKrLtCN",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 11,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 77,
+                "start": 65,
+                "username": "aeglepotato"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "aeglepotato"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/aeglepotato",
+                "end": 122,
+                "expanded_url": "https://ngl.link/aeglepotato",
+                "start": 99,
+                "url": "https://t.co/C8vIKrLtCN"
+              }
+            ]
+          }
+        },
+        "id": "2055822314969665536",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087745233605788120",
+        "name": "⛄ALLice🌈赛博幽灵",
+        "pinned_tweet_id": "2064878659698102753",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2055822314969665536/1784767652",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067517312576421888/aGH7Myxd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 427,
+          "like_count": 18543,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 1306
+        },
+        "url": "",
+        "username": "GrievousPotato1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

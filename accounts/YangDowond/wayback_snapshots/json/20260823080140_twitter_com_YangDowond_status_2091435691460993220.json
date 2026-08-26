@@ -1,0 +1,221 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2091432170267226354",
+    "created_at": "2026-08-23T08:01:40.000Z",
+    "display_text_range": [
+      15,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T09:01:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091435691460993220"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1552238688590958592",
+          "start": 0,
+          "username": "Coccus_Swamer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091435691460993220",
+    "in_reply_to_user_id": "1552238688590958592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091432170267226354",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Coccus_Swamer 请上speedball玩法（）\n配点哌甲酯，麻黄碱一类的兴奋剂"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2091432170267226354",
+        "created_at": "2026-08-23T08:01:40.000Z",
+        "display_text_range": [
+          15,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T09:01:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091435691460993220"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1552238688590958592",
+              "start": 0,
+              "username": "Coccus_Swamer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091435691460993220",
+        "in_reply_to_user_id": "1552238688590958592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091432170267226354",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Coccus_Swamer 请上speedball玩法（）\n配点哌甲酯，麻黄碱一类的兴奋剂"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1552238688590958592",
+        "conversation_id": "2091432170267226354",
+        "created_at": "2026-08-23T07:47:40.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T08:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091432170267226354"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091432170267226354",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "o完oxy后巨困无比，有没有办法解决这个问题"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2091435691460993220",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 284,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 360
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-27T10:25:26.000Z",
+        "description": "biid/hrt-mtx/ADHD-rsd/血腥暴力/自伤/过量服药内容\n介意慎关\n日常推，各种生活的碎碎念。",
+        "id": "1552238688590958592",
+        "is_identity_verified": false,
+        "location": "Nanjing",
+        "most_recent_tweet_id": "2091432170267226354",
+        "name": "焦糖蘋果醬配奶油麵包片 u･ω･u",
+        "pinned_tweet_id": "1962044808987328662",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1552238688590958592/1658917592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911311192213106688/2wcaqE_q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1004,
+          "following_count": 2750,
+          "like_count": 10177,
+          "listed_count": 0,
+          "media_count": 714,
+          "tweet_count": 3770
+        },
+        "url": "",
+        "username": "Coccus_Swamer",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

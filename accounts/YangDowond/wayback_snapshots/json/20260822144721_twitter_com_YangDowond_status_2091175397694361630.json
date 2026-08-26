@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2091167049582309857",
+    "created_at": "2026-08-22T14:47:21.000Z",
+    "display_text_range": [
+      0,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T15:47:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091175397694361630"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2091175397694361630",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091167049582309857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "此事同样适用于复方甘草片，对于阿片爱好者们（）\n家里人有好多就对复方甘草片上瘾，但本人确实对于甘草味道有些抵触，享受不来（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2091167041680228352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQVRWE1awAA_r5x.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2091167049582309857",
+        "created_at": "2026-08-22T14:47:21.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:47:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091175397694361630"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091175397694361630",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091167049582309857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "此事同样适用于复方甘草片，对于阿片爱好者们（）\n家里人有好多就对复方甘草片上瘾，但本人确实对于甘草味道有些抵触，享受不来（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091167041680228352"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2091167049582309857",
+        "created_at": "2026-08-22T14:14:11.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T15:14:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091167049582309857"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/G1bolMU0z7",
+              "end": 120,
+              "expanded_url": "https://x.com/YangDowond/status/2091167049582309857/photo/1",
+              "media_key": "3_2091167041680228352",
+              "start": 97,
+              "url": "https://t.co/G1bolMU0z7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091167049582309857",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091167041680228352"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 88,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "其实各位如果有机会或者不怕麻烦的话可以去村里的小诊所去碰碰运气，有可能开出老版本英雄呢（）\n图片是今年五月时我在老家真感冒了然后村里的诊所开的药，我看了一下DXM的生产日期，是2024年3月（ https://t.co/G1bolMU0z7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2091175397694361630",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 131,
+          "following_count": 277,
+          "like_count": 390,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 340
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2047869566903320881",
+    "created_at": "2026-08-23T07:56:20.000Z",
+    "display_text_range": [
+      17,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T08:56:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091434350562959365"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "2037210164131225604",
+          "start": 0,
+          "username": "Zoink3118675425"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091434350562959365",
+    "in_reply_to_user_id": "2037210164131225604",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047869566903320881",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zoink3118675425 答案是当然可以（）\n每次高剂量用完DXM我连着一个星期都是神清气爽的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2047869566903320881",
+        "created_at": "2026-08-23T07:56:20.000Z",
+        "display_text_range": [
+          17,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T08:56:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091434350562959365"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2037210164131225604",
+              "start": 0,
+              "username": "Zoink3118675425"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091434350562959365",
+        "in_reply_to_user_id": "2037210164131225604",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047869566903320881",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zoink3118675425 答案是当然可以（）\n每次高剂量用完DXM我连着一个星期都是神清气爽的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2037210164131225604",
+        "conversation_id": "2047869566903320881",
+        "created_at": "2026-04-25T02:45:26.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-25T03:45:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047869566903320881"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2047869566903320881",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 153,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "突然好奇，艾司氯氨酮可以急性抗抑郁，而其是NMDA拮抗剂，拮抗NMDA后产生一系列连锁反应进而修复神经，而众所周知DXM高剂量也可以强阻断NMDA，那DXM是否也能起同样作用进而急性抗抑郁？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2091434350562959365",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 139,
+          "following_count": 284,
+          "like_count": 395,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 359
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-26T16:49:53.000Z",
+        "description": "intp/互fo/audhd\n热爱药理学",
+        "id": "2037210164131225604",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091239127027167733",
+        "name": "链光",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081896585886314496/XZ8_hwgz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 53,
+          "following_count": 209,
+          "like_count": 57,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "Zoink3118675425",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

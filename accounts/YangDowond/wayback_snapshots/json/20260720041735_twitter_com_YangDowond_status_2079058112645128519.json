@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2079058102113198080",
+        "3_2079058102100590592"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2079058112645128519",
+    "created_at": "2026-07-20T04:17:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-20T05:17:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2079058112645128519"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/BF1VC3Mrs0",
+          "end": 58,
+          "expanded_url": "https://x.com/YangDowond/status/2079058112645128519/photo/1",
+          "media_key": "3_2079058102113198080",
+          "start": 35,
+          "url": "https://t.co/BF1VC3Mrs0"
+        },
+        {
+          "display_url": "pic.x.com/BF1VC3Mrs0",
+          "end": 58,
+          "expanded_url": "https://x.com/YangDowond/status/2079058112645128519/photo/1",
+          "media_key": "3_2079058102100590592",
+          "start": 35,
+          "url": "https://t.co/BF1VC3Mrs0"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079058112645128519",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "GABA B补给订购完成\n以及，今天是7月20日，不要忘记回归天空（ https://t.co/BF1VC3Mrs0"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 824,
+        "media_key": "3_2079058102113198080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpMVBva4AAHzCZ.jpg",
+        "width": 1170
+      },
+      {
+        "height": 960,
+        "media_key": "3_2079058102100590592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNpMVBsagAAmqYD.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2079058102113198080",
+            "3_2079058102100590592"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2079058112645128519",
+        "created_at": "2026-07-20T04:17:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-20T05:17:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2079058112645128519"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BF1VC3Mrs0",
+              "end": 58,
+              "expanded_url": "https://x.com/YangDowond/status/2079058112645128519/photo/1",
+              "media_key": "3_2079058102113198080",
+              "start": 35,
+              "url": "https://t.co/BF1VC3Mrs0"
+            },
+            {
+              "display_url": "pic.x.com/BF1VC3Mrs0",
+              "end": 58,
+              "expanded_url": "https://x.com/YangDowond/status/2079058112645128519/photo/1",
+              "media_key": "3_2079058102100590592",
+              "start": 35,
+              "url": "https://t.co/BF1VC3Mrs0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079058112645128519",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "GABA B补给订购完成\n以及，今天是7月20日，不要忘记回归天空（ https://t.co/BF1VC3Mrs0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 45,
+          "following_count": 196,
+          "like_count": 248,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 88
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      }
+    ]
+  }
+}

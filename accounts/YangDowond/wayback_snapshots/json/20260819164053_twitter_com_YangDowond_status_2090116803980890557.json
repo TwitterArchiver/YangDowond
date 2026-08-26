@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2090073960197329330",
+    "created_at": "2026-08-19T16:40:53.000Z",
+    "display_text_range": [
+      12,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T17:40:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090116803980890557"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2065198847698337792",
+          "start": 0,
+          "username": "mzmorz8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090116803980890557",
+    "in_reply_to_user_id": "2065198847698337792",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090073960197329330",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mzmorz8964 教主睡的头疼（）\n其实是切换人格呢！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 576,
+        "media_key": "3_2090073954266517504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQFvMA5aEAAs_9j.jpg",
+        "width": 880
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2090073960197329330",
+        "created_at": "2026-08-19T16:40:53.000Z",
+        "display_text_range": [
+          12,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T17:40:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090116803980890557"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2065198847698337792",
+              "start": 0,
+              "username": "mzmorz8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090116803980890557",
+        "in_reply_to_user_id": "2065198847698337792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090073960197329330",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mzmorz8964 教主睡的头疼（）\n其实是切换人格呢！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090073954266517504"
+          ]
+        },
+        "author_id": "2065198847698337792",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2090073960197329330",
+        "created_at": "2026-08-19T13:50:38.000Z",
+        "display_text_range": [
+          0,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T14:50:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090073960197329330"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YpbJISR7u3",
+              "end": 47,
+              "expanded_url": "https://x.com/mzmorz8964/status/2090073960197329330/photo/1",
+              "media_key": "3_2090073954266517504",
+              "start": 24,
+              "url": "https://t.co/YpbJISR7u3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090073960197329330",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090073954266517504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 93,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡得我头疼，感觉我的作息已经成神了，随地大小睡 https://t.co/YpbJISR7u3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2090116803980890557",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 241,
+          "like_count": 379,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 307
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-11T22:27:35.000Z",
+        "description": "“因恐惧而瑟瑟发抖人们啊，听我说……”\n这里是教主sama，间宫卓司人间体\n尼古丁重度依赖🤤🤤🤤\n最虔诚的信徒（逃生舱）@fmf5y",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 60,
+                "username": "fmf5y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mzm_ssiah1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mzm_ssiah1",
+                "start": 0,
+                "url": "https://t.co/hu72BnifsZ"
+              }
+            ]
+          }
+        },
+        "id": "2065198847698337792",
+        "is_identity_verified": false,
+        "location": "終ノ空",
+        "most_recent_tweet_id": "2090116328023855406",
+        "name": "翻过护栏即可通往天堂",
+        "pinned_tweet_id": "2082912570957324352",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2065198847698337792/1787060244",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072879285581545472/OSEMd5Da_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 182,
+          "following_count": 188,
+          "like_count": 1686,
+          "listed_count": 2,
+          "media_count": 78,
+          "tweet_count": 804
+        },
+        "url": "https://t.co/hu72BnifsZ",
+        "username": "mzmorz8964",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

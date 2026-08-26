@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2083405453891944641",
+    "created_at": "2026-08-01T09:07:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T10:07:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083479659854127577"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1554387909587136512",
+          "start": 0,
+          "username": "Gag_Order_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083479659854127577",
+    "in_reply_to_user_id": "1554387909587136512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083478762599928167",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gag_Order_ 到时候找试剂代购报CAS号就可以，盐酸盐形式，2-(4-异丙氧基-3,5-二甲氧基苯基)乙烷-1-胺盐酸盐 CAS:61367-70-2"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2083405453891944641",
+        "created_at": "2026-08-01T09:07:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:07:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083479659854127577"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1554387909587136512",
+              "start": 0,
+              "username": "Gag_Order_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083479659854127577",
+        "in_reply_to_user_id": "1554387909587136512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083478762599928167",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gag_Order_ 到时候找试剂代购报CAS号就可以，盐酸盐形式，2-(4-异丙氧基-3,5-二甲氧基苯基)乙烷-1-胺盐酸盐 CAS:61367-70-2"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1554387909587136512",
+        "conversation_id": "2083405453891944641",
+        "created_at": "2026-08-01T09:03:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T10:03:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083478762599928167"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083478762599928167",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083474274661323156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond OK 攒钱买iso吧\n这个在墙内挺好买的我记得？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 64,
+          "following_count": 224,
+          "like_count": 307,
+          "listed_count": 0,
+          "media_count": 20,
+          "tweet_count": 152
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-02T08:45:45.000Z",
+        "description": "友跨同一枚\n暂时退役的oder\n梦想是有吃不完的致幻剂",
+        "id": "1554387909587136512",
+        "name": "缄",
+        "pinned_tweet_id": "2079494310861382058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048364763000999936/yihDE35S_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 253,
+          "like_count": 1039,
+          "listed_count": 1,
+          "media_count": 44,
+          "tweet_count": 513
+        },
+        "url": "",
+        "username": "Gag_Order_",
+        "verified": false
+      }
+    ]
+  }
+}

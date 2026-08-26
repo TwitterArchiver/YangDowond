@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2091423504013091325",
+    "created_at": "2026-08-23T11:56:57.000Z",
+    "display_text_range": [
+      17,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T12:56:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091494901754347967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1312977758402744320",
+          "start": 0,
+          "username": "XCUsFvGG3i3PW7r"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091494901754347967",
+    "in_reply_to_user_id": "1312977758402744320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091492909929672857",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XCUsFvGG3i3PW7r 是在医院里使用的啦，合法的哦"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2091423504013091325",
+        "created_at": "2026-08-23T11:56:57.000Z",
+        "display_text_range": [
+          17,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:56:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091494901754347967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1312977758402744320",
+              "start": 0,
+              "username": "XCUsFvGG3i3PW7r"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091494901754347967",
+        "in_reply_to_user_id": "1312977758402744320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091492909929672857",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XCUsFvGG3i3PW7r 是在医院里使用的啦，合法的哦"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1312977758402744320",
+        "conversation_id": "2091423504013091325",
+        "created_at": "2026-08-23T11:49:02.000Z",
+        "display_text_range": [
+          12,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T12:49:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091492909929672857"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091492909929672857",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091423504013091325",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 吗啡？你哪里搞到的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2091494901754347967",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 289,
+          "like_count": 396,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 367
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-05T04:48:03.000Z",
+        "description": "",
+        "id": "1312977758402744320",
+        "is_identity_verified": false,
+        "location": "People's Republic of China",
+        "most_recent_tweet_id": "2091492909929672857",
+        "name": "樱花快下雨",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1353649893097656326/P0Sdsw-F_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 22,
+          "like_count": 20212,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 48
+        },
+        "url": "",
+        "username": "XCUsFvGG3i3PW7r",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

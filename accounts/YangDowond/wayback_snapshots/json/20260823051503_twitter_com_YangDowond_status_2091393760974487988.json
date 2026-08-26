@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10002926010",
+          "name": "Avatar: The Last Airbender"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "id": "1263542756669968384",
+          "name": "Avatar: The Last Airbender"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1263542756669968384",
+          "name": "Avatar: The Last Airbender"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      }
+    ],
+    "conversation_id": "2085042600973898235",
+    "created_at": "2026-08-23T05:15:03.000Z",
+    "display_text_range": [
+      26,
+      65
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T06:15:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091393760974487988"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2089596953097285632",
+          "start": 0,
+          "username": "Zifenfou"
+        },
+        {
+          "end": 25,
+          "id": "1629877998148042757",
+          "start": 10,
+          "username": "99905230523aol"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091393760974487988",
+    "in_reply_to_user_id": "2089596953097285632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091392116824170901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zifenfou @99905230523aol sokka，原来是这样\n我只弄过DPT的游离碱然后烫吸过，确实不太懂这方面（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10002926010",
+              "name": "Avatar: The Last Airbender"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "id": "1263542756669968384",
+              "name": "Avatar: The Last Airbender"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1263542756669968384",
+              "name": "Avatar: The Last Airbender"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          }
+        ],
+        "conversation_id": "2085042600973898235",
+        "created_at": "2026-08-23T05:15:03.000Z",
+        "display_text_range": [
+          26,
+          65
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:15:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091393760974487988"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2089596953097285632",
+              "start": 0,
+              "username": "Zifenfou"
+            },
+            {
+              "end": 25,
+              "id": "1629877998148042757",
+              "start": 10,
+              "username": "99905230523aol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091393760974487988",
+        "in_reply_to_user_id": "2089596953097285632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091392116824170901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zifenfou @99905230523aol sokka，原来是这样\n我只弄过DPT的游离碱然后烫吸过，确实不太懂这方面（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2089596953097285632",
+        "conversation_id": "2085042600973898235",
+        "created_at": "2026-08-23T05:08:31.000Z",
+        "display_text_range": [
+          28,
+          92
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T06:08:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091392116824170901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            },
+            {
+              "end": 27,
+              "id": "1629877998148042757",
+              "start": 12,
+              "username": "99905230523aol"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091392116824170901",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091201705153315064",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond @99905230523aol 其实不是 口吸(先吸进嘴里再过肺)这种一般是盐 肺吸(像呼吸一样直接吸进肺里)这种一般是游离 不过抗胆碱类的应该好玩不到哪去吧（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2091393760974487988",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 283,
+          "like_count": 394,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 354
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T06:16:35.000Z",
+        "description": "友一切乐乐😎\n会查成分回fo同类😤\n09年 17岁 男的 健全逼 是个单纯爱od的普通乐乐🥵\n废话条/药物报告/轻微键政/还有发布一些日常🤓🤓🤓",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/zifenzy66",
+                "end": 23,
+                "expanded_url": "https://t.me/zifenzy66",
+                "start": 0,
+                "url": "https://t.co/vHTsyD9AuZ"
+              }
+            ]
+          }
+        },
+        "id": "2089596953097285632",
+        "is_identity_verified": false,
+        "location": "114514km",
+        "most_recent_tweet_id": "2091392356394397985",
+        "name": "自分。梦想怒了 4.0",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089597440190242816/pusanz31_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24,
+          "following_count": 47,
+          "like_count": 87,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 90
+        },
+        "url": "https://t.co/vHTsyD9AuZ",
+        "username": "Zifenfou",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-02-26T16:16:23.000Z",
+        "description": "一个激进分子，加速主义，后性别主义Postgenderism/支持致幻剂合法化，大麻合法化\n/双性恋\n高功能孤独症谱系/支持神经多样性运动",
+        "id": "1629877998148042757",
+        "is_identity_verified": false,
+        "location": "激进主义分子",
+        "most_recent_tweet_id": "2091076543875604987",
+        "name": "无政府主义联盟",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1629877998148042757/1744557286",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061047941188743168/OTSCZ730_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 231,
+          "following_count": 85,
+          "like_count": 51,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 323
+        },
+        "url": "",
+        "username": "99905230523aol",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

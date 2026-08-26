@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2083538996282765781",
+    "created_at": "2026-08-01T21:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T22:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083669587837747352"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547812257676963840",
+          "start": 0,
+          "username": "YLS69979546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083669587837747352",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083668507271762190",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YLS69979546 去国外的话还是小心，现在问题主要是芬太尼泛滥了，强阿片不是人类意志能戒断的，再有强阿片一过量呼吸抑制也就拉倒了，我去那时是18年，那会在加州感觉还好，街边贩子卖迷幻剂的不少，但是最危险的是卖家说是LSD结果是25I，5-HT2A全激动剂，真要是过量当场血清素综合症就寄了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2083538996282765781",
+        "created_at": "2026-08-01T21:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083669587837747352"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083669587837747352",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083668507271762190",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 去国外的话还是小心，现在问题主要是芬太尼泛滥了，强阿片不是人类意志能戒断的，再有强阿片一过量呼吸抑制也就拉倒了，我去那时是18年，那会在加州感觉还好，街边贩子卖迷幻剂的不少，但是最危险的是卖家说是LSD结果是25I，5-HT2A全激动剂，真要是过量当场血清素综合症就寄了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2083538996282765781",
+        "created_at": "2026-08-01T21:37:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:37:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083668507271762190"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083668507271762190",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083665767925784664",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 想去国外系度了，我上次静注dpt也是剧烈害怕了，感觉类似ego death反正就是强烈濒死感，一段时间觉得什么都不存在了，自己的身体不对位，但是整个一次体验对我来说也不算bad"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 66,
+          "following_count": 229,
+          "like_count": 314,
+          "listed_count": 0,
+          "media_count": 24,
+          "tweet_count": 171
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 458,
+          "following_count": 165,
+          "like_count": 8585,
+          "listed_count": 0,
+          "media_count": 106,
+          "tweet_count": 1952
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

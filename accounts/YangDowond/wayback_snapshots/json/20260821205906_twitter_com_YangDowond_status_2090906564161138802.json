@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2090819797378572790",
+    "created_at": "2026-08-21T20:59:06.000Z",
+    "display_text_range": [
+      12,
+      121
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-21T21:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090906564161138802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "bp01110526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090906564161138802",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090819797378572790",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bp01110526 comp360这东西过FDA基本上板上钉钉了\n但哪怕上了价格也绝对会是超级无敌贵的那种\n考虑到国内批了速开朗不排除有仿制的可能性但国内使用它开展治疗的方法目前也是个疑问，这个东西需要迷幻剂辅助心理医生，在国内这是个难关"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2090819797378572790",
+        "created_at": "2026-08-21T20:59:06.000Z",
+        "display_text_range": [
+          12,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T21:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090906564161138802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "bp01110526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090906564161138802",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090819797378572790",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bp01110526 comp360这东西过FDA基本上板上钉钉了\n但哪怕上了价格也绝对会是超级无敌贵的那种\n考虑到国内批了速开朗不排除有仿制的可能性但国内使用它开展治疗的方法目前也是个疑问，这个东西需要迷幻剂辅助心理医生，在国内这是个难关"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859117911119720448",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Oregon",
+              "id": "1010254568087670785",
+              "name": "Oregon"
+            }
+          }
+        ],
+        "conversation_id": "2090819797378572790",
+        "created_at": "2026-08-21T15:14:19.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T16:14:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090819797378572790"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/paulaustin3w/s…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/paulaustin3w/status/2090552297030066571",
+              "start": 12,
+              "url": "https://t.co/5fMp7jj7DN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090819797378572790",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 60,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090552297030066571",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "堪比氯胺酮治抑郁（目移 https://t.co/5fMp7jj7DN"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2090906564161138802",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 272,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 50,
+          "tweet_count": 328
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "🚪\n99 纯绿\n199半绿",
+        "id": "1859117911119720448",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2090879587521789995",
+        "name": "bp",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 116,
+          "like_count": 8709,
+          "listed_count": 2,
+          "media_count": 293,
+          "tweet_count": 4651
+        },
+        "url": "",
+        "username": "bp01110526",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

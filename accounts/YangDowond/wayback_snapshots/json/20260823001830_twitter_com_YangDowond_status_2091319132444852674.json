@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2091206097524891996",
+    "created_at": "2026-08-23T00:18:30.000Z",
+    "display_text_range": [
+      14,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T01:18:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091319132444852674"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090032448050524161",
+          "start": 0,
+          "username": "Yuki1161taff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091319132444852674",
+    "in_reply_to_user_id": "2090032448050524161",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091206097524891996",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161taff 没事就好😢"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2091206097524891996",
+        "created_at": "2026-08-23T00:18:30.000Z",
+        "display_text_range": [
+          14,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T01:18:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091319132444852674"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090032448050524161",
+              "start": 0,
+              "username": "Yuki1161taff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091319132444852674",
+        "in_reply_to_user_id": "2090032448050524161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091206097524891996",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161taff 没事就好😢"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2090032448050524161",
+        "conversation_id": "2091206097524891996",
+        "created_at": "2026-08-22T16:49:21.000Z",
+        "display_text_range": [
+          0,
+          55
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T17:49:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091206097524891996"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2091206097524891996",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 878,
+          "like_count": 27,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家真的不要吃安眠药紫砂啦😿概率真的很低呢 大家都要好好的哦\n岐哥现在好好的 不过可能还需要一点时间清醒一下啦"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2091319132444852674",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 136,
+          "following_count": 280,
+          "like_count": 391,
+          "listed_count": 0,
+          "media_count": 55,
+          "tweet_count": 350
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:07:46.000Z",
+        "description": "早已逝去之人，早已宽恕之罪。\n@Cecey33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 15,
+                "username": "Cecey33"
+              }
+            ]
+          }
+        },
+        "id": "2090032448050524161",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2091206097524891996",
+        "name": "岐哥，梦想死了。5.0",
+        "pinned_tweet_id": "2090040601848827983",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090032448050524161/1787138596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090749356563435520/4YysT5u8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 235,
+          "following_count": 185,
+          "like_count": 118,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 66
+        },
+        "url": "",
+        "username": "Yuki1161taff",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

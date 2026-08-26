@@ -1,0 +1,150 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2070759053522010112"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2070759061017280662",
+    "created_at": "2026-06-27T06:40:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-27T07:40:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2070759061017280662"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zGPYjay27J",
+          "end": 85,
+          "expanded_url": "https://x.com/YangDowond/status/2070759061017280662/photo/1",
+          "media_key": "3_2070759053522010112",
+          "start": 62,
+          "url": "https://t.co/zGPYjay27J"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070759061017280662",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "去同学家里玩拿来的一些药，我是没想到现在村里的小诊所感冒咳嗽居然能开出来单方DXM，还是被列入精二前生产的，老资历这一块（ https://t.co/zGPYjay27J"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2070759053522010112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLzQY0iagAAFsFl.jpg",
+        "width": 810
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070759053522010112"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2070759061017280662",
+        "created_at": "2026-06-27T06:40:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-27T07:40:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070759061017280662"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zGPYjay27J",
+              "end": 85,
+              "expanded_url": "https://x.com/YangDowond/status/2070759061017280662/photo/1",
+              "media_key": "3_2070759053522010112",
+              "start": 62,
+              "url": "https://t.co/zGPYjay27J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070759061017280662",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "去同学家里玩拿来的一些药，我是没想到现在村里的小诊所感冒咳嗽居然能开出来单方DXM，还是被列入精二前生产的，老资历这一块（ https://t.co/zGPYjay27J"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 165,
+          "like_count": 211,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      }
+    ]
+  }
+}

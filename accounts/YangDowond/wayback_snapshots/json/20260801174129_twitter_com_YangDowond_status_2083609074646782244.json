@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2083538996282765781",
+    "created_at": "2026-08-01T17:41:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T18:41:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083609074646782244"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1786664071749877760",
+          "start": 0,
+          "username": "yy8586711742873"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083609074646782244",
+    "in_reply_to_user_id": "1786664071749877760",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083606790508536284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yy8586711742873 看自身对苯乙胺类的耐受吧，我可能是麻了，没啥感觉的（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2083538996282765781",
+        "created_at": "2026-08-01T17:41:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:41:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083609074646782244"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1786664071749877760",
+              "start": 0,
+              "username": "yy8586711742873"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083609074646782244",
+        "in_reply_to_user_id": "1786664071749877760",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083606790508536284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yy8586711742873 看自身对苯乙胺类的耐受吧，我可能是麻了，没啥感觉的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1786664071749877760",
+        "conversation_id": "2083538996282765781",
+        "created_at": "2026-08-01T17:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T18:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083606790508536284"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083606790508536284",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083538996282765781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 口服肚子疼吗 量挺大"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 228,
+          "like_count": 309,
+          "listed_count": 0,
+          "media_count": 22,
+          "tweet_count": 161
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-04T07:48:13.000Z",
+        "description": "",
+        "id": "1786664071749877760",
+        "name": "pdsd",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059735278512930816/VO8zCf4I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 97,
+          "like_count": 617,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 192
+        },
+        "url": "",
+        "username": "yy8586711742873",
+        "verified": false
+      }
+    ]
+  }
+}

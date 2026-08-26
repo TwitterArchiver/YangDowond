@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2088712291290423547",
+    "created_at": "2026-08-16T05:41:43.000Z",
+    "display_text_range": [
+      27,
+      170
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T06:41:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088863755140771957"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547812257676963840",
+          "start": 0,
+          "username": "YLS69979546"
+        },
+        {
+          "end": 26,
+          "id": "1386670401422434304",
+          "start": 13,
+          "username": "xx1012000456"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088863755140771957",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088861819658215756",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YLS69979546 @xx1012000456 但是对于重度焦虑和紧张的人，抑制剂太神奇了不是嘛，仿佛奇迹与魔法一样（）\n但也因为她们太神奇了给了我们一个假象-放佛我们靠着抑制剂就可以恢复正常人的情绪和沟通能力一样\n但是阿普唑仑我觉得是必须得换了，换成中长效bzd，劳拉都不行，可能得换成地西泮或者氯硝西泮，氯硝虽然劲大但毕竟冲头感弱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2088712291290423547",
+        "created_at": "2026-08-16T05:41:43.000Z",
+        "display_text_range": [
+          27,
+          170
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:41:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088863755140771957"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            },
+            {
+              "end": 26,
+              "id": "1386670401422434304",
+              "start": 13,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088863755140771957",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088861819658215756",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 @xx1012000456 但是对于重度焦虑和紧张的人，抑制剂太神奇了不是嘛，仿佛奇迹与魔法一样（）\n但也因为她们太神奇了给了我们一个假象-放佛我们靠着抑制剂就可以恢复正常人的情绪和沟通能力一样\n但是阿普唑仑我觉得是必须得换了，换成中长效bzd，劳拉都不行，可能得换成地西泮或者氯硝西泮，氯硝虽然劲大但毕竟冲头感弱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2088712291290423547",
+        "created_at": "2026-08-16T05:34:01.000Z",
+        "display_text_range": [
+          26,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T06:34:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088861819658215756"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            },
+            {
+              "end": 25,
+              "id": "1386670401422434304",
+              "start": 12,
+              "username": "xx1012000456"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088861819658215756",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088831720342933959",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond @xx1012000456 一切起于那个1161的强迫性重复补药，结果阿片成瘾，然后又bzd依赖，拿抑制剂逃离生活真的一点都不可取，代价真的有点大"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2088863755140771957",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 86,
+          "following_count": 198,
+          "like_count": 369,
+          "listed_count": 0,
+          "media_count": 38,
+          "tweet_count": 239
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088861819658215756",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 241,
+          "like_count": 9855,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 2662
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-26T13:16:21.000Z",
+        "description": "TG:@gongzisama\nod和策划药圈子的科普博主，药师、策划师、律师和准医师一体机\n提问箱：https://t.co/FKsoJLOqSC 大概几天统一回复一次\n备用小号：@gongzisama1 \n策划药官方：名人堂梦工场@mingrentangRC",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 3,
+                "username": "gongzisama"
+              },
+              {
+                "end": 102,
+                "start": 90,
+                "username": "gongzisama1"
+              },
+              {
+                "end": 130,
+                "start": 116,
+                "username": "mingrentangRC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/gongzisama",
+                "end": 73,
+                "expanded_url": "http://ngl.link/gongzisama",
+                "start": 50,
+                "url": "https://t.co/FKsoJLOqSC"
+              }
+            ]
+          }
+        },
+        "id": "1386670401422434304",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2088855541573714432",
+        "name": "x-square「公子」様",
+        "pinned_tweet_id": "2068505180992332106",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1842146606113845248/XID6YDcK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 710,
+          "like_count": 116,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 2182
+        },
+        "url": "",
+        "username": "xx1012000456",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

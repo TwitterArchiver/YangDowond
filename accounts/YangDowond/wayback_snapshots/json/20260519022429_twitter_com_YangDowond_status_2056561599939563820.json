@@ -1,0 +1,208 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2047168824114651432",
+    "created_at": "2026-05-19T02:24:29.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T03:24:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056561599939563820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1859217881827004417",
+          "start": 0,
+          "username": "lingling00001"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056561599939563820",
+    "in_reply_to_user_id": "1859217881827004417",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056459079007322476",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lingling00001 不过sns的话不是所有医院都有，有的医院可能是仿制药，一般来说去你们那里省级的精神卫生中心一般有sns，不过这玩意的娱乐性很随机，对我来说几乎没有，我吃这东西一次幻觉都没看到过"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2047168824114651432",
+        "created_at": "2026-05-19T02:24:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T03:24:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056561599939563820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1859217881827004417",
+              "start": 0,
+              "username": "lingling00001"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056561599939563820",
+        "in_reply_to_user_id": "1859217881827004417",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056459079007322476",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lingling00001 不过sns的话不是所有医院都有，有的医院可能是仿制药，一般来说去你们那里省级的精神卫生中心一般有sns，不过这玩意的娱乐性很随机，对我来说几乎没有，我吃这东西一次幻觉都没看到过"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859217881827004417",
+        "conversation_id": "2047168824114651432",
+        "created_at": "2026-05-18T19:37:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T20:37:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056459079007322476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056459079007322476",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2052009553580159005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 好的！下次复查尝试一下。不过妈妈在有点不方便啊啊"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6,
+          "following_count": 151,
+          "like_count": 168,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 24
+        },
+        "username": "YangDowond",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-20T12:51:10.000Z",
+        "description": "",
+        "id": "1859217881827004417",
+        "name": "。。也行",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1859218042213036032/jG6JJQCW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 8,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 47
+        },
+        "username": "lingling00001",
+        "verified": false
+      }
+    ]
+  }
+}

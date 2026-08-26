@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2089997813262467561",
+    "created_at": "2026-08-19T08:48:03.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-19T09:48:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2089997813262467561"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangdowond/sta…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/yangdowond/status/2089939104750571580",
+          "start": 76,
+          "url": "https://t.co/XeIyHJKTki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089997813262467561",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089939104750571580",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "起效极快，几乎是肌注完十多秒我就晕过去了，然后现在苏醒，心率记录显示晕过去的三个小时平均心率是38次/分钟，目前血压高压90，低压50，眩晕感持续存在 https://t.co/XeIyHJKTki"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2089997813262467561",
+        "created_at": "2026-08-19T08:48:03.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T09:48:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089997813262467561"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangdowond/sta…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/yangdowond/status/2089939104750571580",
+              "start": 76,
+              "url": "https://t.co/XeIyHJKTki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089997813262467561",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089939104750571580",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "起效极快，几乎是肌注完十多秒我就晕过去了，然后现在苏醒，心率记录显示晕过去的三个小时平均心率是38次/分钟，目前血压高压90，低压50，眩晕感持续存在 https://t.co/XeIyHJKTki"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2089939104750571580",
+        "created_at": "2026-08-19T04:54:46.000Z",
+        "display_text_range": [
+          0,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-19T05:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089939104750571580"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2089939104750571580",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 33,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "200微克右美托咪定肌注"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2089997813262467561",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 104,
+          "following_count": 233,
+          "like_count": 380,
+          "listed_count": 0,
+          "media_count": 46,
+          "tweet_count": 302
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

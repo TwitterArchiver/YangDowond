@@ -1,0 +1,176 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2082458006172884992",
+        "3_2082458006193905665"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2082458014347657402",
+    "created_at": "2026-07-29T13:27:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T14:27:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2082458014347657402"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/2bMsZnRKqz",
+          "end": 80,
+          "expanded_url": "https://x.com/YangDowond/status/2082458014347657402/photo/1",
+          "media_key": "3_2082458006172884992",
+          "start": 57,
+          "url": "https://t.co/2bMsZnRKqz"
+        },
+        {
+          "display_url": "pic.x.com/2bMsZnRKqz",
+          "end": 80,
+          "expanded_url": "https://x.com/YangDowond/status/2082458014347657402/photo/1",
+          "media_key": "3_2082458006193905665",
+          "start": 57,
+          "url": "https://t.co/2bMsZnRKqz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082458014347657402",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "两个相当暴力的RC BZD，图1是氯硝唑仑，图2是氟溴唑仑，三唑环配上硝基或者是溴，效力和起效速度就相当暴力了（ https://t.co/2bMsZnRKqz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 318,
+        "media_key": "3_2082458006172884992",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZghfWaYAATnLL.jpg",
+        "width": 312
+      },
+      {
+        "height": 354,
+        "media_key": "3_2082458006193905665",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZghfbbIAEPHNM.jpg",
+        "width": 282
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082458006172884992",
+            "3_2082458006193905665"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2082458014347657402",
+        "created_at": "2026-07-29T13:27:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:27:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2082458014347657402"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bMsZnRKqz",
+              "end": 80,
+              "expanded_url": "https://x.com/YangDowond/status/2082458014347657402/photo/1",
+              "media_key": "3_2082458006172884992",
+              "start": 57,
+              "url": "https://t.co/2bMsZnRKqz"
+            },
+            {
+              "display_url": "pic.x.com/2bMsZnRKqz",
+              "end": 80,
+              "expanded_url": "https://x.com/YangDowond/status/2082458014347657402/photo/1",
+              "media_key": "3_2082458006193905665",
+              "start": 57,
+              "url": "https://t.co/2bMsZnRKqz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082458014347657402",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "两个相当暴力的RC BZD，图1是氯硝唑仑，图2是氟溴唑仑，三唑环配上硝基或者是溴，效力和起效速度就相当暴力了（ https://t.co/2bMsZnRKqz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62,
+          "following_count": 223,
+          "like_count": 303,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 145
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      }
+    ]
+  }
+}

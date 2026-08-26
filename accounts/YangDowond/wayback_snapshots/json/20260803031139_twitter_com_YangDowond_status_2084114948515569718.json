@@ -1,0 +1,211 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2084084716232413309",
+    "created_at": "2026-08-03T03:11:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-03T04:11:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084114948515569718"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547812257676963840",
+          "start": 0,
+          "username": "YLS69979546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084114948515569718",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084113902166851598",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YLS69979546 应该是有用的\n洛派丁胺那个对于肠道miu受体的效力相当强了（要这么说其实洛派丁胺和芬太尼都算兄弟了，都是保罗杨森差不多同时候从哌替啶衍生搞出的）\n毕竟如果配合p糖蛋白抑制剂加上高剂量洛派丁胺把一部分强行挤进血脑屏障产生的效力都接近羟考酮了，但那样玩的话会雷霆便秘以及有心脏毒性（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2084084716232413309",
+        "created_at": "2026-08-03T03:11:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084114948515569718"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084114948515569718",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084113902166851598",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 应该是有用的\n洛派丁胺那个对于肠道miu受体的效力相当强了（要这么说其实洛派丁胺和芬太尼都算兄弟了，都是保罗杨森差不多同时候从哌替啶衍生搞出的）\n毕竟如果配合p糖蛋白抑制剂加上高剂量洛派丁胺把一部分强行挤进血脑屏障产生的效力都接近羟考酮了，但那样玩的话会雷霆便秘以及有心脏毒性（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2084084716232413309",
+        "created_at": "2026-08-03T03:07:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T04:07:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084113902166851598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084113902166851598",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084113173230256535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 腹泻是真的，我的洛哌丁胺刚到货，它最好有用，还有头痛，肌肉酸痛，身上刺挠，瞳孔扩大然后畏光……（我真不行了）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 73,
+          "following_count": 232,
+          "like_count": 325,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 177
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 483,
+          "following_count": 169,
+          "like_count": 8767,
+          "listed_count": 0,
+          "media_count": 117,
+          "tweet_count": 2104
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false
+      }
+    ]
+  }
+}

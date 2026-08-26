@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2065863303944155161",
+    "created_at": "2026-06-14T03:40:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T04:40:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066002765110022602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066002765110022602",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065863303944155161",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 美金刚真的是很好的东西，解离感，梦幻感，而且完全没有尿潴留，只是药效太长太不好掌控了（某种程度上药效长也算是优点（bushi"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2065863303944155161",
+        "created_at": "2026-06-14T03:40:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T04:40:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066002765110022602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066002765110022602",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065863303944155161",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 美金刚真的是很好的东西，解离感，梦幻感，而且完全没有尿潴留，只是药效太长太不好掌控了（某种程度上药效长也算是优点（bushi"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2065863303944155161",
+        "created_at": "2026-06-13T18:26:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T19:26:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065863303944155161"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065863303944155161",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 66,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "唉兄弟们想吃美金刚"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 159,
+          "like_count": 195,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 42
+        },
+        "username": "YangDowond",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "祝你幸福(´▽｀)｜喜欢我给我散烟｜婊子/艾草名單❤️@D_D_ovo_｜v的媽媽們@misakinae8964 @rinko_zero8964｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 27,
+                "username": "D_D_ovo_"
+              },
+              {
+                "end": 56,
+                "start": 42,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 72,
+                "start": 57,
+                "username": "rinko_zero8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "http://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/C8DJQnD8y9"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "树叶 海边 你的肩膀",
+        "name": "胃口呕呲呲呲呲！！",
+        "pinned_tweet_id": "2065030827835289833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2052293655466323968/tRrr7IFd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4604,
+          "following_count": 389,
+          "like_count": 24685,
+          "listed_count": 19,
+          "media_count": 1359,
+          "tweet_count": 17180
+        },
+        "url": "https://t.co/C8DJQnD8y9",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

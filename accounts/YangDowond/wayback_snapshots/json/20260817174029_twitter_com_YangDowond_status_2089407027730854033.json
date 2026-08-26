@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2089201591052288292",
+    "created_at": "2026-08-17T17:40:29.000Z",
+    "display_text_range": [
+      8,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-17T18:40:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089407027730854033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2087800472812085248",
+          "start": 0,
+          "username": "xccpme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089407027730854033",
+    "in_reply_to_user_id": "2087800472812085248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089201591052288292",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xccpme 盐野义我是真不敢买（我也不知道为啥，就是不敢）反倒是bron买了不少"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2089201584085618688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP5VxYubUAAJ2vp.jpg",
+        "width": 472
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2089201591052288292",
+        "created_at": "2026-08-17T17:40:29.000Z",
+        "display_text_range": [
+          8,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T18:40:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089407027730854033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2087800472812085248",
+              "start": 0,
+              "username": "xccpme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089407027730854033",
+        "in_reply_to_user_id": "2087800472812085248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089201591052288292",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpme 盐野义我是真不敢买（我也不知道为啥，就是不敢）反倒是bron买了不少"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2089201584085618688"
+          ]
+        },
+        "author_id": "2087800472812085248",
+        "conversation_id": "2089201591052288292",
+        "created_at": "2026-08-17T04:04:09.000Z",
+        "display_text_range": [
+          0,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-17T05:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089201591052288292"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pevgdhYezo",
+              "end": 45,
+              "expanded_url": "https://x.com/xccpme/status/2089201591052288292/photo/1",
+              "media_key": "3_2089201584085618688",
+              "start": 22,
+              "url": "https://t.co/pevgdhYezo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089201591052288292",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2089201584085618688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 428,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "速报：某度品又上架pdd，想要的赶快下单🥲 https://t.co/pevgdhYezo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2089407027730854033",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 222,
+          "like_count": 374,
+          "listed_count": 0,
+          "media_count": 42,
+          "tweet_count": 272
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-13T07:17:30.000Z",
+        "description": "这都是要应验的，不要干这种事情（寻回互fo",
+        "id": "2087800472812085248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089201591052288292",
+        "name": "担麦人的3.0",
+        "pinned_tweet_id": "2087824736977871176",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087800472812085248/1786621191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087801248976449536/hGRALSUT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 111,
+          "following_count": 115,
+          "like_count": 18,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "xccpme",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

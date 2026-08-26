@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2064737522262126721",
+    "created_at": "2026-06-10T16:59:52.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-10T17:59:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064754431326122473"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847712034361659392",
+          "start": 0,
+          "username": "OD_Sakura23333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064754431326122473",
+    "in_reply_to_user_id": "1847712034361659392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064737522262126721",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OD_Sakura23333 其实这玩意还是有特殊玩法的…有一次吃了不多不少的剂量，🦌的时候会极大提高阈值，到巅峰的时候会产生很夸张的爽感（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2064736640434933760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKdrCPfbkAANSVo.jpg",
+        "width": 1244
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2064737522262126721",
+        "created_at": "2026-06-10T16:59:52.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T17:59:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064754431326122473"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847712034361659392",
+              "start": 0,
+              "username": "OD_Sakura23333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064754431326122473",
+        "in_reply_to_user_id": "1847712034361659392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064737522262126721",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OD_Sakura23333 其实这玩意还是有特殊玩法的…有一次吃了不多不少的剂量，🦌的时候会极大提高阈值，到巅峰的时候会产生很夸张的爽感（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064736640434933760"
+          ]
+        },
+        "author_id": "1847712034361659392",
+        "conversation_id": "2064737522262126721",
+        "created_at": "2026-06-10T15:52:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-10T16:52:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064737522262126721"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7kvvLjRNWF",
+              "end": 167,
+              "expanded_url": "https://x.com/OD_Sakura23333/status/2064737522262126721/photo/1",
+              "media_key": "3_2064736640434933760",
+              "start": 144,
+              "url": "https://t.co/7kvvLjRNWF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064737522262126721",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 201,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "SSRI抗抑郁药 不聊机理 聊点不一样的 众所周知，关注我的，大多数都有心理问题，去医院医生通常会开舍曲林这类🤣🤣\n对于普通人来说足够了，可以让你有思考生命的意义，但对于精神病来说可能没用或者变人机\n\n国内医生追求维稳，不管是抑郁症还是情感障碍，他们觉得只要你的大脑静止了就不会做任何事 https://t.co/7kvvLjRNWF"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 155,
+          "like_count": 184,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 40
+        },
+        "username": "YangDowond",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-19T18:51:20.000Z",
+        "description": "02 | ♂ |リスカ| OD | 病み垢 | 抗うつ | くず\n | 希死念慮 | 情緒不安定\n药物科普网站:https://t.co/rSxE9OBY6f",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 79,
+                "expanded_url": "https://jile.bid/",
+                "start": 56,
+                "url": "https://t.co/rSxE9OBY6f"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pr80.bid",
+                "end": 23,
+                "expanded_url": "https://www.pr80.bid/",
+                "start": 0,
+                "url": "https://t.co/iTaosAO9RF"
+              }
+            ]
+          }
+        },
+        "id": "1847712034361659392",
+        "name": "Sakura⚛️",
+        "pinned_tweet_id": "2059552139131916649",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059942253020459008/BuhfSavd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 1445,
+          "like_count": 25475,
+          "listed_count": 2,
+          "media_count": 154,
+          "tweet_count": 3324
+        },
+        "url": "https://t.co/iTaosAO9RF",
+        "username": "OD_Sakura23333",
+        "verified": false
+      }
+    ]
+  }
+}

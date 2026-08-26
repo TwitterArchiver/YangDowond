@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2088247351161090133",
+    "created_at": "2026-08-14T14:31:01.000Z",
+    "display_text_range": [
+      13,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T15:31:01.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088272182233452558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547812257676963840",
+          "start": 0,
+          "username": "YLS69979546"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088272182233452558",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088247351161090133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YLS69979546 慢慢戒bzd吧孩子！来投入肾上腺素自激动剂（可乐定，右美托咪定）的怀抱吧！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2510,
+        "media_key": "3_2088247332508987393",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPrx4ola8AEnmRF.jpg",
+        "width": 1156
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2088247351161090133",
+        "created_at": "2026-08-14T14:31:01.000Z",
+        "display_text_range": [
+          13,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T15:31:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088272182233452558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088272182233452558",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088247351161090133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 慢慢戒bzd吧孩子！来投入肾上腺素自激动剂（可乐定，右美托咪定）的怀抱吧！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088247332508987393"
+          ]
+        },
+        "author_id": "1547812257676963840",
+        "conversation_id": "2088247351161090133",
+        "created_at": "2026-08-14T12:52:20.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T13:52:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088247351161090133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/LMsKNXntxe",
+              "end": 61,
+              "expanded_url": "https://x.com/YLS69979546/status/2088247351161090133/photo/1",
+              "media_key": "3_2088247332508987393",
+              "start": 38,
+              "url": "https://t.co/LMsKNXntxe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088247351161090133",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088247332508987393"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 104,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这很矛盾，我真的不知道自己到底什么东西戒断了，这个阿普啊，反正是不能多吃了 https://t.co/LMsKNXntxe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2088272182233452558",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 198,
+          "like_count": 368,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 230
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088264791848812651",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 546,
+          "following_count": 229,
+          "like_count": 9758,
+          "listed_count": 0,
+          "media_count": 130,
+          "tweet_count": 2627
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

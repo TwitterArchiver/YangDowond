@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2090356936315461743",
+    "created_at": "2026-08-20T08:39:15.000Z",
+    "display_text_range": [
+      12,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T09:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090357986103562516"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2089968476790128640",
+          "start": 0,
+          "username": "leaf1loveu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090357986103562516",
+    "in_reply_to_user_id": "2089968476790128640",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090356936315461743",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@leaf1loveu 越是和所谓的熟人交流就越是耗费精力啊…本就不多的精力还要被人情世故消耗掉一大部分…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2090356902798737408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQJwhyUawAA3rFr.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2090356936315461743",
+        "created_at": "2026-08-20T08:39:15.000Z",
+        "display_text_range": [
+          12,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090357986103562516"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2089968476790128640",
+              "start": 0,
+              "username": "leaf1loveu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090357986103562516",
+        "in_reply_to_user_id": "2089968476790128640",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090356936315461743",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@leaf1loveu 越是和所谓的熟人交流就越是耗费精力啊…本就不多的精力还要被人情世故消耗掉一大部分…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090356902798737408"
+          ]
+        },
+        "author_id": "2089968476790128640",
+        "conversation_id": "2090356936315461743",
+        "created_at": "2026-08-20T08:35:05.000Z",
+        "display_text_range": [
+          0,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T09:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090356936315461743"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aorGKj5c4O",
+              "end": 86,
+              "expanded_url": "https://x.com/leaf1loveu/status/2090356936315461743/photo/1",
+              "media_key": "3_2090356902798737408",
+              "start": 63,
+              "url": "https://t.co/aorGKj5c4O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090356936315461743",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090356902798737408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "相当讨厌住镇上。因为每次出门会遇到一堆亲戚。可是我都不知道要叫他们什么，只知道有这么个亲戚。我真想逃到一个没人认识我的城市去 https://t.co/aorGKj5c4O"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2090357986103562516",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 256,
+          "like_count": 381,
+          "listed_count": 0,
+          "media_count": 47,
+          "tweet_count": 314
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T06:53:23.000Z",
+        "description": "我该用几行字才能写尽我一生的痛楚。\n\n前世@leaf11loveu\n\nhttps://t.co/olDOaMTObs",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 21,
+                "username": "leaf11loveu"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/leaf0911",
+                "end": 58,
+                "expanded_url": "http://t.me/leaf0911",
+                "start": 35,
+                "url": "https://t.co/olDOaMTObs"
+              }
+            ]
+          }
+        },
+        "id": "2089968476790128640",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2090356936315461743",
+        "name": "叶子大帝二世",
+        "pinned_tweet_id": "2090205299936227642",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089969151196442624/sh9OOA6b_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 84,
+          "following_count": 177,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 60
+        },
+        "url": "",
+        "username": "leaf1loveu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

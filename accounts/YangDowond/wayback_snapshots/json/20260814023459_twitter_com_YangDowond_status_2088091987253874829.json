@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088091973458726912",
+        "3_2088091973462994944"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      }
+    ],
+    "conversation_id": "2088091987253874829",
+    "created_at": "2026-08-14T02:34:59.000Z",
+    "display_text_range": [
+      0,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T03:34:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088091987253874829"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/6rXIuWSIZ2",
+          "end": 44,
+          "expanded_url": "https://x.com/YangDowond/status/2088091987253874829/photo/1",
+          "media_key": "3_2088091973458726912",
+          "start": 21,
+          "url": "https://t.co/6rXIuWSIZ2"
+        },
+        {
+          "display_url": "pic.x.com/6rXIuWSIZ2",
+          "end": 44,
+          "expanded_url": "https://x.com/YangDowond/status/2088091987253874829/photo/1",
+          "media_key": "3_2088091973462994944",
+          "start": 21,
+          "url": "https://t.co/6rXIuWSIZ2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088091987253874829",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088091973458726912"
+      },
+      {
+        "media_key": "3_2088091973462994944"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "oder单兵作战口粮（）\n今天天气真不错 https://t.co/6rXIuWSIZ2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088091973458726912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpkljBaEAAqWTy.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2088091973462994944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpkljCbMAAdhu_.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088091973458726912",
+            "3_2088091973462994944"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2088091987253874829",
+        "created_at": "2026-08-14T02:34:59.000Z",
+        "display_text_range": [
+          0,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T03:34:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088091987253874829"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6rXIuWSIZ2",
+              "end": 44,
+              "expanded_url": "https://x.com/YangDowond/status/2088091987253874829/photo/1",
+              "media_key": "3_2088091973458726912",
+              "start": 21,
+              "url": "https://t.co/6rXIuWSIZ2"
+            },
+            {
+              "display_url": "pic.x.com/6rXIuWSIZ2",
+              "end": 44,
+              "expanded_url": "https://x.com/YangDowond/status/2088091987253874829/photo/1",
+              "media_key": "3_2088091973462994944",
+              "start": 21,
+              "url": "https://t.co/6rXIuWSIZ2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088091987253874829",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088091973458726912"
+          },
+          {
+            "media_key": "3_2088091973462994944"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "oder单兵作战口粮（）\n今天天气真不错 https://t.co/6rXIuWSIZ2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2088091987253874829",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 199,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 228
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

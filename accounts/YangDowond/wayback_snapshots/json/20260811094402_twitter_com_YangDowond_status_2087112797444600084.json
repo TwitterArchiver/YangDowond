@@ -1,0 +1,475 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Xi Jinping",
+          "id": "852769182315761664",
+          "name": "Xi Jinping"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2087112797444600084",
+    "created_at": "2026-08-11T09:44:02.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T10:44:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2087112797444600084"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/gfwfrog/status…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/gfwfrog/status/2086817760571465995",
+          "start": 30,
+          "url": "https://t.co/AB82onQaBq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087112797444600084",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086817760571465995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "“氟哌啶醇”“患者未诉不适”，大概是锥体外系抽过去了吧（） https://t.co/AB82onQaBq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 736,
+        "media_key": "3_2086817752866545664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPXdsJaW4AAaqq1.jpg",
+        "width": 896
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2087112797444600084",
+        "created_at": "2026-08-11T09:44:02.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T10:44:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087112797444600084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/gfwfrog/status…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/gfwfrog/status/2086817760571465995",
+              "start": 30,
+              "url": "https://t.co/AB82onQaBq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087112797444600084",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086817760571465995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "“氟哌啶醇”“患者未诉不适”，大概是锥体外系抽过去了吧（） https://t.co/AB82onQaBq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086817752866545664"
+          ]
+        },
+        "author_id": "1239457591417171973",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2086817760571465995",
+        "created_at": "2026-08-10T14:11:39.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T15:11:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086817760571465995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/U7fYA47CfJ",
+              "end": 42,
+              "expanded_url": "https://x.com/GFWfrog/status/2086817760571465995/photo/1",
+              "media_key": "3_2086817752866545664",
+              "start": 19,
+              "url": "https://t.co/U7fYA47CfJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086817760571465995",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086817752866545664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 61,
+          "impression_count": 61370,
+          "like_count": 564,
+          "quote_count": 2,
+          "reply_count": 63,
+          "retweet_count": 19
+        },
+        "reply_settings": "everyone",
+        "text": "习近平，我要和你吃牛肉啊啊啊啊🤤😍😍 https://t.co/U7fYA47CfJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2087112797444600084",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 199,
+          "like_count": 355,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 221
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-03-16T07:44:59.000Z",
+        "description": "欢迎私信 或 https://t.co/aVPvX0T16B 网页投稿🐸 邮箱：gfwfrog@gmail.com 习近平粉丝群：https://t.co/tzbqdA1XzO\n电报频道：https://t.co/Evu48wn45r",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "gfwbao.com",
+                "end": 30,
+                "expanded_url": "http://gfwbao.com",
+                "start": 7,
+                "url": "https://t.co/aVPvX0T16B"
+              },
+              {
+                "display_url": "t.me/SpeedUpCN",
+                "end": 88,
+                "expanded_url": "http://t.me/SpeedUpCN",
+                "start": 65,
+                "url": "https://t.co/tzbqdA1XzO"
+              },
+              {
+                "display_url": "t.me/XueXi_China",
+                "end": 117,
+                "expanded_url": "http://t.me/XueXi_China",
+                "start": 94,
+                "url": "https://t.co/Evu48wn45r"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "GFWbao.com",
+                "end": 23,
+                "expanded_url": "http://GFWbao.com",
+                "start": 0,
+                "url": "https://t.co/B3cyU85Q3u"
+              }
+            ]
+          }
+        },
+        "id": "1239457591417171973",
+        "is_identity_verified": false,
+        "location": "墙国",
+        "most_recent_tweet_id": "2086824557994770459",
+        "name": "墙国蛙哈哈🐸",
+        "pinned_tweet_id": "2076263891802136889",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1239457591417171973/1764695865",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050371764165767168/HypsUXGy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 267888,
+          "following_count": 2566,
+          "like_count": 131624,
+          "listed_count": 933,
+          "media_count": 7814,
+          "tweet_count": 14625
+        },
+        "url": "https://t.co/B3cyU85Q3u",
+        "username": "GFWfrog",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

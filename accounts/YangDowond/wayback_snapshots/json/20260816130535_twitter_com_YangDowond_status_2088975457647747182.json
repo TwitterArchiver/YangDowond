@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088975447338156032"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2088975457647747182",
+    "created_at": "2026-08-16T13:05:35.000Z",
+    "display_text_range": [
+      0,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T14:05:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088975457647747182"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AonOa549nJ",
+          "end": 38,
+          "expanded_url": "https://x.com/YangDowond/status/2088975457647747182/photo/1",
+          "media_key": "3_2088975447338156032",
+          "start": 15,
+          "url": "https://t.co/AonOa549nJ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088975457647747182",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088975447338156032"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "在我爸的抽屉里面开出金了（） https://t.co/AonOa549nJ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088975447338156032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP2IGfsagAAA2pE.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088975447338156032"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2088975457647747182",
+        "created_at": "2026-08-16T13:05:35.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T14:05:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088975457647747182"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AonOa549nJ",
+              "end": 38,
+              "expanded_url": "https://x.com/YangDowond/status/2088975457647747182/photo/1",
+              "media_key": "3_2088975447338156032",
+              "start": 15,
+              "url": "https://t.co/AonOa549nJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088975457647747182",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088975447338156032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在我爸的抽屉里面开出金了（） https://t.co/AonOa549nJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2088975457647747182",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 87,
+          "following_count": 200,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 244
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

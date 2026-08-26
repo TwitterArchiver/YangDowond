@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090982960753500161"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2090982973411926472",
+    "created_at": "2026-08-22T02:02:44.000Z",
+    "display_text_range": [
+      0,
+      128
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-22T03:02:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090982973411926472"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/AHTPsPg6m2",
+          "end": 152,
+          "expanded_url": "https://x.com/YangDowond/status/2090982973411926472/photo/1",
+          "media_key": "3_2090982960753500161",
+          "start": 129,
+          "url": "https://t.co/AHTPsPg6m2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090982973411926472",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090982960753500161"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "今天的菜单是阿普唑仑和喹硫平\n阿普和劳拉我属于是来回轮换（）\n喹硫平克心境障碍（还没到双相障碍的地步）还是有一手的，确实是玩兴奋剂的标准的昏睡下机药，但有些过于昏睡了\n这回狠玩alp吧，说实话真想尝尝辉瑞的原版Xanax，一大长片2mg，美服玩的就是狠（） https://t.co/AHTPsPg6m2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2090982960753500161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQSp7J8bYAEJ-L7.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090982960753500161"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2090982973411926472",
+        "created_at": "2026-08-22T02:02:44.000Z",
+        "display_text_range": [
+          0,
+          128
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-22T03:02:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090982973411926472"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AHTPsPg6m2",
+              "end": 152,
+              "expanded_url": "https://x.com/YangDowond/status/2090982973411926472/photo/1",
+              "media_key": "3_2090982960753500161",
+              "start": 129,
+              "url": "https://t.co/AHTPsPg6m2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090982973411926472",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090982960753500161"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天的菜单是阿普唑仑和喹硫平\n阿普和劳拉我属于是来回轮换（）\n喹硫平克心境障碍（还没到双相障碍的地步）还是有一手的，确实是玩兴奋剂的标准的昏睡下机药，但有些过于昏睡了\n这回狠玩alp吧，说实话真想尝尝辉瑞的原版Xanax，一大长片2mg，美服玩的就是狠（） https://t.co/AHTPsPg6m2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2090982973411926472",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 126,
+          "following_count": 275,
+          "like_count": 389,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 330
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

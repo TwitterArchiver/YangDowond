@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2070456212991488208",
+    "created_at": "2026-06-26T19:14:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T20:14:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070586597029056925"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1868205822511288320",
+          "start": 0,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070586597029056925",
+    "in_reply_to_user_id": "1868205822511288320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070456212991488208",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@vicoOci_Olvidar 明明该是青春感的夏天却总是让人感到无所适从…好害怕夏天那种不知道未来的迷茫感😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2070456212991488208",
+        "created_at": "2026-06-26T19:14:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T20:14:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070586597029056925"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1868205822511288320",
+              "start": 0,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070586597029056925",
+        "in_reply_to_user_id": "1868205822511288320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070456212991488208",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@vicoOci_Olvidar 明明该是青春感的夏天却总是让人感到无所适从…好害怕夏天那种不知道未来的迷茫感😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1868205822511288320",
+        "conversation_id": "2070456212991488208",
+        "created_at": "2026-06-26T10:36:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T11:36:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2070456212991488208"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070456212991488208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 384,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "夏天对于中国的孩子是特殊的\n中考 高考 毕业 成年前 \n所有重大人生转折都发生在夏天\n无处可藏的炎热意味着过往的终结和新生活的开放，逼迫着对成熟毫无心理准备的我们往前走"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 165,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 58
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "當我感到最幸福時我會把五顆星星都塗滿★ ★ ★ ☆ ☆ ｜刷了半天的X就她的主頁能打✈️了@D_D_ovO_｜cutie🌻：@saksamalah2nd｜v的媽媽們@misakinae8964 @rinko_zero8964｜歡迎視奸｜asd/gad｜我想成為你的翅膀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 76,
+                "start": 62,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 96,
+                "start": 82,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 112,
+                "start": 97,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "vico的羽毛",
+        "name": "💿我就要胃口嘔呲和ねね 因為我配",
+        "pinned_tweet_id": "2065030827835289833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4650,
+          "following_count": 404,
+          "like_count": 24883,
+          "listed_count": 19,
+          "media_count": 1418,
+          "tweet_count": 17947
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

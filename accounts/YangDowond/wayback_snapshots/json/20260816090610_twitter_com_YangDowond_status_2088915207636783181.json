@@ -1,0 +1,207 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088915199902547968",
+        "3_2088915199860604928"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2088915207636783181",
+    "created_at": "2026-08-16T09:06:10.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-16T10:06:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2088915207636783181"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3W6e4xvtUW",
+          "end": 164,
+          "expanded_url": "https://x.com/YangDowond/status/2088915207636783181/photo/1",
+          "media_key": "3_2088915199902547968",
+          "start": 141,
+          "url": "https://t.co/3W6e4xvtUW"
+        },
+        {
+          "display_url": "pic.x.com/3W6e4xvtUW",
+          "end": 164,
+          "expanded_url": "https://x.com/YangDowond/status/2088915207636783181/photo/1",
+          "media_key": "3_2088915199860604928",
+          "start": 141,
+          "url": "https://t.co/3W6e4xvtUW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088915207636783181",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088915199902547968"
+      },
+      {
+        "media_key": "3_2088915199860604928"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "各位如果看精麻列管表里可以看到一个名叫“吡仑帕奈”的药，卫材原研，它是一种抗癫痫药，一种AMPA受体拮抗剂，没有滥用价值\n那没有滥用价值为什么会被列入精二管理呢？答案是FDA给吡仑帕奈打上了超级罕见且严厉的黑框警告：拮抗 AMPA 会带来一个危险的副作用：极端的敌意和杀人倾向（） https://t.co/3W6e4xvtUW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 377,
+        "media_key": "3_2088915199902547968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1RTogbAAAA7Pw.jpg",
+        "width": 1080
+      },
+      {
+        "height": 800,
+        "media_key": "3_2088915199860604928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HP1RToWbAAARfaE.jpg",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088915199902547968",
+            "3_2088915199860604928"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2088915207636783181",
+        "created_at": "2026-08-16T09:06:10.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-16T10:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2088915207636783181"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3W6e4xvtUW",
+              "end": 164,
+              "expanded_url": "https://x.com/YangDowond/status/2088915207636783181/photo/1",
+              "media_key": "3_2088915199902547968",
+              "start": 141,
+              "url": "https://t.co/3W6e4xvtUW"
+            },
+            {
+              "display_url": "pic.x.com/3W6e4xvtUW",
+              "end": 164,
+              "expanded_url": "https://x.com/YangDowond/status/2088915207636783181/photo/1",
+              "media_key": "3_2088915199860604928",
+              "start": 141,
+              "url": "https://t.co/3W6e4xvtUW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088915207636783181",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088915199902547968"
+          },
+          {
+            "media_key": "3_2088915199860604928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "各位如果看精麻列管表里可以看到一个名叫“吡仑帕奈”的药，卫材原研，它是一种抗癫痫药，一种AMPA受体拮抗剂，没有滥用价值\n那没有滥用价值为什么会被列入精二管理呢？答案是FDA给吡仑帕奈打上了超级罕见且严厉的黑框警告：拮抗 AMPA 会带来一个危险的副作用：极端的敌意和杀人倾向（） https://t.co/3W6e4xvtUW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2088915207636783181",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 198,
+          "like_count": 370,
+          "listed_count": 0,
+          "media_count": 39,
+          "tweet_count": 242
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

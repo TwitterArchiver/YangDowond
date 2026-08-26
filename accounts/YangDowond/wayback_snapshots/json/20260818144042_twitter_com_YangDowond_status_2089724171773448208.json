@@ -1,0 +1,250 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2089695656906838427",
+    "created_at": "2026-08-18T14:40:42.000Z",
+    "display_text_range": [
+      8,
+      26
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-18T15:40:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2089724171773448208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2087800472812085248",
+          "start": 0,
+          "username": "xccpme"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2089724171773448208",
+    "in_reply_to_user_id": "2087800472812085248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2089695656906838427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xccpme 羡慕能有被表白的经历，一定会很开心吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2089695656906838427",
+        "created_at": "2026-08-18T14:40:42.000Z",
+        "display_text_range": [
+          8,
+          26
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T15:40:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2089724171773448208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2087800472812085248",
+              "start": 0,
+              "username": "xccpme"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089724171773448208",
+        "in_reply_to_user_id": "2087800472812085248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089695656906838427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xccpme 羡慕能有被表白的经历，一定会很开心吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2087800472812085248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          }
+        ],
+        "conversation_id": "2089695656906838427",
+        "created_at": "2026-08-18T12:47:23.000Z",
+        "display_text_range": [
+          0,
+          107
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-18T13:47:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2089695656906838427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/aberyoheiskm/s…",
+              "end": 131,
+              "expanded_url": "https://twitter.com/aberyoheiskm/status/2089208386546241969",
+              "start": 108,
+              "url": "https://t.co/EEW8vAPWHR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2089695656906838427",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2089208386546241969",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "名字：担麦人\n性别：男\n年龄：21\n生日：6.3\n兴趣：合理用药，od系度，偶尔画画书法\n身高：169\n体重：50多\n惯用手：右\n握力：一般\n视力：很差\n恋人：无\n血型：A\n告白次数：1\n被表白次数：2（挺久前了😢 https://t.co/EEW8vAPWHR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2089724171773448208",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 106,
+          "following_count": 235,
+          "like_count": 375,
+          "listed_count": 0,
+          "media_count": 44,
+          "tweet_count": 285
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-13T07:17:30.000Z",
+        "description": "这都是要应验的，不要干这种事情（寻回互fo",
+        "id": "2087800472812085248",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2089695656906838427",
+        "name": "担麦人的3.0",
+        "pinned_tweet_id": "2087824736977871176",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2087800472812085248/1786621191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087801248976449536/hGRALSUT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 110,
+          "following_count": 101,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 12
+        },
+        "url": "",
+        "username": "xccpme",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

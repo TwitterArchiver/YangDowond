@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091696817960636416"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2091696823954264479",
+    "created_at": "2026-08-24T01:19:19.000Z",
+    "display_text_range": [
+      0,
+      156
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T02:19:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091696823954264479"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/bwZm9rqt8V",
+          "end": 180,
+          "expanded_url": "https://x.com/YangDowond/status/2091696823954264479/photo/1",
+          "media_key": "3_2091696817960636416",
+          "start": 157,
+          "url": "https://t.co/bwZm9rqt8V"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091696823954264479",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2091696817960636416"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "一般公认最强解离剂（NMDA拮抗剂）是诞生在80年代默沙东的实验性化合物-MK-801\n但在它之上衍生出了名为BQ-869的化合物，由中科院上海药物研究所首次合成，复旦大学的研究团队在 2015年首次在文献中描述了它\n它很可能在效力上超越了MK-801，但目前还缺乏受体亲和力测定，所以我们也并不能确定它是最强的 https://t.co/bwZm9rqt8V"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 400,
+        "media_key": "3_2091696817960636416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQczLHRb0AAv2Mv.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091696817960636416"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2091696823954264479",
+        "created_at": "2026-08-24T01:19:19.000Z",
+        "display_text_range": [
+          0,
+          156
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T02:19:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091696823954264479"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bwZm9rqt8V",
+              "end": 180,
+              "expanded_url": "https://x.com/YangDowond/status/2091696823954264479/photo/1",
+              "media_key": "3_2091696817960636416",
+              "start": 157,
+              "url": "https://t.co/bwZm9rqt8V"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091696823954264479",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091696817960636416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一般公认最强解离剂（NMDA拮抗剂）是诞生在80年代默沙东的实验性化合物-MK-801\n但在它之上衍生出了名为BQ-869的化合物，由中科院上海药物研究所首次合成，复旦大学的研究团队在 2015年首次在文献中描述了它\n它很可能在效力上超越了MK-801，但目前还缺乏受体亲和力测定，所以我们也并不能确定它是最强的 https://t.co/bwZm9rqt8V"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2091696823954264479",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 154,
+          "following_count": 296,
+          "like_count": 399,
+          "listed_count": 1,
+          "media_count": 59,
+          "tweet_count": 382
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

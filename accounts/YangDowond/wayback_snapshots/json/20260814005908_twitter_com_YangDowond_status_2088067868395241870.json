@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2088067859247419392",
+        "3_2088067859247448064"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2087894461301104914",
+    "created_at": "2026-08-14T00:59:08.000Z",
+    "display_text_range": [
+      16,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-14T01:59:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088067868395241870"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1704469304077611008",
+          "start": 0,
+          "username": "jiaoyanboluooo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/ERvrKWFICW",
+          "end": 76,
+          "expanded_url": "https://x.com/YangDowond/status/2088067868395241870/photo/1",
+          "media_key": "3_2088067859247419392",
+          "start": 53,
+          "url": "https://t.co/ERvrKWFICW"
+        },
+        {
+          "display_url": "pic.x.com/ERvrKWFICW",
+          "end": 76,
+          "expanded_url": "https://x.com/YangDowond/status/2088067868395241870/photo/1",
+          "media_key": "3_2088067859247448064",
+          "start": 53,
+          "url": "https://t.co/ERvrKWFICW"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088067868395241870",
+    "in_reply_to_user_id": "1704469304077611008",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2088067859247419392"
+      },
+      {
+        "media_key": "3_2088067859247448064"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2087894461301104914",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jiaoyanboluooo 可以买这个，晖致（独立的原辉瑞仿制药部门）的巴氯芬，大包装吃起来更爽（） https://t.co/ERvrKWFICW"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2088067859247419392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpOp6laUAA88da.jpg",
+        "width": 1536
+      },
+      {
+        "height": 824,
+        "media_key": "3_2088067859247448064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPpOp6lawAA4efQ.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1514,
+        "media_key": "3_2087894448906907648",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPmw8GubMAAaIlf.jpg",
+        "width": 1290
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2088067859247419392",
+            "3_2088067859247448064"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2087894461301104914",
+        "created_at": "2026-08-14T00:59:08.000Z",
+        "display_text_range": [
+          16,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-14T01:59:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088067868395241870"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1704469304077611008",
+              "start": 0,
+              "username": "jiaoyanboluooo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ERvrKWFICW",
+              "end": 76,
+              "expanded_url": "https://x.com/YangDowond/status/2088067868395241870/photo/1",
+              "media_key": "3_2088067859247419392",
+              "start": 53,
+              "url": "https://t.co/ERvrKWFICW"
+            },
+            {
+              "display_url": "pic.x.com/ERvrKWFICW",
+              "end": 76,
+              "expanded_url": "https://x.com/YangDowond/status/2088067868395241870/photo/1",
+              "media_key": "3_2088067859247448064",
+              "start": 53,
+              "url": "https://t.co/ERvrKWFICW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088067868395241870",
+        "in_reply_to_user_id": "1704469304077611008",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2088067859247419392"
+          },
+          {
+            "media_key": "3_2088067859247448064"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2087894461301104914",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jiaoyanboluooo 可以买这个，晖致（独立的原辉瑞仿制药部门）的巴氯芬，大包装吃起来更爽（） https://t.co/ERvrKWFICW"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2087894448906907648"
+          ]
+        },
+        "author_id": "1704469304077611008",
+        "conversation_id": "2087894461301104914",
+        "created_at": "2026-08-13T13:30:05.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T14:30:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2087894461301104914"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YSKVp8UpqE",
+              "end": 41,
+              "expanded_url": "https://x.com/jiaoyanboluooo/status/2087894461301104914/photo/1",
+              "media_key": "3_2087894448906907648",
+              "start": 18,
+              "url": "https://t.co/YSKVp8UpqE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087894461301104914",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2087894448906907648"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 1923,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "为什么全平台都找不到这个药了😭😭😭 https://t.co/YSKVp8UpqE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2088067868395241870",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 85,
+          "following_count": 199,
+          "like_count": 365,
+          "listed_count": 0,
+          "media_count": 36,
+          "tweet_count": 227
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-20T12:15:32.000Z",
+        "description": "ISFP/mtf/生产日期7.24/od/双相喵？/臭蝈蝻/🏳️‍⚧️/steam好友码：1737257608/三角洲UID:54317480744297644809\r／究极无敌大抖m 或sub？/无证含糖/不要靠近我，我只会让你伤心/主人@Amour761\n给我发送匿名消息！ ↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 129,
+                "start": 120,
+                "username": "Amour761"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/jiaoyanboluooo1",
+                "end": 23,
+                "expanded_url": "https://ngl.link/jiaoyanboluooo1",
+                "start": 0,
+                "url": "https://t.co/DbZcrDCjo5"
+              }
+            ]
+          }
+        },
+        "id": "1704469304077611008",
+        "is_identity_verified": false,
+        "location": "狗笼里",
+        "most_recent_tweet_id": "2088038004707434520",
+        "name": "椒盐菠萝🍥",
+        "pinned_tweet_id": "2079594082041823465",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1704469304077611008/1736569625",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040790835063881728/wk-qi4m1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5616,
+          "following_count": 4574,
+          "like_count": 33267,
+          "listed_count": 14,
+          "media_count": 1624,
+          "tweet_count": 7098
+        },
+        "url": "https://t.co/DbZcrDCjo5",
+        "username": "jiaoyanboluooo",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

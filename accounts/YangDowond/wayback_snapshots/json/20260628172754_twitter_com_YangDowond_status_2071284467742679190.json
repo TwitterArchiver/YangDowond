@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2071284467742679190",
+    "created_at": "2026-06-28T17:27:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-28T18:27:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2071284467742679190"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/taoistyouth/st…",
+          "end": 35,
+          "expanded_url": "https://twitter.com/taoistyouth/status/2071162113931031039",
+          "start": 12,
+          "url": "https://t.co/KhmuE3Iegq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071284467742679190",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2071162113931031039",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好了，千问账号被封掉力 https://t.co/KhmuE3Iegq"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2071162111758307328",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HL4-95eaEAAx0OB.jpg",
+        "width": 746
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2071284467742679190",
+        "created_at": "2026-06-28T17:27:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T18:27:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071284467742679190"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/taoistyouth/st…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/taoistyouth/status/2071162113931031039",
+              "start": 12,
+              "url": "https://t.co/KhmuE3Iegq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071284467742679190",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2071162113931031039",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好了，千问账号被封掉力 https://t.co/KhmuE3Iegq"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2071162111758307328"
+          ]
+        },
+        "author_id": "2048745058804105216",
+        "conversation_id": "2071162113931031039",
+        "created_at": "2026-06-28T09:21:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-28T10:21:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2071162113931031039"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/JqwMvox1IQ",
+              "end": 47,
+              "expanded_url": "https://x.com/TaoistYouth/status/2071162113931031039/photo/1",
+              "media_key": "3_2071162111758307328",
+              "start": 24,
+              "url": "https://t.co/JqwMvox1IQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071162113931031039",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 323,
+          "impression_count": 504589,
+          "like_count": 1292,
+          "quote_count": 2,
+          "reply_count": 280,
+          "retweet_count": 56
+        },
+        "reply_settings": "everyone",
+        "text": "墙内网友估计一辈子都想不透这五个词为何违规🤣🤣 https://t.co/JqwMvox1IQ"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 167,
+          "like_count": 214,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 63
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-27T12:44:34.000Z",
+        "description": "右翼自由派/永远铭记六四/\n一入玄门终不悔，永做三清不二臣/\n日本留学生/道教善信☯/友跨非跨🏳️‍⚧️/\n小粉红行为特征如下：\n1. 行为割裂：翻墙享受言论自由，精神筑墙赞美信息禁锢。\n2.认知防卫：逻辑无法自洽时，迅速启动宏大叙事与自我感动催眠。\n3.去智识化：无法进行逻辑辩论，只会扣帽、比烂、人身攻击与举报",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/status/20682…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/status/2068245264130093343",
+                "start": 0,
+                "url": "https://t.co/tdMqKrrl6Y"
+              }
+            ]
+          }
+        },
+        "id": "2048745058804105216",
+        "location": "日本东京",
+        "name": "☯︎Taoist Youth🇨🇳🇯🇵",
+        "pinned_tweet_id": "2062141364662636669",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2048750584791171072/wJ8bgXnt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 296,
+          "following_count": 244,
+          "like_count": 7369,
+          "listed_count": 4,
+          "media_count": 244,
+          "tweet_count": 2494
+        },
+        "url": "https://t.co/tdMqKrrl6Y",
+        "username": "TaoistYouth",
+        "verified": false
+      }
+    ]
+  }
+}

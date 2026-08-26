@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2086154753554477246",
+    "created_at": "2026-08-10T03:10:10.000Z",
+    "display_text_range": [
+      12,
+      57
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T04:10:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086651291225469315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "bp01110526"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086651291225469315",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086632152012333247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bp01110526 这种制剂貌似美国还蛮多的，医院现在都倾向于用预填充，省去抽药的步骤，还能避免很多针刺伤（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2086154753554477246",
+        "created_at": "2026-08-10T03:10:10.000Z",
+        "display_text_range": [
+          12,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:10:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086651291225469315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "bp01110526"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086651291225469315",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086632152012333247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bp01110526 这种制剂貌似美国还蛮多的，医院现在都倾向于用预填充，省去抽药的步骤，还能避免很多针刺伤（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859117911119720448",
+        "conversation_id": "2086154753554477246",
+        "created_at": "2026-08-10T01:54:07.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:54:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086632152012333247"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086632152012333247",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 15,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086154753554477246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 精了 居然还有这种制剂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2086651291225469315",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80,
+          "following_count": 195,
+          "like_count": 347,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 211
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "🚪\n99 纯绿\n199半绿",
+        "id": "1859117911119720448",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2086643299813904611",
+        "name": "bp",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 99,
+          "following_count": 104,
+          "like_count": 8033,
+          "listed_count": 2,
+          "media_count": 282,
+          "tweet_count": 4295
+        },
+        "url": "",
+        "username": "bp01110526",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

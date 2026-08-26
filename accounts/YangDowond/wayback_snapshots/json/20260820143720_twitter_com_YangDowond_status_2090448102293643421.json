@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2090448092768485376"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2090448102293643421",
+    "created_at": "2026-08-20T14:37:20.000Z",
+    "display_text_range": [
+      0,
+      56
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T15:37:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2090448102293643421"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/dOqo2ktVfa",
+          "end": 80,
+          "expanded_url": "https://x.com/YangDowond/status/2090448102293643421/photo/1",
+          "media_key": "3_2090448092768485376",
+          "start": 57,
+          "url": "https://t.co/dOqo2ktVfa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090448102293643421",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2090448092768485376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "我尼玛收拾屋子怎么啥都有啊，这我啥时候买的N2O啊（）\n请大家一定不要滥用它，就让它本本分分发挥打发奶油的作用！ https://t.co/dOqo2ktVfa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2090448092768485376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQLDdvbbwAARqMM.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2090448092768485376"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2090448102293643421",
+        "created_at": "2026-08-20T14:37:20.000Z",
+        "display_text_range": [
+          0,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T15:37:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2090448102293643421"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/dOqo2ktVfa",
+              "end": 80,
+              "expanded_url": "https://x.com/YangDowond/status/2090448102293643421/photo/1",
+              "media_key": "3_2090448092768485376",
+              "start": 57,
+              "url": "https://t.co/dOqo2ktVfa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090448102293643421",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2090448092768485376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我尼玛收拾屋子怎么啥都有啊，这我啥时候买的N2O啊（）\n请大家一定不要滥用它，就让它本本分分发挥打发奶油的作用！ https://t.co/dOqo2ktVfa"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2090448102293643421",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 261,
+          "like_count": 383,
+          "listed_count": 0,
+          "media_count": 48,
+          "tweet_count": 318
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
