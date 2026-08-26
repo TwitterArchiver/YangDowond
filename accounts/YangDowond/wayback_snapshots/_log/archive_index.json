@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-26T18:05:19",
+  "last_updated": "2026-08-26T18:05:50",
   "html": {
     "https://web.archive.org/web/20260210153902if_/https://twitter.com/YangDowond/status/2021247543737225707": {
       "status": "done",
@@ -3279,9 +3279,9 @@
       "referenced_by": [
         "20260818182023_twitter_com_YangDowond_status_2089779458073038958.json"
       ],
-      "last_updated": "2026-08-26T17:19:01",
+      "last_updated": "2026-08-26T18:05:50",
       "last_reason": "HTTPError: 404 Client Error: NOT FOUND for url: https://web.archive.org/web/20260818182023/https://video.twimg.com/amplify_video/2089776057088188416/vid/avc1/720x1280/qwXqZmcuC-Uyu_KL.mp4",
-      "miss_count": 1
+      "miss_count": 2
     }
   },
   "avatars": {
