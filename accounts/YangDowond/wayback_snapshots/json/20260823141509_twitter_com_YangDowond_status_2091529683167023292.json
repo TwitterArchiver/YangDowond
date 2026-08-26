@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2091205857057071453",
+    "created_at": "2026-08-23T14:15:09.000Z",
+    "display_text_range": [
+      17,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T15:15:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091529683167023292"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1688253554866413568",
+          "start": 0,
+          "username": "NationalPuma737"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091529683167023292",
+    "in_reply_to_user_id": "1688253554866413568",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091528676609536147",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NationalPuma737 诶嘿！是兴奋剂玩家🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2091528666480300032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQaaPaMa0AA6HSq.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2091205857057071453",
+        "created_at": "2026-08-23T14:15:09.000Z",
+        "display_text_range": [
+          17,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:15:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091529683167023292"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1688253554866413568",
+              "start": 0,
+              "username": "NationalPuma737"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091529683167023292",
+        "in_reply_to_user_id": "1688253554866413568",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091528676609536147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NationalPuma737 诶嘿！是兴奋剂玩家🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091528666480300032"
+          ]
+        },
+        "author_id": "1688253554866413568",
+        "conversation_id": "2091205857057071453",
+        "created_at": "2026-08-23T14:11:09.000Z",
+        "display_text_range": [
+          12,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:11:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091528676609536147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/q9hoPqj34W",
+              "end": 41,
+              "expanded_url": "https://x.com/NationalPuma737/status/2091528676609536147/photo/1",
+              "media_key": "3_2091528666480300032",
+              "start": 18,
+              "url": "https://t.co/q9hoPqj34W"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091528676609536147",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091528666480300032"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091205857057071453",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 請輸入文本 https://t.co/q9hoPqj34W"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2091529683167023292",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 152,
+          "following_count": 294,
+          "like_count": 398,
+          "listed_count": 0,
+          "media_count": 57,
+          "tweet_count": 373
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-06T18:20:01.000Z",
+        "description": "誕生日民國95年｜廣東話、台山話、中文、English (little bit)、日本語（勉強中）\n私訊聯絡：nationalpuma737@gmail.com",
+        "id": "1688253554866413568",
+        "is_identity_verified": false,
+        "location": "地府",
+        "most_recent_tweet_id": "2091529288373989447",
+        "name": "可不",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1688253554866413568/1784080888",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2077211868108845057/iEJLGeOJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61,
+          "following_count": 45,
+          "like_count": 14,
+          "listed_count": 0,
+          "media_count": 19,
+          "tweet_count": 154
+        },
+        "url": "",
+        "username": "NationalPuma737",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}
