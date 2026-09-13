@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2096629526302535697",
+    "created_at": "2026-09-06T16:00:07.000Z",
+    "display_text_range": [
+      0,
+      75
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:00:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096629526302535697"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/salviaswc/stat…",
+          "end": 99,
+          "expanded_url": "https://twitter.com/salviaswc/status/2096144950547067364",
+          "start": 76,
+          "url": "https://t.co/Tn1Ro4JRQm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096629526302535697",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096144950547067364",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "这个真是倒了大霉了，别说在药效里了，我就是清醒状态看那个飞机撞进大楼里都害怕，900km/h的速度撞进大楼啊！\n何况笔者还有亲人在纽约，真是太吓人了… https://t.co/Tn1Ro4JRQm"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2096144885170753536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRcAqs5a0AAQoUX.jpg",
+        "width": 1550
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2096629526302535697",
+        "created_at": "2026-09-06T16:00:07.000Z",
+        "display_text_range": [
+          0,
+          75
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:00:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096629526302535697"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/salviaswc/stat…",
+              "end": 99,
+              "expanded_url": "https://twitter.com/salviaswc/status/2096144950547067364",
+              "start": 76,
+              "url": "https://t.co/Tn1Ro4JRQm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096629526302535697",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096144950547067364",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个真是倒了大霉了，别说在药效里了，我就是清醒状态看那个飞机撞进大楼里都害怕，900km/h的速度撞进大楼啊！\n何况笔者还有亲人在纽约，真是太吓人了… https://t.co/Tn1Ro4JRQm"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096144885170753536"
+          ]
+        },
+        "author_id": "1659962043460354050",
+        "conversation_id": "2096144950547067364",
+        "created_at": "2026-09-05T07:54:35.000Z",
+        "display_text_range": [
+          0,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T08:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096144950547067364"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "FreeODwiki是一个开源项目，旨在让每一位ODer都能有效地获取和分享有关Overdose和精神活性物质的信息，并在减少上述事物对ODer造成的伤害的同时，为上述事物提供一个独特的视角。",
+              "display_url": "freeodwiki.org/%E6%8A%A5%E5%9…",
+              "end": 111,
+              "expanded_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/erowid/9661.html",
+              "start": 88,
+              "status": 200,
+              "title": "偏执、战争、药物与变形的高尔夫球杆——鸦片, 蘑菇&氢可酮 - FreeODwiki——可自由编辑的开源Overdose百科",
+              "unwound_url": "https://freeodwiki.org/%E6%8A%A5%E5%91%8A/erowid/9661.html",
+              "url": "https://t.co/RUCh97Rywh"
+            },
+            {
+              "display_url": "pic.x.com/dJeb39ooL2",
+              "end": 135,
+              "expanded_url": "https://x.com/SalviaSWC/status/2096144950547067364/photo/1",
+              "media_key": "3_2096144885170753536",
+              "start": 112,
+              "url": "https://t.co/dJeb39ooL2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096144950547067364",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096144885170753536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 47,
+          "impression_count": 11321,
+          "like_count": 149,
+          "quote_count": 6,
+          "reply_count": 61,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "药物报告——911当天的致幻剂体验\n\n作者在911当天吃下了致幻蘑菇，然后知到了世贸中心被飞机撞击的消息，害怕自己的亲人死亡，结果陷入严重bad trip状态😢\n\n文字版链接：https://t.co/RUCh97Rywh https://t.co/dJeb39ooL2"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096629526302535697",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 306,
+          "like_count": 455,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 617
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-05-20T16:39:35.000Z",
+        "description": "非必要不键政🏳️|不卖药🚫|欢迎任何人🌈|包容各种做法☮|互fo🉑🥰|没回fo的话，请私信我哦📬|\n\n脑婆:@DXM8964LXM\n\n丨药物知识开源化💊|来FreeODwiki看看吧！https://t.co/ki2TerCl7C |Say Know to Drugs 😼",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 54,
+                "username": "DXM8964LXM"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "github.com/SalviaSWC/Free…",
+                "end": 115,
+                "expanded_url": "https://github.com/SalviaSWC/FreeODwiki",
+                "start": 92,
+                "url": "https://t.co/ki2TerCl7C"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "freeodwiki.org",
+                "end": 23,
+                "expanded_url": "https://freeodwiki.org",
+                "start": 0,
+                "url": "https://t.co/20q0OtAeQd"
+              }
+            ]
+          }
+        },
+        "id": "1659962043460354050",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096591465774264628",
+        "name": "鼠尾草～🌿",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1659962043460354050/1773318440",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034583473692852224/nE4xPVUJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5462,
+          "following_count": 1021,
+          "like_count": 25627,
+          "listed_count": 10,
+          "media_count": 599,
+          "tweet_count": 8203
+        },
+        "url": "https://t.co/20q0OtAeQd",
+        "username": "SalviaSWC",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

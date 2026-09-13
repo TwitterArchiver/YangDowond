@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2096592611419255173",
+    "created_at": "2026-09-06T16:47:41.000Z",
+    "display_text_range": [
+      11,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:47:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096641498091807060"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1455168885905190917",
+          "start": 0,
+          "username": "Misawa28s"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096641498091807060",
+    "in_reply_to_user_id": "1455168885905190917",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096635596370538977",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Misawa28s pr看个人情况，巴氯芬建议不要超过5t，不然会剧烈头晕的…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2096592611419255173",
+        "created_at": "2026-09-06T16:47:41.000Z",
+        "display_text_range": [
+          11,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096641498091807060"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1455168885905190917",
+              "start": 0,
+              "username": "Misawa28s"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096641498091807060",
+        "in_reply_to_user_id": "1455168885905190917",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096635596370538977",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Misawa28s pr看个人情况，巴氯芬建议不要超过5t，不然会剧烈头晕的…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1455168885905190917",
+        "conversation_id": "2096592611419255173",
+        "created_at": "2026-09-06T16:24:14.000Z",
+        "display_text_range": [
+          12,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096635596370538977"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096635596370538977",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096592611419255173",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 普瑞配多少巴氯芬"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096641498091807060",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 306,
+          "like_count": 457,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 627
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-01T13:44:40.000Z",
+        "description": "",
+        "id": "1455168885905190917",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096635596370538977",
+        "name": "🌊🌊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1455168885905190917/1671467600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1604877446897053699/Fs1OQmtt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 54,
+          "like_count": 12,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 134
+        },
+        "url": "",
+        "username": "Misawa28s",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

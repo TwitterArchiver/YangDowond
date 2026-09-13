@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092154982388973568"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2092154988466413881",
+    "created_at": "2026-08-25T07:39:54.000Z",
+    "display_text_range": [
+      0,
+      145
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-25T08:39:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092154988466413881"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZhjJgaeIMz",
+          "end": 169,
+          "expanded_url": "https://x.com/YangDowond/status/2092154988466413881/photo/1",
+          "media_key": "3_2092154982388973568",
+          "start": 146,
+          "url": "https://t.co/ZhjJgaeIMz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092154988466413881",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092154982388973568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "关于巴氯芬的一个故事\n2000 年代一位名叫奥利维耶·阿梅森的法国心脏病专家患有严重的酒精依赖，作为一名精通药理的医生，他查阅文献后做出了一个疯狂的决定：对自己使用超大剂量（每天 270mg，以正常的药理学来看这个剂量简直是疯了）的巴氯芬\n他惊讶发现，高剂量的巴氯芬抹除了他对酒精的病态渴望 https://t.co/ZhjJgaeIMz"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 271,
+        "media_key": "3_2092154982388973568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQjT3yxbwAAvUai.jpg",
+        "width": 500
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092154982388973568"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2092154988466413881",
+        "created_at": "2026-08-25T07:39:54.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T08:39:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092154988466413881"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZhjJgaeIMz",
+              "end": 169,
+              "expanded_url": "https://x.com/YangDowond/status/2092154988466413881/photo/1",
+              "media_key": "3_2092154982388973568",
+              "start": 146,
+              "url": "https://t.co/ZhjJgaeIMz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092154988466413881",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092154982388973568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于巴氯芬的一个故事\n2000 年代一位名叫奥利维耶·阿梅森的法国心脏病专家患有严重的酒精依赖，作为一名精通药理的医生，他查阅文献后做出了一个疯狂的决定：对自己使用超大剂量（每天 270mg，以正常的药理学来看这个剂量简直是疯了）的巴氯芬\n他惊讶发现，高剂量的巴氯芬抹除了他对酒精的病态渴望 https://t.co/ZhjJgaeIMz"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2092154988466413881",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 173,
+          "following_count": 300,
+          "like_count": 402,
+          "listed_count": 0,
+          "media_count": 60,
+          "tweet_count": 394
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

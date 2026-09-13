@@ -1,0 +1,272 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2092574738099179782",
+    "created_at": "2026-08-26T19:42:03.000Z",
+    "display_text_range": [
+      13,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:42:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092699112345129044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1946132863457595392",
+          "start": 0,
+          "username": "AmieReineke"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092699112345129044",
+    "in_reply_to_user_id": "1946132863457595392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092574738099179782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmieReineke 果然dex还还得肌注啊，鼻喷总觉得哪里差了点意思（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092574724438339584",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpRn_wbsAA0Xig.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2092574738099179782",
+        "created_at": "2026-08-26T19:42:03.000Z",
+        "display_text_range": [
+          13,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:42:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092699112345129044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1946132863457595392",
+              "start": 0,
+              "username": "AmieReineke"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092699112345129044",
+        "in_reply_to_user_id": "1946132863457595392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092574738099179782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmieReineke 果然dex还还得肌注啊，鼻喷总觉得哪里差了点意思（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092574724438339584"
+          ]
+        },
+        "author_id": "1946132863457595392",
+        "conversation_id": "2092574738099179782",
+        "created_at": "2026-08-26T11:27:50.000Z",
+        "display_text_range": [
+          0,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T12:27:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092574738099179782"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hoXkNkOw5e",
+              "end": 33,
+              "expanded_url": "https://x.com/AmieReineke/status/2092574738099179782/photo/1",
+              "media_key": "3_2092574724438339584",
+              "start": 10,
+              "url": "https://t.co/hoXkNkOw5e"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092574738099179782",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092574724438339584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 313,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "睡个好觉☞𓁹-𓁹☞ https://t.co/hoXkNkOw5e"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2092699112345129044",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 257,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 409
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-18T09:00:21.000Z",
+        "description": "我只是呆着……\n前世：@classictramp\n🚪5201314",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 11,
+                "username": "classictramp"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "amazon.com/hz/wishlist/ls…",
+                "end": 23,
+                "expanded_url": "https://www.amazon.com/hz/wishlist/ls/2RVYUQ69UEC4A?ref_=wl_share",
+                "start": 0,
+                "url": "https://t.co/xhKiFIVG4p"
+              }
+            ]
+          }
+        },
+        "id": "1946132863457595392",
+        "is_identity_verified": false,
+        "location": "Stuart, FL",
+        "most_recent_tweet_id": "2092616152405209500",
+        "name": "ww",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1946132863457595392/1784302533",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2087888700663382016/-cX8Tt5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50,
+          "following_count": 87,
+          "like_count": 1000,
+          "listed_count": 0,
+          "media_count": 40,
+          "tweet_count": 237
+        },
+        "url": "https://t.co/xhKiFIVG4p",
+        "username": "AmieReineke",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

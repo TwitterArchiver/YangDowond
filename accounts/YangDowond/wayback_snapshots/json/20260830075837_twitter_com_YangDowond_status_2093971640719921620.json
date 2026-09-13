@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2093885633299419320",
+    "created_at": "2026-08-30T07:58:37.000Z",
+    "display_text_range": [
+      14,
+      147
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T08:58:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093971640719921620"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683001001043984384",
+          "start": 0,
+          "username": "TudouCn24795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093971640719921620",
+    "in_reply_to_user_id": "1683001001043984384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093967160666357782",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TudouCn24795 其实我就是直接买的兽用的，它是西林瓶存储用不完方便保存，也就是多咪静，你不嫌弃的话可以直接买这个，就是浓度高一些不太好配，其他的各项标准都是一样的，还是原研的呢（）\n你要是想买人用的话就只有安瓿制剂的，然后过程麻烦一点，你得需要p一个假处方然后去京东上面的医疗服务买"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2093885633299419320",
+        "created_at": "2026-08-30T07:58:37.000Z",
+        "display_text_range": [
+          14,
+          147
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T08:58:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093971640719921620"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683001001043984384",
+              "start": 0,
+              "username": "TudouCn24795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093971640719921620",
+        "in_reply_to_user_id": "1683001001043984384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093967160666357782",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TudouCn24795 其实我就是直接买的兽用的，它是西林瓶存储用不完方便保存，也就是多咪静，你不嫌弃的话可以直接买这个，就是浓度高一些不太好配，其他的各项标准都是一样的，还是原研的呢（）\n你要是想买人用的话就只有安瓿制剂的，然后过程麻烦一点，你得需要p一个假处方然后去京东上面的医疗服务买"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1683001001043984384",
+        "conversation_id": "2093885633299419320",
+        "created_at": "2026-08-30T07:40:49.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T08:40:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093967160666357782"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093967160666357782",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093885633299419320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 老大啊老大，求个路子（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2093971640719921620",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 278,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 78,
+          "tweet_count": 477
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-23T06:28:22.000Z",
+        "description": "身高年齡未知 / 愛好畫畫 / wargame / 工作性質特殊 / 無血腥藥物濫用內容 / 無政治內容 / 無 r18g 內容 / 少女終末旅行賽高",
+        "id": "1683001001043984384",
+        "is_identity_verified": false,
+        "location": "黄河路地铁站",
+        "most_recent_tweet_id": "2093970787376214259",
+        "name": "暖春☁",
+        "pinned_tweet_id": "2046723517463642257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683001001043984384/1735973959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024831783003676672/uTnSwwGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1272,
+          "following_count": 644,
+          "like_count": 4904,
+          "listed_count": 3,
+          "media_count": 203,
+          "tweet_count": 2761
+        },
+        "url": "",
+        "username": "TudouCn24795",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

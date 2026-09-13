@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096893785410359296",
+        "3_2096893785410285568"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2096893798202900509",
+    "created_at": "2026-09-07T09:30:14.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T10:30:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096893798202900509"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/VkEZd0Ir1A",
+          "end": 120,
+          "expanded_url": "https://x.com/YangDowond/status/2096893798202900509/photo/1",
+          "media_key": "3_2096893785410359296",
+          "start": 97,
+          "url": "https://t.co/VkEZd0Ir1A"
+        },
+        {
+          "display_url": "pic.x.com/VkEZd0Ir1A",
+          "end": 120,
+          "expanded_url": "https://x.com/YangDowond/status/2096893798202900509/photo/1",
+          "media_key": "3_2096893785410285568",
+          "start": 97,
+          "url": "https://t.co/VkEZd0Ir1A"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096893798202900509",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096893785410359296"
+      },
+      {
+        "media_key": "3_2096893785410285568"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "听闻二氢埃托啡这种怪物级阿片在90年代被广泛用于海洛因的戒断？（但似乎它的镇痛效力在不同物种间差别很大，欣快感如何也未知）\n不过后来反倒是因为它广泛出现在地下市场所以药监禁止了它的这个用途（） https://t.co/VkEZd0Ir1A"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 302,
+        "media_key": "3_2096893785410359296",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmpybsb0AAZ7ij.jpg",
+        "width": 640
+      },
+      {
+        "height": 2012,
+        "media_key": "3_2096893785410285568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRmpybsasAAz00H.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096893785410359296",
+            "3_2096893785410285568"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2096893798202900509",
+        "created_at": "2026-09-07T09:30:14.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:30:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096893798202900509"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/VkEZd0Ir1A",
+              "end": 120,
+              "expanded_url": "https://x.com/YangDowond/status/2096893798202900509/photo/1",
+              "media_key": "3_2096893785410359296",
+              "start": 97,
+              "url": "https://t.co/VkEZd0Ir1A"
+            },
+            {
+              "display_url": "pic.x.com/VkEZd0Ir1A",
+              "end": 120,
+              "expanded_url": "https://x.com/YangDowond/status/2096893798202900509/photo/1",
+              "media_key": "3_2096893785410285568",
+              "start": 97,
+              "url": "https://t.co/VkEZd0Ir1A"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096893798202900509",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096893785410359296"
+          },
+          {
+            "media_key": "3_2096893785410285568"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "听闻二氢埃托啡这种怪物级阿片在90年代被广泛用于海洛因的戒断？（但似乎它的镇痛效力在不同物种间差别很大，欣快感如何也未知）\n不过后来反倒是因为它广泛出现在地下市场所以药监禁止了它的这个用途（） https://t.co/VkEZd0Ir1A"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096893798202900509",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 307,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 649
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

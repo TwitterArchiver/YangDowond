@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2092245401453883613",
+    "created_at": "2026-08-26T19:26:10.000Z",
+    "display_text_range": [
+      16,
+      117
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T20:26:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092695116423286938"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2030265833298292736",
+          "start": 0,
+          "username": "ether_terminal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092695116423286938",
+    "in_reply_to_user_id": "2030265833298292736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092245401453883613",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ether_terminal 这个要是有报告就危险了啊（）\n不过那篇论文里似乎提到它的脑保护效果要显著高于mk-801，但是真正的ki值和IC50值都没有具体的测定，合成出它的实验室也只有那么一个，所以具体来说，还是有很多迷雾的（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2731,
+        "media_key": "3_2092245394151677952",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQkmGc1boAAirjF.jpg",
+        "width": 1812
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2092245401453883613",
+        "created_at": "2026-08-26T19:26:10.000Z",
+        "display_text_range": [
+          16,
+          117
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T20:26:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092695116423286938"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2030265833298292736",
+              "start": 0,
+              "username": "ether_terminal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092695116423286938",
+        "in_reply_to_user_id": "2030265833298292736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092245401453883613",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ether_terminal 这个要是有报告就危险了啊（）\n不过那篇论文里似乎提到它的脑保护效果要显著高于mk-801，但是真正的ki值和IC50值都没有具体的测定，合成出它的实验室也只有那么一个，所以具体来说，还是有很多迷雾的（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092245394151677952"
+          ]
+        },
+        "author_id": "2030265833298292736",
+        "conversation_id": "2092245401453883613",
+        "created_at": "2026-08-25T13:39:10.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T14:39:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092245401453883613"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5ymg1R2C0m",
+              "end": 58,
+              "expanded_url": "https://x.com/ether_terminal/status/2092245401453883613/photo/1",
+              "media_key": "3_2092245394151677952",
+              "start": 35,
+              "url": "https://t.co/5ymg1R2C0m"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092245401453883613",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092245394151677952"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "话说有没有解离鬼试过这个\n好像没找到过这种物质的任何报告...... https://t.co/5ymg1R2C0m"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2092695116423286938",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 177,
+          "following_count": 254,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 408
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-07T12:54:40.000Z",
+        "description": "CH/JP/EN｜药理绝赞学习ing｜不键政｜INFP｜懒懒懒懒懒懒懒｜回fo（可能有点迟）｜拖延症｜二代目｜友跨",
+        "id": "2030265833298292736",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092626812623044941",
+        "name": "ズーワゼロ離去基（在线版）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2030265833298292736/1780914949",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055320765562773505/6cMB_oLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 76,
+          "like_count": 95,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 45
+        },
+        "url": "",
+        "username": "ether_terminal",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

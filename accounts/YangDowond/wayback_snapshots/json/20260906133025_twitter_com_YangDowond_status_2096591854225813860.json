@@ -1,0 +1,243 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2096503167567737127",
+    "created_at": "2026-09-06T13:30:25.000Z",
+    "display_text_range": [
+      13,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T14:30:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096591854225813860"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2083806475663855616",
+          "start": 0,
+          "username": "Shikiri4gsj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096591854225813860",
+    "in_reply_to_user_id": "2083806475663855616",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096503167567737127",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shikiri4gsj 要不等等cd期？短期急性耐药可能建立的太快了？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2096503167567737127",
+        "created_at": "2026-09-06T13:30:25.000Z",
+        "display_text_range": [
+          13,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T14:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096591854225813860"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2083806475663855616",
+              "start": 0,
+              "username": "Shikiri4gsj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096591854225813860",
+        "in_reply_to_user_id": "2083806475663855616",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096503167567737127",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shikiri4gsj 要不等等cd期？短期急性耐药可能建立的太快了？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2083806475663855616",
+        "conversation_id": "2096503167567737127",
+        "created_at": "2026-09-06T07:38:00.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:38:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096503167567737127"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096503167567737127",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 61,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "中午1500mg的pr 没感觉了呵呵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096591854225813860",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 306,
+          "like_count": 453,
+          "listed_count": 0,
+          "media_count": 98,
+          "tweet_count": 598
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-02T06:48:38.000Z",
+        "description": "总是在掉生命值\n宝贝@lizdoll0111_ ｜身心女不约炮不线下\n🚪35",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 23,
+                "start": 10,
+                "username": "lizdoll0111_"
+              }
+            ]
+          }
+        },
+        "id": "2083806475663855616",
+        "is_identity_verified": false,
+        "location": "❤️‍🩹",
+        "most_recent_tweet_id": "2096591415954595980",
+        "name": "Shikirime",
+        "pinned_tweet_id": "2096091511708660126",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2083806475663855616/1785654550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083812284514881536/1Y-QEeHk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 116,
+          "following_count": 118,
+          "like_count": 53,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 95
+        },
+        "url": "",
+        "username": "Shikiri4gsj",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

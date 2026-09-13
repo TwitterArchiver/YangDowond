@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096907455674585088",
+        "3_2096907455678812160"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2096789756168511796",
+    "created_at": "2026-09-07T10:24:32.000Z",
+    "display_text_range": [
+      19,
+      161
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T11:24:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096907464398827602"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1737447648536506368",
+          "start": 0,
+          "username": "_AngelDe_"
+        },
+        {
+          "end": 18,
+          "id": "1959893383633358848",
+          "start": 11,
+          "username": "Cbscfe"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/GJ6eVDtbpt",
+          "end": 185,
+          "expanded_url": "https://x.com/YangDowond/status/2096907464398827602/photo/1",
+          "media_key": "3_2096907455674585088",
+          "start": 162,
+          "url": "https://t.co/GJ6eVDtbpt"
+        },
+        {
+          "display_url": "pic.x.com/GJ6eVDtbpt",
+          "end": 185,
+          "expanded_url": "https://x.com/YangDowond/status/2096907464398827602/photo/1",
+          "media_key": "3_2096907455678812160",
+          "start": 162,
+          "url": "https://t.co/GJ6eVDtbpt"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096907464398827602",
+    "in_reply_to_user_id": "1737447648536506368",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096907455674585088"
+      },
+      {
+        "media_key": "3_2096907455678812160"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096902628831846832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_AngelDe_ @Cbscfe 不是的哦，右美托咪定不是精麻列管的的，虽然它的用途是麻醉药但确实是能买到的，而且现在越来越多超说明书用于睡眠障碍了，但一般还是鼻喷多，毕竟自己在家注射太危险了，而且它在人身上用得用微量泵推注，我试过几次肌肉注射效果还不错但有一次没把握好剂量把自己放倒进医院了（DORA说实话有点贵了） https://t.co/GJ6eVDtbpt"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1972,
+        "media_key": "3_2096907455674585088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRm2OJZaEAAOygV.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2045,
+        "media_key": "3_2096907455678812160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRm2OJaakAARbA3.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096907455674585088",
+            "3_2096907455678812160"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2096789756168511796",
+        "created_at": "2026-09-07T10:24:32.000Z",
+        "display_text_range": [
+          19,
+          161
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:24:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096907464398827602"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1737447648536506368",
+              "start": 0,
+              "username": "_AngelDe_"
+            },
+            {
+              "end": 18,
+              "id": "1959893383633358848",
+              "start": 11,
+              "username": "Cbscfe"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GJ6eVDtbpt",
+              "end": 185,
+              "expanded_url": "https://x.com/YangDowond/status/2096907464398827602/photo/1",
+              "media_key": "3_2096907455674585088",
+              "start": 162,
+              "url": "https://t.co/GJ6eVDtbpt"
+            },
+            {
+              "display_url": "pic.x.com/GJ6eVDtbpt",
+              "end": 185,
+              "expanded_url": "https://x.com/YangDowond/status/2096907464398827602/photo/1",
+              "media_key": "3_2096907455678812160",
+              "start": 162,
+              "url": "https://t.co/GJ6eVDtbpt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096907464398827602",
+        "in_reply_to_user_id": "1737447648536506368",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096907455674585088"
+          },
+          {
+            "media_key": "3_2096907455678812160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096902628831846832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_AngelDe_ @Cbscfe 不是的哦，右美托咪定不是精麻列管的的，虽然它的用途是麻醉药但确实是能买到的，而且现在越来越多超说明书用于睡眠障碍了，但一般还是鼻喷多，毕竟自己在家注射太危险了，而且它在人身上用得用微量泵推注，我试过几次肌肉注射效果还不错但有一次没把握好剂量把自己放倒进医院了（DORA说实话有点贵了） https://t.co/GJ6eVDtbpt"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1737447648536506368",
+        "conversation_id": "2096789756168511796",
+        "created_at": "2026-09-07T10:05:19.000Z",
+        "display_text_range": [
+          20,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T11:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096902628831846832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            },
+            {
+              "end": 19,
+              "id": "1959893383633358848",
+              "start": 12,
+              "username": "Cbscfe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096902628831846832",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 11,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096885250333007963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond @Cbscfe 确实是好药，不过普通人应该弄不到吧，毕竟精麻。还是看看远方的DORA吧家人们😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096907464398827602",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 307,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 650
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-20T12:25:36.000Z",
+        "description": "INTP-T",
+        "id": "1737447648536506368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096902628831846832",
+        "name": "AngelDeus",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1832578462164643840/ELvt_My1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 25,
+          "following_count": 138,
+          "like_count": 4600,
+          "listed_count": 0,
+          "media_count": 43,
+          "tweet_count": 487
+        },
+        "url": "",
+        "username": "_AngelDe_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-25T08:19:40.000Z",
+        "description": "马斯克我错了，让把我账号改成恐龙吧\n---\n信仰Cbscfe\n成为Cbscfe\n破碎的Cbscfe...\n\nMinecraft\"指令师\" 不会多少就是\n冷知识 头像颜色有#CB5CFE\n---\n励志变成精神病\n\n(outdated sync)\n---\n不健全，情绪不稳定，O&割，面基无伤人记录，有安全风险。坐标湖州",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "barbturnip437.github.io",
+                "end": 23,
+                "expanded_url": "https://barbturnip437.github.io",
+                "start": 0,
+                "url": "https://t.co/5pZU7pxALf"
+              }
+            ]
+          }
+        },
+        "id": "1959893383633358848",
+        "is_identity_verified": false,
+        "location": "minecraft:the_end",
+        "most_recent_tweet_id": "2096907191332774020",
+        "name": "Cbscfe",
+        "pinned_tweet_id": "1983726692716966013",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1959893383633358848/1786816926",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1980093920013918208/69qMwGpP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 683,
+          "following_count": 748,
+          "like_count": 25112,
+          "listed_count": 3,
+          "media_count": 239,
+          "tweet_count": 6921
+        },
+        "url": "https://t.co/5pZU7pxALf",
+        "username": "Cbscfe",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

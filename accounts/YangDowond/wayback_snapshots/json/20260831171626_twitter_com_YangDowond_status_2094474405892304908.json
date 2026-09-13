@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2094470448843252068",
+    "created_at": "2026-08-31T17:16:26.000Z",
+    "display_text_range": [
+      8,
+      87
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T18:16:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094474405892304908"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1161138897566388224",
+          "start": 0,
+          "username": "Oatzo1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094474405892304908",
+    "in_reply_to_user_id": "1161138897566388224",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094473549700563428",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Oatzo1 非常因人而异！我第一次巴氯芬过量玩嗨了然后戒断三天差点癫痫了，后面再用再截断就轻松了很多\n但有的人单吃巴氯芬纯纯灾难，所以还是要自己低剂量一点一点试自己的最爱"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2094470448843252068",
+        "created_at": "2026-08-31T17:16:26.000Z",
+        "display_text_range": [
+          8,
+          87
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:16:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094474405892304908"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1161138897566388224",
+              "start": 0,
+              "username": "Oatzo1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094474405892304908",
+        "in_reply_to_user_id": "1161138897566388224",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094473549700563428",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Oatzo1 非常因人而异！我第一次巴氯芬过量玩嗨了然后戒断三天差点癫痫了，后面再用再截断就轻松了很多\n但有的人单吃巴氯芬纯纯灾难，所以还是要自己低剂量一点一点试自己的最爱"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1161138897566388224",
+        "conversation_id": "2094470448843252068",
+        "created_at": "2026-08-31T17:13:02.000Z",
+        "display_text_range": [
+          12,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T18:13:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094473549700563428"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094473549700563428",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094470448843252068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 还真是，这玩意真的有潜力吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2094474405892304908",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 281,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 497
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-13T04:54:20.000Z",
+        "description": "所在的高度让他们目空一切",
+        "id": "1161138897566388224",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094473549700563428",
+        "name": "Oatzo",
+        "pinned_tweet_id": "1975975549521768592",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1161138897566388224/1763095943",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2025954287923429376/2_bXnbGq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 93,
+          "like_count": 1164,
+          "listed_count": 0,
+          "media_count": 52,
+          "tweet_count": 566
+        },
+        "url": "",
+        "username": "Oatzo1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

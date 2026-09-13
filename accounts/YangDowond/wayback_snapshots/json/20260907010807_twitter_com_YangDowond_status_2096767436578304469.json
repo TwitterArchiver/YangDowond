@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2096756840331624931",
+    "created_at": "2026-09-07T01:08:07.000Z",
+    "display_text_range": [
+      15,
+      90
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T02:08:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096767436578304469"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2092788164234821632",
+          "start": 0,
+          "username": "Yuki1161_IC26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096767436578304469",
+    "in_reply_to_user_id": "2092788164234821632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096756840331624931",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161_IC26 不要这样说自己啦…od这件事本身就很难去说的，其实我个人感觉真正想o的人别人是拦不住的，不想o的哪怕你提供药他也不会上瘾的…因为我也给别人过不少愈美…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2096756840331624931",
+        "created_at": "2026-09-07T01:08:07.000Z",
+        "display_text_range": [
+          15,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:08:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096767436578304469"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2092788164234821632",
+              "start": 0,
+              "username": "Yuki1161_IC26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096767436578304469",
+        "in_reply_to_user_id": "2092788164234821632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096756840331624931",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161_IC26 不要这样说自己啦…od这件事本身就很难去说的，其实我个人感觉真正想o的人别人是拦不住的，不想o的哪怕你提供药他也不会上瘾的…因为我也给别人过不少愈美…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092788164234821632",
+        "conversation_id": "2096756840331624931",
+        "created_at": "2026-09-07T00:26:01.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:26:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096756840331624931"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/jiu_yokki/stat…",
+              "end": 165,
+              "expanded_url": "https://twitter.com/jiu_yokki/status/2096193278752268680",
+              "start": 142,
+              "url": "https://t.co/kUoo7zQZrm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096756840331624931",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "讲一件黑料，其实我以前也是一个畜生，不是好人来的，以前我看见一个互关生活很伤心难过，我看不下去了就给他邮寄了一部分我的pr和一些精二类药物还教他怎么吃叫他别难过了，但是不多起效舒适6次的量，令人欣慰的是在他用完以后也没有去依赖药物，选择拥抱生活，我们没有再联系，可能他知道引导用药来逃避现实的我是什么人，也可能是因为我出于愧疚感没敢再和他说话，后来我再也没有过给未接触过药物的人寄过物质\n\n像我这种人早就毁了，竟然还想拖别人下水，在水库岸边淹死的人会在斜坡上发现手指拼命想要抓住什么但却抓不住的血痕，od不会给你带来什么实际性的好处，现实最终会成为你的归宿"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 125,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096193278752268680",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "讲一件黑料，其实我以前也是一个畜生，不是好人来的，以前我看见一个互关生活很伤心难过，我看不下去了就给他邮寄了一部分我的pr和一些精二类药物还教他怎么吃叫他别难过了，但是不多起效舒适6次的量，令人欣慰的是在他用完以后也没有去依赖药物，选择拥抱生活，我们没有再联系，可能他知道引导用药来 https://t.co/kUoo7zQZrm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096767436578304469",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 308,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 638
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "🚪8.9/6.4 用于给习主席买包子吃/岐哥第六世\n一具白骨晒太阳 在某种药物铺满的地毯上\n早已逝去之人 早已宽恕之罪\n属于我的姐姐@Cecey33 ⁺共号\n直fo喜歡的人/喜欢🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 66,
+                "username": "Cecey33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki3mepcpy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki3mepcpy",
+                "start": 0,
+                "url": "https://t.co/d3QOTu2Gty"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2096765096491893135",
+        "name": "岐#心宿二",
+        "pinned_tweet_id": "2096634065289871445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1788035697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096464883303010304/XZtwCCUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 291,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 702
+        },
+        "url": "https://t.co/d3QOTu2Gty",
+        "username": "Yuki1161_IC26",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

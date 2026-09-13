@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092728525010968576"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nature",
+          "id": "1103294729079349250",
+          "name": "Nature"
+        }
+      }
+    ],
+    "conversation_id": "2092728531277275137",
+    "created_at": "2026-08-26T21:38:57.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T22:38:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092728531277275137"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/ZIPnNdaIJh",
+          "end": 164,
+          "expanded_url": "https://x.com/YangDowond/status/2092728531277275137/photo/1",
+          "media_key": "3_2092728525010968576",
+          "start": 141,
+          "url": "https://t.co/ZIPnNdaIJh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092728531277275137",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092728525010968576"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "解离剂的终极体验是肉体与灵魂的剥离，但大自然不会让你无限次地免费体验这种拔网线的快感\n频繁阻断感觉信号的输入，大脑的神经网络会发生病理性的重塑，患者会患上慢性的人格解体障碍，即使已经停药几个月，依然会觉得这个世界是“虚假的”，“隔着一层毛玻璃的”\n（图为N-甲基-D-天门冬氨酸） https://t.co/ZIPnNdaIJh"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 787,
+        "media_key": "3_2092728525010968576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQrdgXibIAAxEub.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092728525010968576"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "2092728531277275137",
+        "created_at": "2026-08-26T21:38:57.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T22:38:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092728531277275137"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/ZIPnNdaIJh",
+              "end": 164,
+              "expanded_url": "https://x.com/YangDowond/status/2092728531277275137/photo/1",
+              "media_key": "3_2092728525010968576",
+              "start": 141,
+              "url": "https://t.co/ZIPnNdaIJh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092728531277275137",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092728525010968576"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "解离剂的终极体验是肉体与灵魂的剥离，但大自然不会让你无限次地免费体验这种拔网线的快感\n频繁阻断感觉信号的输入，大脑的神经网络会发生病理性的重塑，患者会患上慢性的人格解体障碍，即使已经停药几个月，依然会觉得这个世界是“虚假的”，“隔着一层毛玻璃的”\n（图为N-甲基-D-天门冬氨酸） https://t.co/ZIPnNdaIJh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2092728531277275137",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 260,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 416
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

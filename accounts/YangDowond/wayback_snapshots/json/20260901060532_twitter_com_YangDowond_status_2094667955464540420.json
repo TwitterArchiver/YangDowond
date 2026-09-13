@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094667949223366657"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2094667955464540420",
+    "created_at": "2026-09-01T06:05:32.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T07:05:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094667955464540420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/lHNpNThXGp",
+          "end": 128,
+          "expanded_url": "https://x.com/YangDowond/status/2094667955464540420/photo/1",
+          "media_key": "3_2094667949223366657",
+          "start": 105,
+          "url": "https://t.co/lHNpNThXGp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094667955464540420",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094667949223366657"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "1962年巴氯芬刚被合成出来时，汽巴Ciba制药（诺华的前身之一）的化学家是想把它当作抗癫痫药来开发的，结果抗癫痫彻底失败，却意外发现它能强效缓解痉挛，于是就把它当成中枢性肌肉松弛剂卖了十几年\n直到 1981 年，神经科学家诺曼·鲍里在实验室里把GABA-B这个隐藏的代谢型G蛋白偶联受体给揪了出来，当医学界恍然大悟，发现GABA-B受体不仅存在于脊髓，还广泛分布在人类的脑干、边缘系统和迷走神经，于是事情就变得有趣起来了\n除去之前我们聊到过的戒酒这个用途之外巴氯芬在全世界范围还有几种适应症：\n1. 严重胃食管反流，这个挺反常的，但胃食管反流的底层原因是食管下括约肌总是异常松弛，而迷走神经上布满了GABA-B受体，巴氯芬通过激动这些受体，能减少一过性下食管括约肌松弛的发生频率\n2. 顽固性打嗝与三叉神经痛，巴氯芬通过阻断脑干内部的异常突触反射弧，成为了目前治疗顽固性打嗝的绝对一线药物。而对于三叉神经痛，当常规的卡马西平压不住或者病人受不了副作用时，巴氯芬就是最经典的联合用药，通过抑制兴奋性递质释放来平息这股剧烈疼痛\n3. 抗焦虑与抗PTSD，医学界一直在研究用它来治疗难治性焦虑和PTSD，它确实能带来极深层次的松弛感，但至今没有成为一线用药，因为治疗窗口太窄（容易引发一种很奇怪的漂浮眩晕感，而且这种眩晕感和醉酒的感觉是不一样的）而且一旦大脑习惯了它的强力压制，停药时爆发的反跳性焦虑甚至比焦虑本身还要致命，以及可能会引发癫痫\n（以及一个小知识，巴氯芬和它去掉氯原子的物质-菲尼布特，是冷战时期东西方阵营在制药产业上各自独立发展的成果）\n•"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "1962年巴氯芬刚被合成出来时，汽巴Ciba制药（诺华的前身之一）的化学家是想把它当作抗癫痫药来开发的，结果抗癫痫彻底失败，却意外发现它能强效缓解痉挛，于是就把它当成中枢性肌肉松弛剂卖了十几年\n直到 1981 https://t.co/lHNpNThXGp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 556,
+        "media_key": "3_2094667949223366657",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRHBZtva0AEzvZY.jpg",
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094667949223366657"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2094667955464540420",
+        "created_at": "2026-09-01T06:05:32.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T07:05:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094667955464540420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lHNpNThXGp",
+              "end": 128,
+              "expanded_url": "https://x.com/YangDowond/status/2094667955464540420/photo/1",
+              "media_key": "3_2094667949223366657",
+              "start": 105,
+              "url": "https://t.co/lHNpNThXGp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094667955464540420",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094667949223366657"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "1962年巴氯芬刚被合成出来时，汽巴Ciba制药（诺华的前身之一）的化学家是想把它当作抗癫痫药来开发的，结果抗癫痫彻底失败，却意外发现它能强效缓解痉挛，于是就把它当成中枢性肌肉松弛剂卖了十几年\n直到 1981 年，神经科学家诺曼·鲍里在实验室里把GABA-B这个隐藏的代谢型G蛋白偶联受体给揪了出来，当医学界恍然大悟，发现GABA-B受体不仅存在于脊髓，还广泛分布在人类的脑干、边缘系统和迷走神经，于是事情就变得有趣起来了\n除去之前我们聊到过的戒酒这个用途之外巴氯芬在全世界范围还有几种适应症：\n1. 严重胃食管反流，这个挺反常的，但胃食管反流的底层原因是食管下括约肌总是异常松弛，而迷走神经上布满了GABA-B受体，巴氯芬通过激动这些受体，能减少一过性下食管括约肌松弛的发生频率\n2. 顽固性打嗝与三叉神经痛，巴氯芬通过阻断脑干内部的异常突触反射弧，成为了目前治疗顽固性打嗝的绝对一线药物。而对于三叉神经痛，当常规的卡马西平压不住或者病人受不了副作用时，巴氯芬就是最经典的联合用药，通过抑制兴奋性递质释放来平息这股剧烈疼痛\n3. 抗焦虑与抗PTSD，医学界一直在研究用它来治疗难治性焦虑和PTSD，它确实能带来极深层次的松弛感，但至今没有成为一线用药，因为治疗窗口太窄（容易引发一种很奇怪的漂浮眩晕感，而且这种眩晕感和醉酒的感觉是不一样的）而且一旦大脑习惯了它的强力压制，停药时爆发的反跳性焦虑甚至比焦虑本身还要致命，以及可能会引发癫痫\n（以及一个小知识，巴氯芬和它去掉氯原子的物质-菲尼布特，是冷战时期东西方阵营在制药产业上各自独立发展的成果）\n•"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "1962年巴氯芬刚被合成出来时，汽巴Ciba制药（诺华的前身之一）的化学家是想把它当作抗癫痫药来开发的，结果抗癫痫彻底失败，却意外发现它能强效缓解痉挛，于是就把它当成中枢性肌肉松弛剂卖了十几年\n直到 1981 https://t.co/lHNpNThXGp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2094667955464540420",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 284,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 82,
+          "tweet_count": 503
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

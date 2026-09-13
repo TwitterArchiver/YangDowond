@@ -1,0 +1,302 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2095425258505592832"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2095406754624598083",
+    "created_at": "2026-09-03T08:14:52.000Z",
+    "display_text_range": [
+      12,
+      135
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T09:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095425278499778790"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "bp01110526"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/3kL7TuI4i6",
+          "end": 159,
+          "expanded_url": "https://x.com/YangDowond/status/2095425278499778790/photo/1",
+          "media_key": "16_2095425258505592832",
+          "start": 136,
+          "url": "https://t.co/3kL7TuI4i6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095425278499778790",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2095425258505592832"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095423233717842387",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bp01110526 我也很纳闷这个问题，不过按目前的情况来看地方公安和缉毒警目前的打击重点就是刀削面了，因为前三个在国内基本绝迹了，为了立功与冲业绩自然得找点好弄的目标\n我临走之前警察还跟我讲：你这要是再有下一次我直接按滥用右美沙芬把你铐起来（无能狂怒与威胁这一块） https://t.co/3kL7TuI4i6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2095425258505592832",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRRyK6qbYAAAya4.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRRyK6qbYAAAya4.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2095425258505592832"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2095406754624598083",
+        "created_at": "2026-09-03T08:14:52.000Z",
+        "display_text_range": [
+          12,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095425278499778790"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "bp01110526"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/3kL7TuI4i6",
+              "end": 159,
+              "expanded_url": "https://x.com/YangDowond/status/2095425278499778790/photo/1",
+              "media_key": "16_2095425258505592832",
+              "start": 136,
+              "url": "https://t.co/3kL7TuI4i6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095425278499778790",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2095425258505592832"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095423233717842387",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bp01110526 我也很纳闷这个问题，不过按目前的情况来看地方公安和缉毒警目前的打击重点就是刀削面了，因为前三个在国内基本绝迹了，为了立功与冲业绩自然得找点好弄的目标\n我临走之前警察还跟我讲：你这要是再有下一次我直接按滥用右美沙芬把你铐起来（无能狂怒与威胁这一块） https://t.co/3kL7TuI4i6"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859117911119720448",
+        "conversation_id": "2095406754624598083",
+        "created_at": "2026-09-03T08:06:44.000Z",
+        "display_text_range": [
+          12,
+          90
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T09:06:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095423233717842387"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095423233717842387",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 17,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095406754624598083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 刀削面何德何能跟前三位一个板\n诡异程度比我之前看到14合一的板子还诡异（bzd、对乙酰氨基酚、咖啡因、thc还有z药 和传统毒）起码后者还能用于急救快检（？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2095425278499778790",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 297,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 565
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "🚪\n99 纯绿\n199半绿",
+        "id": "1859117911119720448",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2095423951128445282",
+        "name": "bp",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 118,
+          "following_count": 113,
+          "like_count": 9105,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 4925
+        },
+        "url": "",
+        "username": "bp01110526",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

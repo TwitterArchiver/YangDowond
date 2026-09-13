@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2097661629022474367",
+    "created_at": "2026-09-09T12:21:19.000Z",
+    "display_text_range": [
+      0,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T13:21:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097661629022474367"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangdowond/sta…",
+          "end": 53,
+          "expanded_url": "https://twitter.com/yangdowond/status/2097637924196229336",
+          "start": 30,
+          "url": "https://t.co/v2ilusRDUZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097661629022474367",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097637924196229336",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "别管右旋还是左旋，吗啡喃结构存在，就会导致瘙痒，太痒了（） https://t.co/v2ilusRDUZ"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097637906676690944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxOj_bbsAAh5cw.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097637906680799232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxOj_caYAA9XRl.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2097661629022474367",
+        "created_at": "2026-09-09T12:21:19.000Z",
+        "display_text_range": [
+          0,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T13:21:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097661629022474367"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangdowond/sta…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/yangdowond/status/2097637924196229336",
+              "start": 30,
+              "url": "https://t.co/v2ilusRDUZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097661629022474367",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097637924196229336",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "别管右旋还是左旋，吗啡喃结构存在，就会导致瘙痒，太痒了（） https://t.co/v2ilusRDUZ"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097637906676690944",
+            "3_2097637906680799232"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2097637924196229336",
+        "created_at": "2026-09-09T10:47:08.000Z",
+        "display_text_range": [
+          0,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T11:47:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097637924196229336"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yUCxID9TpF",
+              "end": 43,
+              "expanded_url": "https://x.com/YangDowond/status/2097637924196229336/photo/1",
+              "media_key": "3_2097637906676690944",
+              "start": 20,
+              "url": "https://t.co/yUCxID9TpF"
+            },
+            {
+              "display_url": "pic.x.com/yUCxID9TpF",
+              "end": 43,
+              "expanded_url": "https://x.com/YangDowond/status/2097637924196229336/photo/1",
+              "media_key": "3_2097637906680799232",
+              "start": 20,
+              "url": "https://t.co/yUCxID9TpF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097637924196229336",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097637906676690944"
+          },
+          {
+            "media_key": "3_2097637906680799232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 585,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "久违啦，老朋友\n以及，今天还被耍了（） https://t.co/yUCxID9TpF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2097661629022474367",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 279,
+          "following_count": 308,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 656
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095406745028063233",
+        "3_2095406745040613376"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2095406754624598083",
+    "created_at": "2026-09-03T07:01:15.000Z",
+    "display_text_range": [
+      0,
+      94
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T08:01:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095406754624598083"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/Y3ZCVIPpOT",
+          "end": 118,
+          "expanded_url": "https://x.com/YangDowond/status/2095406754624598083/photo/1",
+          "media_key": "3_2095406745028063233",
+          "start": 95,
+          "url": "https://t.co/Y3ZCVIPpOT"
+        },
+        {
+          "display_url": "pic.x.com/Y3ZCVIPpOT",
+          "end": 118,
+          "expanded_url": "https://x.com/YangDowond/status/2095406754624598083/photo/1",
+          "media_key": "3_2095406745040613376",
+          "start": 95,
+          "url": "https://t.co/Y3ZCVIPpOT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095406754624598083",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095406745028063233"
+      },
+      {
+        "media_key": "3_2095406745040613376"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "不知道各位如果有被晶的是否做过这个唾液检测\n我“有幸”体验过一次，当时检测我的那根唾液棒检测的物质有：吗啡，冰毒，k（氯胺酮）和右美沙芬\n得亏当时已经好长时间没嗑DXM了自然是右美沙芬阴性\n然后当时在吃司来吉兰，所以冰假阳了，然后又做了尿检和发检澄清了，但当时删手机照片和购买记录犯了蠢病了忘了删一百多盒愈美的记录了，然后喜提惩戒书一张（废纸这一块）"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "不知道各位如果有被晶的是否做过这个唾液检测\n我“有幸”体验过一次，当时检测我的那根唾液棒检测的物质有：吗啡，冰毒，k（氯胺酮）和右美沙芬\n得亏当时已经好长时间没嗑DXM了自然是右美沙芬阴性 https://t.co/Y3ZCVIPpOT"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 521,
+        "media_key": "3_2095406745028063233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRhVSla8AEihJl.jpg",
+        "width": 703
+      },
+      {
+        "height": 1687,
+        "media_key": "3_2095406745040613376",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRRhVSoacAA5lSr.jpg",
+        "width": 1961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095406745028063233",
+            "3_2095406745040613376"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2095406754624598083",
+        "created_at": "2026-09-03T07:01:15.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T08:01:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095406754624598083"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Y3ZCVIPpOT",
+              "end": 118,
+              "expanded_url": "https://x.com/YangDowond/status/2095406754624598083/photo/1",
+              "media_key": "3_2095406745028063233",
+              "start": 95,
+              "url": "https://t.co/Y3ZCVIPpOT"
+            },
+            {
+              "display_url": "pic.x.com/Y3ZCVIPpOT",
+              "end": 118,
+              "expanded_url": "https://x.com/YangDowond/status/2095406754624598083/photo/1",
+              "media_key": "3_2095406745040613376",
+              "start": 95,
+              "url": "https://t.co/Y3ZCVIPpOT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095406754624598083",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095406745028063233"
+          },
+          {
+            "media_key": "3_2095406745040613376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "不知道各位如果有被晶的是否做过这个唾液检测\n我“有幸”体验过一次，当时检测我的那根唾液棒检测的物质有：吗啡，冰毒，k（氯胺酮）和右美沙芬\n得亏当时已经好长时间没嗑DXM了自然是右美沙芬阴性\n然后当时在吃司来吉兰，所以冰假阳了，然后又做了尿检和发检澄清了，但当时删手机照片和购买记录犯了蠢病了忘了删一百多盒愈美的记录了，然后喜提惩戒书一张（废纸这一块）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "不知道各位如果有被晶的是否做过这个唾液检测\n我“有幸”体验过一次，当时检测我的那根唾液棒检测的物质有：吗啡，冰毒，k（氯胺酮）和右美沙芬\n得亏当时已经好长时间没嗑DXM了自然是右美沙芬阴性 https://t.co/Y3ZCVIPpOT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2095406754624598083",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 299,
+          "like_count": 443,
+          "listed_count": 0,
+          "media_count": 92,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

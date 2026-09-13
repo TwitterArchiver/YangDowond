@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2095060932137558087",
+    "created_at": "2026-09-02T11:44:22.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T12:44:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095115616479006816"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1199354344501497856",
+          "start": 0,
+          "username": "silentparty1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095115616479006816",
+    "in_reply_to_user_id": "1199354344501497856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095113156955971975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silentparty1 原来是这样，涨知识了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2095060932137558087",
+        "created_at": "2026-09-02T11:44:22.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T12:44:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095115616479006816"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1199354344501497856",
+              "start": 0,
+              "username": "silentparty1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095115616479006816",
+        "in_reply_to_user_id": "1199354344501497856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095113156955971975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentparty1 原来是这样，涨知识了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1199354344501497856",
+        "conversation_id": "2095060932137558087",
+        "created_at": "2026-09-02T11:34:36.000Z",
+        "display_text_range": [
+          12,
+          163
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T12:34:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095113156955971975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095113156955971975",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 19,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095083608663036083",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 那篇原始论文是，美金刚加上mg2+还有nmda激动剂可以条件竞争掉mk801的效果，即，把强的拮抗剂（mk801）置换成弱的（美金刚），不过效果嘛……这里的药理倒是让自己想起了nalmefene之于强啡肽抢KOR的画面，强啡肽会激动KOR，nalmefene激动效果没那么强，但抢占受体的能力大于前者。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2095115616479006816",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 237,
+          "following_count": 291,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 533
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-26T15:49:50.000Z",
+        "description": "facing the dizzying light/想做个收集知识的八爪鱼/25年12月之前的点赞和推文是自己曾经的样子/国男/指路正经账号@silentparty5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "silentparty5"
+              }
+            ]
+          }
+        },
+        "id": "1199354344501497856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095114184774316369",
+        "name": "夢原あかね",
+        "pinned_tweet_id": "2077293764981510479",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1199354344501497856/1696773417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029482269208125440/8CB2HPOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 477,
+          "like_count": 15093,
+          "listed_count": 1,
+          "media_count": 639,
+          "tweet_count": 4323
+        },
+        "url": "",
+        "username": "silentparty1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

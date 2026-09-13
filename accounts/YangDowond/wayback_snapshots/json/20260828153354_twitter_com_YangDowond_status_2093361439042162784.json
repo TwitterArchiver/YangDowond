@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2093361429927825408"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2093361439042162784",
+    "created_at": "2026-08-28T15:33:54.000Z",
+    "display_text_range": [
+      0,
+      112
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T16:33:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2093361439042162784"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/j7HEGpmTgv",
+          "end": 136,
+          "expanded_url": "https://x.com/YangDowond/status/2093361439042162784/photo/1",
+          "media_key": "3_2093361429927825408",
+          "start": 113,
+          "url": "https://t.co/j7HEGpmTgv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093361439042162784",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2093361429927825408"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "惊恐发作，然后嗯造bzd\n4t劳拉（4mg）和4t阿普（1.6mg），吃完20分钟感觉整个人都要飘起来了（）\n不焦虑吃bzd只有困倦，极度恐慌与紧张吃bzd是纯纯的快感\n你改悔罢，向bzd大人投降🙌\n誓死效忠苯二氮䓬大家族🫡 https://t.co/j7HEGpmTgv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2093361429927825408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0dISFaEAAD0N5.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093361429927825408"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2093361439042162784",
+        "created_at": "2026-08-28T15:33:54.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T16:33:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093361439042162784"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7HEGpmTgv",
+              "end": 136,
+              "expanded_url": "https://x.com/YangDowond/status/2093361439042162784/photo/1",
+              "media_key": "3_2093361429927825408",
+              "start": 113,
+              "url": "https://t.co/j7HEGpmTgv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093361439042162784",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093361429927825408"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "惊恐发作，然后嗯造bzd\n4t劳拉（4mg）和4t阿普（1.6mg），吃完20分钟感觉整个人都要飘起来了（）\n不焦虑吃bzd只有困倦，极度恐慌与紧张吃bzd是纯纯的快感\n你改悔罢，向bzd大人投降🙌\n誓死效忠苯二氮䓬大家族🫡 https://t.co/j7HEGpmTgv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2093361439042162784",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 269,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 452
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2095881586743161002",
+    "created_at": "2026-09-04T15:08:15.000Z",
+    "display_text_range": [
+      27,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T16:08:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095891700149592558"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1124790071314587648",
+          "start": 0,
+          "username": "LanwujiDrink"
+        },
+        {
+          "end": 26,
+          "id": "1874465078642388992",
+          "start": 14,
+          "username": "NevenL25237"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095891700149592558",
+    "in_reply_to_user_id": "1124790071314587648",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095881586743161002",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LanwujiDrink @NevenL25237 其实之前看到jd有电棍和老式射钉弹的时候就觉得jd这平台不一般了（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1734,
+        "media_key": "3_2095881578828406784",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRYRMQVaIAAPVkL.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2095881586743161002",
+        "created_at": "2026-09-04T15:08:15.000Z",
+        "display_text_range": [
+          27,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T16:08:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095891700149592558"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1124790071314587648",
+              "start": 0,
+              "username": "LanwujiDrink"
+            },
+            {
+              "end": 26,
+              "id": "1874465078642388992",
+              "start": 14,
+              "username": "NevenL25237"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095891700149592558",
+        "in_reply_to_user_id": "1124790071314587648",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095881586743161002",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LanwujiDrink @NevenL25237 其实之前看到jd有电棍和老式射钉弹的时候就觉得jd这平台不一般了（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095881578828406784"
+          ]
+        },
+        "author_id": "1124790071314587648",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2095881586743161002",
+        "created_at": "2026-09-04T14:28:04.000Z",
+        "display_text_range": [
+          0,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:28:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095881586743161002"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/QVyysOWwkJ",
+              "end": 87,
+              "expanded_url": "https://x.com/LanwujiDrink/status/2095881586743161002/photo/1",
+              "media_key": "3_2095881578828406784",
+              "start": 64,
+              "url": "https://t.co/QVyysOWwkJ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095881586743161002",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095881578828406784"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 239,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我发现京东上有泰瑟枪卖\n\n中国大陆并不存在一条“普通人不得购买/持有电击枪”的全国性法律条文\n\n所以这是100%合法的 在中国 https://t.co/QVyysOWwkJ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2095891700149592558",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 299,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 583
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-05-04T21:37:05.000Z",
+        "description": "無極® CEO",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/wujichem",
+                "end": 23,
+                "expanded_url": "https://ngl.link/wujichem",
+                "start": 0,
+                "url": "https://t.co/7eJAqlfzT9"
+              }
+            ]
+          }
+        },
+        "id": "1124790071314587648",
+        "is_identity_verified": false,
+        "location": "长期主义产品only",
+        "most_recent_tweet_id": "2095890978326597741",
+        "name": "☯️🧬無極® 生物科技 葉經理",
+        "pinned_tweet_id": "2094680393807241622",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1124790071314587648/1787324550",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088162509668921344/A5ZqYWNN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1508,
+          "following_count": 99,
+          "like_count": 3514,
+          "listed_count": 0,
+          "media_count": 95,
+          "tweet_count": 1902
+        },
+        "url": "https://t.co/7eJAqlfzT9",
+        "username": "LanwujiDrink",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-01T14:38:53.000Z",
+        "description": "爱情是治疗一切的良药。                                          \n想被人提问：https://t.co/BR6MJY2HeZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/nevenl25237",
+                "end": 83,
+                "expanded_url": "https://ngl.link/nevenl25237",
+                "start": 60,
+                "url": "https://t.co/BR6MJY2HeZ"
+              }
+            ]
+          }
+        },
+        "id": "1874465078642388992",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2095889301519438203",
+        "name": "咕咕嘎嘎",
+        "pinned_tweet_id": "2082515164923150594",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874465078642388992/1784858092",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089704387065389056/ZOgqEWCB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 141,
+          "following_count": 701,
+          "like_count": 2560,
+          "listed_count": 0,
+          "media_count": 30,
+          "tweet_count": 870
+        },
+        "url": "",
+        "username": "NevenL25237",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

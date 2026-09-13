@@ -1,0 +1,255 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092773249952403457"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2092772759764136284",
+    "created_at": "2026-08-27T00:36:40.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T01:36:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092773256025796798"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/DaTLA1oM4i",
+          "end": 85,
+          "expanded_url": "https://x.com/YangDowond/status/2092773256025796798/photo/1",
+          "media_key": "3_2092773249952403457",
+          "start": 62,
+          "url": "https://t.co/DaTLA1oM4i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092773256025796798",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092773249952403457"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092772759764136284",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "兽用的话dex是有专门的苏醒剂的，也就是阿替美唑，商品名咹啶醒，它没有批准人类临床使用，我也从来没有试过它拮抗dex的效果 https://t.co/DaTLA1oM4i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 383,
+        "media_key": "3_2092773249952403457",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsGLs7aUAE5QPL.jpg",
+        "width": 900
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2092772751291580416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsFurRaAAAqXJj.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092773249952403457"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2092772759764136284",
+        "created_at": "2026-08-27T00:36:40.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092773256025796798"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DaTLA1oM4i",
+              "end": 85,
+              "expanded_url": "https://x.com/YangDowond/status/2092773256025796798/photo/1",
+              "media_key": "3_2092773249952403457",
+              "start": 62,
+              "url": "https://t.co/DaTLA1oM4i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092773256025796798",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092773249952403457"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092772759764136284",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "兽用的话dex是有专门的苏醒剂的，也就是阿替美唑，商品名咹啶醒，它没有批准人类临床使用，我也从来没有试过它拮抗dex的效果 https://t.co/DaTLA1oM4i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092772751291580416"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2092772759764136284",
+        "created_at": "2026-08-27T00:34:42.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092772759764136284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/91QikZEpEZ",
+              "end": 166,
+              "expanded_url": "https://x.com/YangDowond/status/2092772759764136284/photo/1",
+              "media_key": "3_2092772751291580416",
+              "start": 143,
+              "url": "https://t.co/91QikZEpEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092772759764136284",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092772751291580416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于dex这个东西，有的人买到的是人用的，有些人买到的是兽用的，要注意兽用的浓度高很多，因为猫和狗小动物们肾上腺素a2受体数量比人少很多\n人用临床上一般是静脉微量泵输注，兽用一般是肌肉注射，我试验了多次人用的话肌肉注射也可以，但这很随机，受吸收速率影响很大，所以一般还是建议鼻喷就可以 https://t.co/91QikZEpEZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2092773256025796798",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 262,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 425
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

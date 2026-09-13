@@ -1,0 +1,361 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098303098146213889"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2097937881805553754",
+    "created_at": "2026-09-11T06:50:19.000Z",
+    "display_text_range": [
+      14,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-11T07:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098303105033265598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "754566695985917952",
+          "start": 0,
+          "username": "Fukata_2sute"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/igneuO4J1i",
+          "end": 54,
+          "expanded_url": "https://x.com/YangDowond/status/2098303105033265598/photo/1",
+          "media_key": "3_2098303098146213889",
+          "start": 31,
+          "url": "https://t.co/igneuO4J1i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098303105033265598",
+    "in_reply_to_user_id": "754566695985917952",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "3_2098303098146213889"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097937881805553754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fukata_2sute Please try this！ https://t.co/igneuO4J1i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098303098146213889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR6rjOwbUAEGZbM.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097937873991499776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1fYYwaAAArwXM.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097937873932812288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1fYYiagAAKXbo.jpg",
+        "width": 945
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097937873945436161",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR1fYYlbIAEGYvV.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098303098146213889"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2097937881805553754",
+        "created_at": "2026-09-11T06:50:19.000Z",
+        "display_text_range": [
+          14,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T07:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098303105033265598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "754566695985917952",
+              "start": 0,
+              "username": "Fukata_2sute"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/igneuO4J1i",
+              "end": 54,
+              "expanded_url": "https://x.com/YangDowond/status/2098303105033265598/photo/1",
+              "media_key": "3_2098303098146213889",
+              "start": 31,
+              "url": "https://t.co/igneuO4J1i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098303105033265598",
+        "in_reply_to_user_id": "754566695985917952",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2098303098146213889"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097937881805553754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fukata_2sute Please try this！ https://t.co/igneuO4J1i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097937873991499776",
+            "3_2097937873932812288",
+            "3_2097937873945436161"
+          ]
+        },
+        "author_id": "754566695985917952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2097937881805553754",
+        "created_at": "2026-09-10T06:39:03.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T07:39:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097937881805553754"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/eaZObG7FNm",
+              "end": 49,
+              "expanded_url": "https://x.com/Fukata_2sute/status/2097937881805553754/photo/1",
+              "media_key": "3_2097937873991499776",
+              "start": 26,
+              "url": "https://t.co/eaZObG7FNm"
+            },
+            {
+              "display_url": "pic.x.com/eaZObG7FNm",
+              "end": 49,
+              "expanded_url": "https://x.com/Fukata_2sute/status/2097937881805553754/photo/1",
+              "media_key": "3_2097937873932812288",
+              "start": 26,
+              "url": "https://t.co/eaZObG7FNm"
+            },
+            {
+              "display_url": "pic.x.com/eaZObG7FNm",
+              "end": 49,
+              "expanded_url": "https://x.com/Fukata_2sute/status/2097937881805553754/photo/1",
+              "media_key": "3_2097937873945436161",
+              "start": 26,
+              "url": "https://t.co/eaZObG7FNm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097937881805553754",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2097937873991499776"
+          },
+          {
+            "media_key": "3_2097937873932812288"
+          },
+          {
+            "media_key": "3_2097937873945436161"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 8617,
+          "like_count": 351,
+          "quote_count": 4,
+          "reply_count": 11,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "最近KMNZも聴き始めた、今んとここの3曲が好き🫶 https://t.co/eaZObG7FNm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2098303105033265598",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 283,
+          "following_count": 309,
+          "like_count": 466,
+          "listed_count": 0,
+          "media_count": 107,
+          "tweet_count": 670
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-07-17T06:41:34.000Z",
+        "description": "2024年7月にDJデビュー。\n大好きと感謝とリスペクトを叫ぶ、\nぎゅーどんとRock大好きDJ🎧\nFirst step:きらこす(夏) 2024/07/27\n所属:JOIN US！、FEELINGLOW\nDJ出演お休み中",
+        "id": "754566695985917952",
+        "is_identity_verified": false,
+        "location": "御徒町KKP(によくいます)",
+        "most_recent_tweet_id": "2098239567409397997",
+        "name": "ふかたけ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/754566695985917952/1775013436",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039180218334920704/9oMCnWjL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4068,
+          "following_count": 4116,
+          "like_count": 572578,
+          "listed_count": 39,
+          "media_count": 5724,
+          "tweet_count": 252862
+        },
+        "url": "",
+        "username": "Fukata_2sute",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092606615434457088"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2092606624360018240",
+    "created_at": "2026-08-26T13:34:32.000Z",
+    "display_text_range": [
+      0,
+      158
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T14:34:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092606624360018240"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/rO4m7uyIdA",
+          "end": 182,
+          "expanded_url": "https://x.com/YangDowond/status/2092606624360018240/photo/1",
+          "media_key": "3_2092606615434457088",
+          "start": 159,
+          "url": "https://t.co/rO4m7uyIdA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092606624360018240",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092606615434457088"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "怀念我的亡妻（冰箱）ing\n里面有满满的玉米片，3g的DPT，1g的噻吩丙胺，200g的PEA，2g的iso，7盒劳拉，2盒阿普，满满一大盒安非他酮，3盒美金刚，4瓶bron，足足16支mk-801稀释液（1mg/ml），一大盒美沙唑仑（Melex），五盒sns，100g菲尼布特，2盒巴氯芬\n可惜暂时都不能享受了😢 https://t.co/rO4m7uyIdA"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092606615434457088",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQpuoS-acAA6bLZ.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092606615434457088"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2092606624360018240",
+        "created_at": "2026-08-26T13:34:32.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T14:34:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092606624360018240"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rO4m7uyIdA",
+              "end": 182,
+              "expanded_url": "https://x.com/YangDowond/status/2092606624360018240/photo/1",
+              "media_key": "3_2092606615434457088",
+              "start": 159,
+              "url": "https://t.co/rO4m7uyIdA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092606624360018240",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092606615434457088"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "怀念我的亡妻（冰箱）ing\n里面有满满的玉米片，3g的DPT，1g的噻吩丙胺，200g的PEA，2g的iso，7盒劳拉，2盒阿普，满满一大盒安非他酮，3盒美金刚，4瓶bron，足足16支mk-801稀释液（1mg/ml），一大盒美沙唑仑（Melex），五盒sns，100g菲尼布特，2盒巴氯芬\n可惜暂时都不能享受了😢 https://t.co/rO4m7uyIdA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2092606624360018240",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 253,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 64,
+          "tweet_count": 407
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

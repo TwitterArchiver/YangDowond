@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2094053047660154881"
+      ],
+      "media_source_tweet_id": [
+        "2094053105763815615"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2094119876080357467",
+    "created_at": "2026-08-30T17:47:39.000Z",
+    "display_text_range": [
+      0,
+      101
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T18:47:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094119876080357467"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "2064236987213905920",
+          "start": 3,
+          "username": "YuukiReina2023"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xoN6hNgr25",
+          "end": 101,
+          "expanded_url": "https://x.com/YuukiReina2023/status/2094053105763815615/video/1",
+          "media_key": "13_2094053047660154881",
+          "start": 78,
+          "url": "https://t.co/xoN6hNgr25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094119876080357467",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2094053047660154881"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094053105763815615",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @YuukiReina2023: 我的版本缺乏了药物库...\n也许可以和老婆互换一下（）\n*注射器装的是润滑油，我只是不想重新开一个新的注射器来测试 https://t.co/xoN6hNgr25"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 11246,
+        "height": 1280,
+        "media_key": "13_2094053047660154881",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2094053047660154881/img/Zsa-UxIYlOplHOrX.jpg",
+        "public_metrics": {
+          "view_count": 130
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094053047660154881/vid/avc1/320x568/Z59Iksfm_M2DSCEd.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094053047660154881/vid/avc1/480x852/VohoUtoPtNwx3VMg.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2094053047660154881/vid/avc1/720x1280/lzbSmhoieLXCcq3t.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2094053047660154881/pl/LanIbICWPzeGEQ7M.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094053047660154881"
+          ],
+          "media_source_tweet_id": [
+            "2094053105763815615"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2094119876080357467",
+        "created_at": "2026-08-30T17:47:39.000Z",
+        "display_text_range": [
+          0,
+          101
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T18:47:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094119876080357467"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "2064236987213905920",
+              "start": 3,
+              "username": "YuukiReina2023"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xoN6hNgr25",
+              "end": 101,
+              "expanded_url": "https://x.com/YuukiReina2023/status/2094053105763815615/video/1",
+              "media_key": "13_2094053047660154881",
+              "start": 78,
+              "url": "https://t.co/xoN6hNgr25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094119876080357467",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094053047660154881"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094053105763815615",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @YuukiReina2023: 我的版本缺乏了药物库...\n也许可以和老婆互换一下（）\n*注射器装的是润滑油，我只是不想重新开一个新的注射器来测试 https://t.co/xoN6hNgr25"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2094053047660154881"
+          ]
+        },
+        "author_id": "2064236987213905920",
+        "conversation_id": "2094053105763815615",
+        "created_at": "2026-08-30T13:22:20.000Z",
+        "display_text_range": [
+          0,
+          57
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T14:22:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094053105763815615"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xoN6hNgr25",
+              "end": 81,
+              "expanded_url": "https://x.com/YuukiReina2023/status/2094053105763815615/video/1",
+              "media_key": "13_2094053047660154881",
+              "start": 58,
+              "url": "https://t.co/xoN6hNgr25"
+            },
+            {
+              "display_url": "x.com/LolingVerse/st…",
+              "end": 105,
+              "expanded_url": "https://twitter.com/LolingVerse/status/2093757159913689319",
+              "start": 82,
+              "url": "https://t.co/ACHfpv1H9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094053105763815615",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2094053047660154881"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 359,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093757159913689319",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我的版本缺乏了药物库...\n也许可以和老婆互换一下（）\n*注射器装的是润滑油，我只是不想重新开一个新的注射器来测试 https://t.co/xoN6hNgr25 https://t.co/ACHfpv1H9v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2094119876080357467",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 208,
+          "following_count": 281,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 483
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-09T06:44:46.000Z",
+        "description": "A cute autistic kiddo 🍥 and her gadgets 🖥️: Dreams of becoming a fox-girl engineer, dabbles in electronics & coding😊 \n\n哥@YangDowond 老婆@LolingVerse",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 131,
+                "start": 120,
+                "username": "YangDowond"
+              },
+              {
+                "end": 146,
+                "start": 134,
+                "username": "LolingVerse"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/YuukiReina2023",
+                "end": 23,
+                "expanded_url": "https://github.com/YuukiReina2023",
+                "start": 0,
+                "url": "https://t.co/2dFOiyRx87"
+              }
+            ]
+          }
+        },
+        "id": "2064236987213905920",
+        "is_identity_verified": false,
+        "location": "京都第二赤十字病院",
+        "most_recent_tweet_id": "2094082800177828184",
+        "name": "結城翎奈YuukiReina",
+        "pinned_tweet_id": "2088095378164129846",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2064236987213905920/1787368592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086683250437537792/gnAY6x_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 54,
+          "following_count": 173,
+          "like_count": 1220,
+          "listed_count": 0,
+          "media_count": 56,
+          "tweet_count": 290
+        },
+        "url": "https://t.co/2dFOiyRx87",
+        "username": "YuukiReina2023",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

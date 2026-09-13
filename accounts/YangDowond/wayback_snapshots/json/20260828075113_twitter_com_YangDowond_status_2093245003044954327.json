@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2092606624360018240",
+    "created_at": "2026-08-28T07:51:13.000Z",
+    "display_text_range": [
+      8,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T08:51:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093245003044954327"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2017934187907665920",
+          "start": 0,
+          "username": "ch8_we"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093245003044954327",
+    "in_reply_to_user_id": "2017934187907665920",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093009789974638629",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ch8_we 噻吩丙胺是一个大类，其中大部分的已经被列管，而有od价值且还没有被列管的目前比较好购买的是1-(噻吩-3-基)丙-2-胺，不过我不确定它的口服效果，因为我是直接肌肉注射的，体感比PEA柔和一些（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2092606624360018240",
+        "created_at": "2026-08-28T07:51:13.000Z",
+        "display_text_range": [
+          8,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T08:51:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093245003044954327"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2017934187907665920",
+              "start": 0,
+              "username": "ch8_we"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093245003044954327",
+        "in_reply_to_user_id": "2017934187907665920",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093009789974638629",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ch8_we 噻吩丙胺是一个大类，其中大部分的已经被列管，而有od价值且还没有被列管的目前比较好购买的是1-(噻吩-3-基)丙-2-胺，不过我不确定它的口服效果，因为我是直接肌肉注射的，体感比PEA柔和一些（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2017934187907665920",
+        "conversation_id": "2092606624360018240",
+        "created_at": "2026-08-27T16:16:34.000Z",
+        "display_text_range": [
+          12,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T17:16:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093009789974638629"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093009789974638629",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 42,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092606624360018240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 噻吩丙胺怎么买的啊😭"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2093245003044954327",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 196,
+          "following_count": 269,
+          "like_count": 416,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 448
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-01T12:13:58.000Z",
+        "description": "trans girl/小证含糖/家长不管/hrt20250807/抑郁 adhd确诊/self hurt/od/08 09 07/高三",
+        "id": "2017934187907665920",
+        "is_identity_verified": false,
+        "location": "Baltimore, MD",
+        "most_recent_tweet_id": "2093009789974638629",
+        "name": "mikki_z🍥🏳‍⚧",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2017934187907665920/1776147001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046606014276124672/glEbB4q5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 209,
+          "like_count": 2844,
+          "listed_count": 1,
+          "media_count": 9,
+          "tweet_count": 462
+        },
+        "url": "",
+        "username": "ch8_we",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

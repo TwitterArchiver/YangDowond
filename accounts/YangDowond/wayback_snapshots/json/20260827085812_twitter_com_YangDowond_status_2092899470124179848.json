@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2092742756569645121",
+    "created_at": "2026-08-27T08:58:12.000Z",
+    "display_text_range": [
+      12,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T09:58:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092899470124179848"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1747805105200480256",
+          "start": 0,
+          "username": "Bestvavvst"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092899470124179848",
+    "in_reply_to_user_id": "1747805105200480256",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092893374697308283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Bestvavvst 那手很累了（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2092742756569645121",
+        "created_at": "2026-08-27T08:58:12.000Z",
+        "display_text_range": [
+          12,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:58:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092899470124179848"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1747805105200480256",
+              "start": 0,
+              "username": "Bestvavvst"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092899470124179848",
+        "in_reply_to_user_id": "1747805105200480256",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092893374697308283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Bestvavvst 那手很累了（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1747805105200480256",
+        "conversation_id": "2092742756569645121",
+        "created_at": "2026-08-27T08:33:59.000Z",
+        "display_text_range": [
+          12,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T09:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092893374697308283"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092893374697308283",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092742756569645121",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 这点不够干啥的小的一天3000个起步 🥲"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2092899470124179848",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 183,
+          "following_count": 265,
+          "like_count": 409,
+          "listed_count": 0,
+          "media_count": 69,
+          "tweet_count": 432
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-01-18T02:16:32.000Z",
+        "description": "Entp♈未成年不要关注 \n依托米酯笑气氯胺酮已戒断/双相7年患者目前停了大部分药/努力想做正常人但是总是想o/怀念在🇰🇭的日子/向往的城市是自由的泰兰德和马来西亚/蹲过3天戒毒所😅至今不能考驾照之人",
+        "id": "1747805105200480256",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2092898014679769484",
+        "name": "Vavvst「未成年不要fo」",
+        "pinned_tweet_id": "2090339322612645940",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1747805105200480256/1787656538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089764101484638208/EKEtH1Ns_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 84,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 185
+        },
+        "url": "",
+        "username": "Bestvavvst",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

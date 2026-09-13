@@ -1,0 +1,270 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2096727748936966380",
+    "created_at": "2026-09-07T01:01:14.000Z",
+    "display_text_range": [
+      15,
+      125
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T02:01:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096765703999324571"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2092788164234821632",
+          "start": 0,
+          "username": "Yuki1161_IC26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096765703999324571",
+    "in_reply_to_user_id": "2092788164234821632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096727748936966380",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161_IC26 这些药还好其实，要是我可能还不怎么样，但是听之前菜菜说她的体重基数很小来着…但烧炭这个实在是…祝愿菜菜找到真正的幸福吧，我们这些外人有什么资格去评判别人呢，毕竟我们无法真正理解一个人的痛苦啊，那些把菜菜逼到这样的人…唉…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2096727748936966380",
+        "created_at": "2026-09-07T01:01:14.000Z",
+        "display_text_range": [
+          15,
+          125
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T02:01:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096765703999324571"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2092788164234821632",
+              "start": 0,
+              "username": "Yuki1161_IC26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096765703999324571",
+        "in_reply_to_user_id": "2092788164234821632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096727748936966380",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161_IC26 这些药还好其实，要是我可能还不怎么样，但是听之前菜菜说她的体重基数很小来着…但烧炭这个实在是…祝愿菜菜找到真正的幸福吧，我们这些外人有什么资格去评判别人呢，毕竟我们无法真正理解一个人的痛苦啊，那些把菜菜逼到这样的人…唉…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092788164234821632",
+        "conversation_id": "2096727748936966380",
+        "created_at": "2026-09-06T22:30:25.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:30:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096727748936966380"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/nanahime1cpc/s…",
+              "end": 160,
+              "expanded_url": "https://twitter.com/nanahime1cpc/status/2096646617000751425",
+              "start": 137,
+              "url": "https://t.co/2jZbB8RdB0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096727748936966380",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 479,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096646617000751425",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "左边的到底是什么药，不像佐匹也有可能是我记错了或者没见过的版本\n中间大颗疑似愈美片，右边小圆片大概率是劳拉，据菜菜说还烧了碳喝了酒，呼吸抑制真的会抬走的\n要是能有现生的朋友去看看情况就好了。。太可惜了，恨死恨死那些把菜菜逼到这种情况的人了。。。半夜起来就看见这个，。。。哎 https://t.co/2jZbB8RdB0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096765703999324571",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 308,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "🚪8.9/6.4 用于给习主席买包子吃/岐哥第六世\n一具白骨晒太阳 在某种药物铺满的地毯上\n早已逝去之人 早已宽恕之罪\n属于我的姐姐@Cecey33 ⁺共号\n直fo喜歡的人/喜欢🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 74,
+                "start": 66,
+                "username": "Cecey33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki3mepcpy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki3mepcpy",
+                "start": 0,
+                "url": "https://t.co/d3QOTu2Gty"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2096765096491893135",
+        "name": "岐#心宿二",
+        "pinned_tweet_id": "2096634065289871445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1788035697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096464883303010304/XZtwCCUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 242,
+          "following_count": 291,
+          "like_count": 759,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 702
+        },
+        "url": "https://t.co/d3QOTu2Gty",
+        "username": "Yuki1161_IC26",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2097586960479199233"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2097586966825152713",
+    "created_at": "2026-09-09T07:24:38.000Z",
+    "display_text_range": [
+      0,
+      136
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T08:24:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097586966825152713"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/C8k71TiYJw",
+          "end": 160,
+          "expanded_url": "https://x.com/YangDowond/status/2097586966825152713/photo/1",
+          "media_key": "3_2097586960479199233",
+          "start": 137,
+          "url": "https://t.co/C8k71TiYJw"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097586966825152713",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2097586960479199233"
+      }
+    ],
+    "note_tweet": {
+      "entities": {},
+      "text": "辉瑞的K（氯胺酮）\n该说不说辉瑞千亿美元拿下的的华纳-兰伯特大礼包东西还不少呢…\n同样是来自华纳-兰伯特旗下的帕克戴维斯，也就是研究出了加巴喷丁，从美国西北大学购得普瑞巴林专利的那家药企，帕克戴维斯在50-60年代期间先后搞出了PCP（天使尘），氯胺酮并将K推向了商业应用\n然后全部被辉瑞打包了（）\n该说不说K的原研商品名叫Ketalar属实是有点懒的起名了（）"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "辉瑞的K（氯胺酮）\n该说不说辉瑞千亿美元拿下的的华纳-兰伯特大礼包东西还不少呢…\n同样是来自华纳-兰伯特旗下的帕克戴维斯，也就是研究出了加巴喷丁，从美国西北大学购得普瑞巴林专利的那家药企，帕克戴维斯在50-60年代期间先后搞出了PCP（天使尘），氯胺酮并将K推向了商业应用 https://t.co/C8k71TiYJw"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 600,
+        "media_key": "3_2097586960479199233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRwgOiDaoAEwTIM.jpg",
+        "width": 600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097586960479199233"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2097586966825152713",
+        "created_at": "2026-09-09T07:24:38.000Z",
+        "display_text_range": [
+          0,
+          136
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T08:24:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097586966825152713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/C8k71TiYJw",
+              "end": 160,
+              "expanded_url": "https://x.com/YangDowond/status/2097586966825152713/photo/1",
+              "media_key": "3_2097586960479199233",
+              "start": 137,
+              "url": "https://t.co/C8k71TiYJw"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097586966825152713",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097586960479199233"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "辉瑞的K（氯胺酮）\n该说不说辉瑞千亿美元拿下的的华纳-兰伯特大礼包东西还不少呢…\n同样是来自华纳-兰伯特旗下的帕克戴维斯，也就是研究出了加巴喷丁，从美国西北大学购得普瑞巴林专利的那家药企，帕克戴维斯在50-60年代期间先后搞出了PCP（天使尘），氯胺酮并将K推向了商业应用\n然后全部被辉瑞打包了（）\n该说不说K的原研商品名叫Ketalar属实是有点懒的起名了（）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "辉瑞的K（氯胺酮）\n该说不说辉瑞千亿美元拿下的的华纳-兰伯特大礼包东西还不少呢…\n同样是来自华纳-兰伯特旗下的帕克戴维斯，也就是研究出了加巴喷丁，从美国西北大学购得普瑞巴林专利的那家药企，帕克戴维斯在50-60年代期间先后搞出了PCP（天使尘），氯胺酮并将K推向了商业应用 https://t.co/C8k71TiYJw"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2097586966825152713",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 308,
+          "like_count": 461,
+          "listed_count": 0,
+          "media_count": 104,
+          "tweet_count": 651
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

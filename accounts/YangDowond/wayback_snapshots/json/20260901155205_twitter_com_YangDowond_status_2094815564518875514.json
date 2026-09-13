@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Science",
+          "id": "854692455005921281",
+          "name": "Science"
+        }
+      }
+    ],
+    "conversation_id": "2094811729435980165",
+    "created_at": "2026-09-01T15:52:05.000Z",
+    "display_text_range": [
+      0,
+      126
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T16:52:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094815564518875514"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094815564518875514",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094814160370672122",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "说起来我最震惊的就是立普妥这个药了，原来我爸一直在吃它（后来换瑞舒伐他汀和英克司兰了），小分子化学药原研达到千亿美元级的销售额，前无古人后无来者了，一直到后来的艾伯维的修美乐（阿达木单抗）和默沙东的k药（帕博利珠单抗）这些生物药诞生才打破了这个惊人纪录"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2094811729435980165",
+        "created_at": "2026-09-01T15:52:05.000Z",
+        "display_text_range": [
+          0,
+          126
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:52:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094815564518875514"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094815564518875514",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094814160370672122",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来我最震惊的就是立普妥这个药了，原来我爸一直在吃它（后来换瑞舒伐他汀和英克司兰了），小分子化学药原研达到千亿美元级的销售额，前无古人后无来者了，一直到后来的艾伯维的修美乐（阿达木单抗）和默沙东的k药（帕博利珠单抗）这些生物药诞生才打破了这个惊人纪录"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2094811729435980165",
+        "created_at": "2026-09-01T15:46:30.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T16:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094814160370672122"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094814160370672122",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "说起来普瑞这个药也确实很有趣，辉瑞能拿到它的原研纯粹是因为立普妥（阿托伐他汀），当年辉瑞900亿美刀的世纪并购（今天看来这个金额也堪称恐怖，这就是老钱药企的实力嘛）拿下华纳-兰伯特就是为了立普妥，结果发现还有个意外收获就是pr，很早华纳兰伯特公司就并购了帕克戴维斯公司，而pr的原研实际上是帕克戴维斯的，然后一系列并购后pr原研就到了辉瑞手里（）"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094811729435980165",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "说起来普瑞这个药也确实很有趣，辉瑞能拿到它的原研纯粹是因为立普妥（阿托伐他汀），当年辉瑞900亿美刀的世纪并购（今天看来这个金额也堪称恐怖，这就是老钱药企的实力嘛）拿下华纳-兰伯特就是为了立普妥，结果发现还有个意外收获就是pr，很早华纳兰伯特公司就并购了帕克戴维斯公司，而pr的原研实际上"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2094815564518875514",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 223,
+          "following_count": 284,
+          "like_count": 428,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 514
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

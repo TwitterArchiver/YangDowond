@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2092646467274207595",
+    "created_at": "2026-08-27T00:13:16.000Z",
+    "display_text_range": [
+      14,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T01:13:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092767364962206090"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2092515995982405632",
+          "start": 0,
+          "username": "drug_artists"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092767364962206090",
+    "in_reply_to_user_id": "2092515995982405632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092646467274207595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@drug_artists 极高剂量米氮平还会进入忽睡忽醒的谵妄状态（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2092646467274207595",
+        "created_at": "2026-08-27T00:13:16.000Z",
+        "display_text_range": [
+          14,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:13:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092767364962206090"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2092515995982405632",
+              "start": 0,
+              "username": "drug_artists"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092767364962206090",
+        "in_reply_to_user_id": "2092515995982405632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092646467274207595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@drug_artists 极高剂量米氮平还会进入忽睡忽醒的谵妄状态（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092515995982405632",
+        "conversation_id": "2092646467274207595",
+        "created_at": "2026-08-26T16:12:51.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T17:12:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092646467274207595"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2092646467274207595",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 68,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "米氮平劲儿真的大\n我真抵抗不了抗精神病药\n晕的像条蛆一样\n特别特别困\n下机很多东西也有奇效"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2092767364962206090",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 262,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 422
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T07:35:54.000Z",
+        "description": "药物百科前wiki主|投稿报告请私信我|4i男娘INFPI|愿每一位药物滥用者都能脱离深渊|提供药物/精神病咨询|im crazy! 年号雨玄二年 名人堂梦工厂RC-沐雨零售策划药产品联系我的tg：@drug_artist 我的双子星：@qiyueqiye11",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 111,
+                "start": 99,
+                "username": "drug_artist"
+              },
+              {
+                "end": 130,
+                "start": 118,
+                "username": "qiyueqiye11"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yaowubaike.ca",
+                "end": 23,
+                "expanded_url": "http://yaowubaike.ca",
+                "start": 0,
+                "url": "https://t.co/rAo7LDWd5e"
+              }
+            ]
+          }
+        },
+        "id": "2092515995982405632",
+        "is_identity_verified": false,
+        "location": "Xanax天国2mg自治区",
+        "most_recent_tweet_id": "2092646467274207595",
+        "name": "沐雨七世",
+        "pinned_tweet_id": "2092520602976530607",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092515995982405632/1787729965",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092516771899289600/4hmL4VXj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 30,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 8
+        },
+        "url": "https://t.co/rAo7LDWd5e",
+        "username": "drug_artists",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

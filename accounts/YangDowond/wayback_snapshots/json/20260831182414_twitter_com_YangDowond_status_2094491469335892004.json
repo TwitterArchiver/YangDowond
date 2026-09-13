@@ -1,0 +1,219 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2094489278512599245",
+    "created_at": "2026-08-31T18:24:14.000Z",
+    "display_text_range": [
+      0,
+      74
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T19:24:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094491469335892004"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094491469335892004",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094489278512599245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "也提醒各位小伙伴，出门在外如果有什么长期依赖的药物请一定要提前做好剂量，粒数，服用方案的规划，万万不可等到急需的时候去医院现开，那样有时会出大问题的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2094489270451134464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HREe5PcbYAAOpvi.jpg",
+        "width": 1440
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2094489278512599245",
+        "created_at": "2026-08-31T18:24:14.000Z",
+        "display_text_range": [
+          0,
+          74
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:24:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094491469335892004"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094491469335892004",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094489278512599245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "也提醒各位小伙伴，出门在外如果有什么长期依赖的药物请一定要提前做好剂量，粒数，服用方案的规划，万万不可等到急需的时候去医院现开，那样有时会出大问题的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094489270451134464"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2094489278512599245",
+        "created_at": "2026-08-31T18:15:32.000Z",
+        "display_text_range": [
+          0,
+          112
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T19:15:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094489278512599245"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YI0q9e59Rg",
+              "end": 136,
+              "expanded_url": "https://x.com/YangDowond/status/2094489278512599245/photo/1",
+              "media_key": "3_2094489270451134464",
+              "start": 113,
+              "url": "https://t.co/YI0q9e59Rg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094489278512599245",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094489270451134464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "小红书帖子\n博主来到澳大利亚，所带的劳拉西泮和艾斯西酞普兰吃完了，想要在当地的医院开一些，她带着在国内的处方辗转咨询多位医生，医生表示，来士普（艾斯西酞普兰原研药）is ok，但劳拉西泮这种bzd？你滴胆子真是肥嘟嘟地，没门\n经过多番问诊和哭诉，以及自述睡眠障碍要死掉力之后，从“人道主义”角度出发，医生被迫爆出了金：14片/盒的思诺思（原研唑吡坦）\n从此处大家可以发现抛去街头滥用和瘾品售卖，在西方世界从正规医疗渠道获取bzd究竟是多么困难的事情"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "小红书帖子\n博主来到澳大利亚，所带的劳拉西泮和艾斯西酞普兰吃完了，想要在当地的医院开一些，她带着在国内的处方辗转咨询多位医生，医生表示，来士普（艾斯西酞普兰原研药）is ok，但劳拉西泮这种bzd？你滴胆子真是肥嘟嘟地，没门 https://t.co/YI0q9e59Rg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2094491469335892004",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 213,
+          "following_count": 282,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 500
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

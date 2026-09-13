@@ -1,0 +1,175 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092742749183426561"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2092742756569645121",
+    "created_at": "2026-08-26T22:35:29.000Z",
+    "display_text_range": [
+      0,
+      133
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-26T23:35:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092742756569645121"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/5vsq4DyVm3",
+          "end": 157,
+          "expanded_url": "https://x.com/YangDowond/status/2092742756569645121/photo/1",
+          "media_key": "3_2092742749183426561",
+          "start": 134,
+          "url": "https://t.co/5vsq4DyVm3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092742756569645121",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2092742749183426561"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "回家了，住了一天院感觉不太行…这地方是真正的疯人院啊（我不是被强制住院的）\n回家打了点N2O，看样子不管是什么东西还得是上头快的成瘾性高啊，这种冲头速度的解离哪怕是k也很难提供呢（当然解离程度和真正的强效解离剂比不了）\n不建议大家玩这个哦，对神经会有不可逆的损伤的！ https://t.co/5vsq4DyVm3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092742749183426561",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQrqcUtaQAEAwhr.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092742749183426561"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2092742756569645121",
+        "created_at": "2026-08-26T22:35:29.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-26T23:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092742756569645121"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5vsq4DyVm3",
+              "end": 157,
+              "expanded_url": "https://x.com/YangDowond/status/2092742756569645121/photo/1",
+              "media_key": "3_2092742749183426561",
+              "start": 134,
+              "url": "https://t.co/5vsq4DyVm3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092742756569645121",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092742749183426561"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "回家了，住了一天院感觉不太行…这地方是真正的疯人院啊（我不是被强制住院的）\n回家打了点N2O，看样子不管是什么东西还得是上头快的成瘾性高啊，这种冲头速度的解离哪怕是k也很难提供呢（当然解离程度和真正的强效解离剂比不了）\n不建议大家玩这个哦，对神经会有不可逆的损伤的！ https://t.co/5vsq4DyVm3"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2092742756569645121",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 178,
+          "following_count": 262,
+          "like_count": 405,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 419
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

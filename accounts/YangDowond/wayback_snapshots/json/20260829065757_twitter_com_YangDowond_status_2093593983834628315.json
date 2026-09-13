@@ -1,0 +1,247 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2093495933518684419",
+    "created_at": "2026-08-29T06:57:57.000Z",
+    "display_text_range": [
+      14,
+      62
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T07:57:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093593983834628315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1199354344501497856",
+          "start": 0,
+          "username": "silentparty1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093593983834628315",
+    "in_reply_to_user_id": "1199354344501497856",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093581239764828572",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@silentparty1 yep，只要外面有条链和环能稳住前面的氮原子可以插进miu受体和天冬氨酸残基形成盐桥就可以力（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2093495933518684419",
+        "created_at": "2026-08-29T06:57:57.000Z",
+        "display_text_range": [
+          14,
+          62
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:57:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093593983834628315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1199354344501497856",
+              "start": 0,
+              "username": "silentparty1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093593983834628315",
+        "in_reply_to_user_id": "1199354344501497856",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093581239764828572",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@silentparty1 yep，只要外面有条链和环能稳住前面的氮原子可以插进miu受体和天冬氨酸残基形成盐桥就可以力（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1199354344501497856",
+        "conversation_id": "2093495933518684419",
+        "created_at": "2026-08-29T06:07:19.000Z",
+        "display_text_range": [
+          12,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T07:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093581239764828572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093581239764828572",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 16,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093495933518684419",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 所以tianeptine和自己高度怀疑的amineptine那个长长的7碳链有μ受体活性也在情理之中了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2093593983834628315",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 199,
+          "following_count": 268,
+          "like_count": 418,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 457
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-11-26T15:49:50.000Z",
+        "description": "facing the dizzying light/想做个收集知识的八爪鱼/25年12月之前的点赞和推文是自己曾经的样子/国男/指路正经账号@silentparty5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 70,
+                "username": "silentparty5"
+              }
+            ]
+          }
+        },
+        "id": "1199354344501497856",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093581239764828572",
+        "name": "夢原あかね",
+        "pinned_tweet_id": "2077293764981510479",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1199354344501497856/1696773417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029482269208125440/8CB2HPOi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 215,
+          "following_count": 473,
+          "like_count": 14973,
+          "listed_count": 1,
+          "media_count": 632,
+          "tweet_count": 4298
+        },
+        "url": "",
+        "username": "silentparty1",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

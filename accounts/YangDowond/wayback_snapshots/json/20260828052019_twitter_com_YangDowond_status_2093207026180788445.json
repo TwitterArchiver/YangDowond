@@ -1,0 +1,265 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2093207017104269312"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2093205303005237583",
+    "created_at": "2026-08-28T05:20:19.000Z",
+    "display_text_range": [
+      14,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-28T06:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093207026180788445"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2090032448050524161",
+          "start": 0,
+          "username": "Yuki1161taff"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/xHoStoondO",
+          "end": 46,
+          "expanded_url": "https://x.com/YangDowond/status/2093207026180788445/photo/1",
+          "media_key": "16_2093207017104269312",
+          "start": 23,
+          "url": "https://t.co/xHoStoondO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093207026180788445",
+    "in_reply_to_user_id": "2090032448050524161",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2093207017104269312"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093205303005237583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161taff 猫不错，给我摸摸 https://t.co/xHoStoondO"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2093205303005237583].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2093205303005237583",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2093205303005237583"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 360,
+        "media_key": "16_2093207017104269312",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HQyQsRfa4AA1LV_.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HQyQsRfa4AA1LV_.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2093207017104269312"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2093205303005237583",
+        "created_at": "2026-08-28T05:20:19.000Z",
+        "display_text_range": [
+          14,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T06:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093207026180788445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2090032448050524161",
+              "start": 0,
+              "username": "Yuki1161taff"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/xHoStoondO",
+              "end": 46,
+              "expanded_url": "https://x.com/YangDowond/status/2093207026180788445/photo/1",
+              "media_key": "16_2093207017104269312",
+              "start": 23,
+              "url": "https://t.co/xHoStoondO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093207026180788445",
+        "in_reply_to_user_id": "2090032448050524161",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2093207017104269312"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093205303005237583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161taff 猫不错，给我摸摸 https://t.co/xHoStoondO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2093207026180788445",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 268,
+          "like_count": 415,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 446
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-19T11:07:46.000Z",
+        "description": "早已逝去之人 早已宽恕之罪 姐姐@Cecey33\n💊報告🩸等一些負面會些轉發到@yuki11300026\n互fo微查成分可私信fo¹/基本無雷²/不fo詭異號²\n岐的成分複雜做好被雷準備/秩序中立¹/🫳🏻摸摸路人²\n共號/路評/互動²/解離²/抑制²/💊²/🩸²/🐱²/🎵²/☺️²\n\n对不起，我可能有时候很坏-岐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 16,
+                "username": "Cecey33"
+              },
+              {
+                "end": 52,
+                "start": 39,
+                "username": "yuki11300026"
+              }
+            ]
+          }
+        },
+        "id": "2090032448050524161",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093116983197753778",
+        "name": "岐哥。5。#心宿二",
+        "pinned_tweet_id": "2092753743066632641",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2090032448050524161/1787803233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092451553412079616/ujbHdi_I_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 308,
+          "like_count": 703,
+          "listed_count": 0,
+          "media_count": 67,
+          "tweet_count": 509
+        },
+        "url": "",
+        "username": "Yuki1161taff",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

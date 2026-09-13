@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2093330185915707703",
+    "created_at": "2026-08-29T09:29:26.000Z",
+    "display_text_range": [
+      10,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-29T10:29:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2093632106555752735"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2092979508450414592",
+          "start": 0,
+          "username": "shuniu21"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2093632106555752735",
+    "in_reply_to_user_id": "2092979508450414592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093330185915707703",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shuniu21 这烟瘾够大的，烟碱重度依赖（）\n其实我感觉电子烟比起纸烟更难戒，它太方便了随手拿起来就抽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2093328917302284288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQz_jzHbEAAKhjC.jpg",
+        "width": 4096
+      },
+      {
+        "duration_ms": 8490,
+        "height": 1280,
+        "media_key": "13_2093329162224418816",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093329162224418816/img/r7WtD6iAhpOsr79W.jpg",
+        "public_metrics": {
+          "view_count": 72
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093329162224418816/vid/avc1/320x568/pQs9exHrUROPSYm1.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093329162224418816/vid/avc1/480x852/0YaPRFcvlKgRGqk3.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093329162224418816/vid/avc1/720x1280/gMZ35dlJjxtj3pCv.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093329162224418816/pl/AylGeZHbCtiP-dox.m3u8"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "duration_ms": 2687,
+        "height": 720,
+        "media_key": "13_2093329680200089600",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093329680200089600/img/wHhA-_pCbbucfxpb.jpg",
+        "public_metrics": {
+          "view_count": 10
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093329680200089600/vid/avc1/360x270/xqyixNQuNhHPzXKj.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093329680200089600/vid/avc1/480x360/O1vRgToyjsR7y6HW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093329680200089600/vid/avc1/960x720/VWfomblVicbn3KYZ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093329680200089600/pl/01yxqagBfsriTcdG.m3u8"
+          }
+        ],
+        "width": 960
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2093329907032166400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQ0AdaJakAA20a8.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2093330185915707703",
+        "created_at": "2026-08-29T09:29:26.000Z",
+        "display_text_range": [
+          10,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-29T10:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093632106555752735"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2092979508450414592",
+              "start": 0,
+              "username": "shuniu21"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093632106555752735",
+        "in_reply_to_user_id": "2092979508450414592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093330185915707703",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shuniu21 这烟瘾够大的，烟碱重度依赖（）\n其实我感觉电子烟比起纸烟更难戒，它太方便了随手拿起来就抽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2093328917302284288",
+            "13_2093329162224418816",
+            "13_2093329680200089600",
+            "3_2093329907032166400"
+          ]
+        },
+        "author_id": "2092979508450414592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2093330185915707703",
+        "created_at": "2026-08-28T13:29:43.000Z",
+        "display_text_range": [
+          0,
+          34
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T14:29:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2093330185915707703"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/Pe35wBwSdd",
+              "end": 58,
+              "expanded_url": "https://x.com/shuniu21/status/2093330185915707703/video/1",
+              "media_key": "3_2093328917302284288",
+              "start": 35,
+              "url": "https://t.co/Pe35wBwSdd"
+            },
+            {
+              "display_url": "pic.x.com/Pe35wBwSdd",
+              "end": 58,
+              "expanded_url": "https://x.com/shuniu21/status/2093330185915707703/video/1",
+              "media_key": "13_2093329162224418816",
+              "start": 35,
+              "url": "https://t.co/Pe35wBwSdd"
+            },
+            {
+              "display_url": "pic.x.com/Pe35wBwSdd",
+              "end": 58,
+              "expanded_url": "https://x.com/shuniu21/status/2093330185915707703/video/1",
+              "media_key": "13_2093329680200089600",
+              "start": 35,
+              "url": "https://t.co/Pe35wBwSdd"
+            },
+            {
+              "display_url": "pic.x.com/Pe35wBwSdd",
+              "end": 58,
+              "expanded_url": "https://x.com/shuniu21/status/2093330185915707703/video/1",
+              "media_key": "3_2093329907032166400",
+              "start": 35,
+              "url": "https://t.co/Pe35wBwSdd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093330185915707703",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2093328917302284288"
+          },
+          {
+            "media_key": "13_2093329162224418816"
+          },
+          {
+            "media_key": "13_2093329680200089600"
+          },
+          {
+            "media_key": "3_2093329907032166400"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 171,
+          "like_count": 10,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一天两包半纸烟➕一周两根1.8w口电子烟。。把食欲进化掉的后果吗？！ https://t.co/Pe35wBwSdd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2093632106555752735",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 272,
+          "like_count": 422,
+          "listed_count": 0,
+          "media_count": 76,
+          "tweet_count": 471
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T14:17:37.000Z",
+        "description": "枢纽2.0诞生！~~\n前世@Stolly21_TG 已陨落。\n学习药理的oder、ed、162cm35kg、鼻吸130mgDPT存活、休学无所事事、尼古丁依赖持续、外出无能家里蹲。（互fo欢迎~查成分回fo回私信这些！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 13,
+                "username": "Stolly21_TG"
+              }
+            ]
+          }
+        },
+        "id": "2092979508450414592",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093605929510150211",
+        "name": "枢纽Toky（互关寻回",
+        "pinned_tweet_id": "2092987661032259856",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092979508450414592/1787842871",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092980101415829504/XqQS0kSc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 65,
+          "like_count": 77,
+          "listed_count": 0,
+          "media_count": 4,
+          "tweet_count": 32
+        },
+        "url": "",
+        "username": "shuniu21",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

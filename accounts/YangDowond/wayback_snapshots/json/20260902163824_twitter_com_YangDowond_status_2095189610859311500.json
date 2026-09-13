@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2095164630230520230",
+    "created_at": "2026-09-02T16:38:24.000Z",
+    "display_text_range": [
+      29,
+      38
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:38:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095189610859311500"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1859117911119720448",
+          "start": 0,
+          "username": "bp01110526"
+        },
+        {
+          "end": 28,
+          "id": "1503516796493590530",
+          "start": 12,
+          "username": "orangefish_stew"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095189610859311500",
+    "in_reply_to_user_id": "1859117911119720448",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095188899861787026",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bp01110526 @orangefish_stew 还有bzd圣经（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2095164630230520230",
+        "created_at": "2026-09-02T16:38:24.000Z",
+        "display_text_range": [
+          29,
+          38
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:38:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095189610859311500"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1859117911119720448",
+              "start": 0,
+              "username": "bp01110526"
+            },
+            {
+              "end": 28,
+              "id": "1503516796493590530",
+              "start": 12,
+              "username": "orangefish_stew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095189610859311500",
+        "in_reply_to_user_id": "1859117911119720448",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095188899861787026",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bp01110526 @orangefish_stew 还有bzd圣经（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1859117911119720448",
+        "conversation_id": "2095164630230520230",
+        "created_at": "2026-09-02T16:35:35.000Z",
+        "display_text_range": [
+          29,
+          186
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:35:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095188899861787026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            },
+            {
+              "end": 28,
+              "id": "1503516796493590530",
+              "start": 12,
+              "username": "orangefish_stew"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095188899861787026",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095187409248161901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond @orangefish_stew bp晓谕一众失眠之人说：\n“你们当谨慎服用トリアゾラム\n剂量是0.25mg\n不可把0.5mg当成0.25mg，也不可因一时睡不着，擅自把一片变成两片。\n0.25mg，就是0.25mg。\n既已服下，就当停住；\n不可再加，不可自欺说：‘再来一点，应该没事。’\n因为后来断片的人，起初往往都说：\n‘我感觉自己还挺正常。’"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2095189610859311500",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 295,
+          "like_count": 437,
+          "listed_count": 0,
+          "media_count": 91,
+          "tweet_count": 553
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-20T06:13:53.000Z",
+        "description": "🚪\n99 纯绿\n199半绿",
+        "id": "1859117911119720448",
+        "is_identity_verified": false,
+        "location": "日本 東京",
+        "most_recent_tweet_id": "2095188899861787026",
+        "name": "bp",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2068470591666204672/ekn4YUFf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 119,
+          "following_count": 113,
+          "like_count": 9076,
+          "listed_count": 2,
+          "media_count": 295,
+          "tweet_count": 4908
+        },
+        "url": "",
+        "username": "bp01110526",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-14T23:42:07.000Z",
+        "description": "何处有香丘｜18大专牲｜INFP｜代词随意｜🏳️‍🌈喜欢男的｜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/orangefish_ste…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/orangefish_stew75829",
+                "start": 0,
+                "url": "https://t.co/I42jWGR17A"
+              }
+            ]
+          }
+        },
+        "id": "1503516796493590530",
+        "is_identity_verified": false,
+        "location": "青岛",
+        "most_recent_tweet_id": "2095168613124845992",
+        "name": "橙汁烩鱼",
+        "pinned_tweet_id": "2071353465612468377",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1503516796493590530/1734157751",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1867818610703339520/TcGpAQTB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6546,
+          "following_count": 2638,
+          "like_count": 63653,
+          "listed_count": 3,
+          "media_count": 786,
+          "tweet_count": 9567
+        },
+        "url": "https://t.co/I42jWGR17A",
+        "username": "orangefish_stew",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

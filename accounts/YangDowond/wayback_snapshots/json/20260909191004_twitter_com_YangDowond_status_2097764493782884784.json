@@ -1,0 +1,262 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2097763268047822947",
+    "created_at": "2026-09-09T19:10:04.000Z",
+    "display_text_range": [
+      14,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T20:10:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097764493782884784"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1683001001043984384",
+          "start": 0,
+          "username": "TudouCn24795"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097764493782884784",
+    "in_reply_to_user_id": "1683001001043984384",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097763268047822947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TudouCn24795 右美托咪定是好的（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097763265795551232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRzAk2ibcAAqE_Y.jpg",
+        "width": 931
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2097763268047822947",
+        "created_at": "2026-09-09T19:10:04.000Z",
+        "display_text_range": [
+          14,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:10:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097764493782884784"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1683001001043984384",
+              "start": 0,
+              "username": "TudouCn24795"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097764493782884784",
+        "in_reply_to_user_id": "1683001001043984384",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097763268047822947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TudouCn24795 右美托咪定是好的（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097763265795551232"
+          ]
+        },
+        "author_id": "1683001001043984384",
+        "conversation_id": "2097763268047822947",
+        "created_at": "2026-09-09T19:05:12.000Z",
+        "display_text_range": [
+          0,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T20:05:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097763268047822947"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hU9o1I2Tcg",
+              "end": 46,
+              "expanded_url": "https://x.com/TudouCn24795/status/2097763268047822947/photo/1",
+              "media_key": "3_2097763265795551232",
+              "start": 23,
+              "url": "https://t.co/hU9o1I2Tcg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097763268047822947",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097763265795551232"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "前面，好用\n中间，把控不好量会似\n后面，忘了 https://t.co/hU9o1I2Tcg"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2097764493782884784",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 281,
+          "following_count": 307,
+          "like_count": 464,
+          "listed_count": 0,
+          "media_count": 105,
+          "tweet_count": 660
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-07-23T06:28:22.000Z",
+        "description": "身高年齡未知 / 愛好畫畫 / wargame / 工作性質特殊 / 無血腥藥物濫用內容 / 無政治內容 / 無 r18g 內容 / 少女終末旅行賽高",
+        "id": "1683001001043984384",
+        "is_identity_verified": false,
+        "location": "黄河路地铁站",
+        "most_recent_tweet_id": "2097763356014989425",
+        "name": "暖春☁",
+        "pinned_tweet_id": "2046723517463642257",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1683001001043984384/1735973959",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024831783003676672/uTnSwwGW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1324,
+          "following_count": 669,
+          "like_count": 5040,
+          "listed_count": 4,
+          "media_count": 212,
+          "tweet_count": 2888
+        },
+        "url": "",
+        "username": "TudouCn24795",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

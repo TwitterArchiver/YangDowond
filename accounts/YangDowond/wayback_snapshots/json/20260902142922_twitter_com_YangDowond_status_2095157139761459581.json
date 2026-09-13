@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2095157132148834304",
+        "3_2095157132362690560"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2095157139761459581",
+    "created_at": "2026-09-02T14:29:22.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T15:29:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2095157139761459581"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/3NaQZIXVbf",
+          "end": 83,
+          "expanded_url": "https://x.com/YangDowond/status/2095157139761459581/photo/1",
+          "media_key": "3_2095157132148834304",
+          "start": 60,
+          "url": "https://t.co/3NaQZIXVbf"
+        },
+        {
+          "display_url": "pic.x.com/3NaQZIXVbf",
+          "end": 83,
+          "expanded_url": "https://x.com/YangDowond/status/2095157139761459581/photo/1",
+          "media_key": "3_2095157132362690560",
+          "start": 60,
+          "url": "https://t.co/3NaQZIXVbf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095157139761459581",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2095157132148834304"
+      },
+      {
+        "media_key": "3_2095157132362690560"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "有没有老资历分享一下国内批没批过辉瑞原研的阿普（Xanax）？\n以及这种长条的Xanax Bar掰起来手感到底怎么样？ https://t.co/3NaQZIXVbf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_2095157132148834304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRN-T6JbgAA6PcG.jpg",
+        "width": 1536
+      },
+      {
+        "height": 297,
+        "media_key": "3_2095157132362690560",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRN-T68asAAowYO.jpg",
+        "width": 390
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095157132148834304",
+            "3_2095157132362690560"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2095157139761459581",
+        "created_at": "2026-09-02T14:29:22.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T15:29:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095157139761459581"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3NaQZIXVbf",
+              "end": 83,
+              "expanded_url": "https://x.com/YangDowond/status/2095157139761459581/photo/1",
+              "media_key": "3_2095157132148834304",
+              "start": 60,
+              "url": "https://t.co/3NaQZIXVbf"
+            },
+            {
+              "display_url": "pic.x.com/3NaQZIXVbf",
+              "end": 83,
+              "expanded_url": "https://x.com/YangDowond/status/2095157139761459581/photo/1",
+              "media_key": "3_2095157132362690560",
+              "start": 60,
+              "url": "https://t.co/3NaQZIXVbf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095157139761459581",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095157132148834304"
+          },
+          {
+            "media_key": "3_2095157132362690560"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "有没有老资历分享一下国内批没批过辉瑞原研的阿普（Xanax）？\n以及这种长条的Xanax Bar掰起来手感到底怎么样？ https://t.co/3NaQZIXVbf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2095157139761459581",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241,
+          "following_count": 291,
+          "like_count": 434,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 535
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

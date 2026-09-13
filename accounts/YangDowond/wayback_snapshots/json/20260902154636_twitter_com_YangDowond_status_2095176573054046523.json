@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2095171754545279145",
+    "created_at": "2026-09-02T15:46:36.000Z",
+    "display_text_range": [
+      15,
+      111
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T16:46:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095176573054046523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2075153569247064064",
+          "start": 0,
+          "username": "tinydancer535"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095176573054046523",
+    "in_reply_to_user_id": "2075153569247064064",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095176071276814564",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tinydancer535 我这是完全的业余兴趣了hh因为玩💊所以不可避免对药企有兴趣的\n我那同学其实本科实习的时候确实是去药企了，石药集团，但后来毕业了完全找不到药企的工作于是去读研了，成绩确实好然后校招就进了巴斯夫了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2095171754545279145",
+        "created_at": "2026-09-02T15:46:36.000Z",
+        "display_text_range": [
+          15,
+          111
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:46:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095176573054046523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2075153569247064064",
+              "start": 0,
+              "username": "tinydancer535"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095176573054046523",
+        "in_reply_to_user_id": "2075153569247064064",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095176071276814564",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tinydancer535 我这是完全的业余兴趣了hh因为玩💊所以不可避免对药企有兴趣的\n我那同学其实本科实习的时候确实是去药企了，石药集团，但后来毕业了完全找不到药企的工作于是去读研了，成绩确实好然后校招就进了巴斯夫了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2075153569247064064",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2095171754545279145",
+        "created_at": "2026-09-02T15:44:36.000Z",
+        "display_text_range": [
+          12,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T16:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095176071276814564"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "990585162722242560",
+              "start": 0,
+              "username": "YangDowond"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095176071276814564",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 7,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095175483000553833",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YangDowond 我感觉你的专业水平也很厉害了呀！巴斯夫什么的我完全没有考虑过，因为我是理学化学对化工一窍不通（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2095176573054046523",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243,
+          "following_count": 295,
+          "like_count": 435,
+          "listed_count": 0,
+          "media_count": 90,
+          "tweet_count": 545
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-09T10:06:01.000Z",
+        "description": "🏳️‍🌈🏳️‍⚧️ally｜精神疾患｜popipapapipopa!｜发言仅代表我自己",
+        "id": "2075153569247064064",
+        "is_identity_verified": false,
+        "location": "直fo=喜欢你",
+        "most_recent_tweet_id": "2095176071276814564",
+        "name": "惑",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2075153569247064064/1787387316",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2091811298447417344/0BqMxT3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 70,
+          "following_count": 171,
+          "like_count": 9166,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 771
+        },
+        "url": "",
+        "username": "tinydancer535",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

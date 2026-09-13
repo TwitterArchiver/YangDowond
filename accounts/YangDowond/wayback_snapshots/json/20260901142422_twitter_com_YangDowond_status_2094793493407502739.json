@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2094793483588612096"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2094685457351430382",
+    "created_at": "2026-09-01T14:24:22.000Z",
+    "display_text_range": [
+      11,
+      43
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-01T15:24:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094793493407502739"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1462208415837655043",
+          "start": 0,
+          "username": "Prechaska"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/MeaG4Yahx8",
+          "end": 67,
+          "expanded_url": "https://x.com/YangDowond/status/2094793493407502739/photo/1",
+          "media_key": "3_2094793483588612096",
+          "start": 44,
+          "url": "https://t.co/MeaG4Yahx8"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094793493407502739",
+    "in_reply_to_user_id": "1462208415837655043",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2094793483588612096"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094685457351430382",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Prechaska 想起来我的训诫书了，“精神亢奋”，愈美的愈字还写错了更是难绷（） https://t.co/MeaG4Yahx8"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1687,
+        "media_key": "3_2094793483588612096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRIzkxsaMAA-9k2.jpg",
+        "width": 1961
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094793483588612096"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2094685457351430382",
+        "created_at": "2026-09-01T14:24:22.000Z",
+        "display_text_range": [
+          11,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T15:24:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094793493407502739"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1462208415837655043",
+              "start": 0,
+              "username": "Prechaska"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/MeaG4Yahx8",
+              "end": 67,
+              "expanded_url": "https://x.com/YangDowond/status/2094793493407502739/photo/1",
+              "media_key": "3_2094793483588612096",
+              "start": 44,
+              "url": "https://t.co/MeaG4Yahx8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094793493407502739",
+        "in_reply_to_user_id": "1462208415837655043",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094793483588612096"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094685457351430382",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Prechaska 想起来我的训诫书了，“精神亢奋”，愈美的愈字还写错了更是难绷（） https://t.co/MeaG4Yahx8"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1462208415837655043",
+        "conversation_id": "2094685457351430382",
+        "created_at": "2026-09-01T07:15:05.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-01T08:15:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094685457351430382"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/WorstCat/statu…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/WorstCat/status/2094679952188924101",
+              "start": 85,
+              "url": "https://t.co/WyyTc9bJR9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094685457351430382",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1539,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 8,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094679952188924101",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "牛啊，全部愚昧制剂，一键升处方药👍，说明书还需要按要求修订如药物过量部分应包括：“过量服用本品可引起头晕、兴奋、幻觉等”，药理毒理项应删除“长期服用无依赖性”等相关表述 https://t.co/WyyTc9bJR9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2094793493407502739",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 221,
+          "following_count": 284,
+          "like_count": 427,
+          "listed_count": 0,
+          "media_count": 84,
+          "tweet_count": 510
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-20T23:57:17.000Z",
+        "description": "药物滥用｜社会化中｜Kentish Plover lover｜🐦‍⬛watching｜“现在斧子已经放在树根上，凡不结好果子的树就砍下来，丢在火里。” (马太福音 3:10)\n｜现在，可以称呼我为Nui",
+        "id": "1462208415837655043",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094790587451097577",
+        "name": "Nutilité",
+        "pinned_tweet_id": "2006381608522445059",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1462208415837655043/1760041371",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965409582047465472/B6Asr5O0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 355,
+          "following_count": 184,
+          "like_count": 5387,
+          "listed_count": 1,
+          "media_count": 193,
+          "tweet_count": 2289
+        },
+        "url": "",
+        "username": "Prechaska",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

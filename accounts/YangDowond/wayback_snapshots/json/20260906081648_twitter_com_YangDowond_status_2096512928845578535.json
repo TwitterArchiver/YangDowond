@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2096512920104673280"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2096469094870458795",
+    "created_at": "2026-09-06T08:16:48.000Z",
+    "display_text_range": [
+      15,
+      23
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T09:16:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096512928845578535"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2092788164234821632",
+          "start": 0,
+          "username": "Yuki1161_IC26"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/apEuQQheuv",
+          "end": 47,
+          "expanded_url": "https://x.com/YangDowond/status/2096512928845578535/photo/1",
+          "media_key": "16_2096512920104673280",
+          "start": 24,
+          "url": "https://t.co/apEuQQheuv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096512928845578535",
+    "in_reply_to_user_id": "2092788164234821632",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "16_2096512920104673280"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096469094870458795",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161_IC26 猫不错，给我摸摸 https://t.co/apEuQQheuv"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 458,
+        "media_key": "16_2096512920104673280",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HRhPZJ3bIAArNke.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HRhPZJ3bIAArNke.mp4"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 2441,
+        "media_key": "3_2096469008308637696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgndJraEAAHBE0.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2096469066945118208",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRgngkHbwAANZgA.jpg",
+        "width": 2441
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2096512920104673280"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2096469094870458795",
+        "created_at": "2026-09-06T08:16:48.000Z",
+        "display_text_range": [
+          15,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T09:16:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096512928845578535"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2092788164234821632",
+              "start": 0,
+              "username": "Yuki1161_IC26"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/apEuQQheuv",
+              "end": 47,
+              "expanded_url": "https://x.com/YangDowond/status/2096512928845578535/photo/1",
+              "media_key": "16_2096512920104673280",
+              "start": 24,
+              "url": "https://t.co/apEuQQheuv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096512928845578535",
+        "in_reply_to_user_id": "2092788164234821632",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "16_2096512920104673280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096469094870458795",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161_IC26 猫不错，给我摸摸 https://t.co/apEuQQheuv"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096469008308637696",
+            "3_2096469066945118208"
+          ]
+        },
+        "author_id": "2092788164234821632",
+        "conversation_id": "2096469094870458795",
+        "created_at": "2026-09-06T05:22:37.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T06:22:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096469094870458795"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/6M6sciZ4ic",
+              "end": 29,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2096469094870458795/photo/1",
+              "media_key": "3_2096469008308637696",
+              "start": 6,
+              "url": "https://t.co/6M6sciZ4ic"
+            },
+            {
+              "display_url": "pic.x.com/6M6sciZ4ic",
+              "end": 29,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2096469094870458795/photo/1",
+              "media_key": "3_2096469066945118208",
+              "start": 6,
+              "url": "https://t.co/6M6sciZ4ic"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096469094870458795",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2096469008308637696"
+          },
+          {
+            "media_key": "3_2096469066945118208"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 111,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "西瓜和叫叫 https://t.co/6M6sciZ4ic"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096512928845578535",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 263,
+          "following_count": 303,
+          "like_count": 448,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 595
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "🚪8.9/6.4 用于给习主席买包子吃/岐哥第六世\n\n早已逝去之人 早已宽恕之罪——特雷西娅\n属于我的姐姐@Cecey33 ⁺共号\n直fo喜歡的人/喜欢🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "Cecey33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki1161_ic26",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki1161_ic26",
+                "start": 0,
+                "url": "https://t.co/aC39wCmdXR"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2096486745302831604",
+        "name": "岐#心宿二",
+        "pinned_tweet_id": "2095459432368910758",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1788035697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096464883303010304/XZtwCCUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 269,
+          "like_count": 662,
+          "listed_count": 0,
+          "media_count": 71,
+          "tweet_count": 577
+        },
+        "url": "https://t.co/aC39wCmdXR",
+        "username": "Yuki1161_IC26",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

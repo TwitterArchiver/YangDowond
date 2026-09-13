@@ -1,0 +1,283 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2096634514500100420",
+    "created_at": "2026-09-06T16:19:56.000Z",
+    "display_text_range": [
+      0,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:19:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096634514500100420"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/wlyhassi/statu…",
+          "end": 88,
+          "expanded_url": "https://twitter.com/wlyhassi/status/1418018961275432967",
+          "start": 65,
+          "url": "https://t.co/71bdZtlzAp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096634514500100420",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1418018961275432967",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "00年代国内也很流行含可待因的糖浆，不过当时国内的滥用者们似乎不会兑雪碧啥的这么喝？\n不过后来政府和药监把那一批糖浆全部取缔了😭 https://t.co/71bdZtlzAp"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 747,
+        "media_key": "3_1418018956280008707",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/E63Quk3XEAMAbmk.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2096634514500100420",
+        "created_at": "2026-09-06T16:19:56.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:19:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096634514500100420"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/wlyhassi/statu…",
+              "end": 88,
+              "expanded_url": "https://twitter.com/wlyhassi/status/1418018961275432967",
+              "start": 65,
+              "url": "https://t.co/71bdZtlzAp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096634514500100420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1418018961275432967",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "00年代国内也很流行含可待因的糖浆，不过当时国内的滥用者们似乎不会兑雪碧啥的这么喝？\n不过后来政府和药监把那一批糖浆全部取缔了😭 https://t.co/71bdZtlzAp"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1418018956280008707"
+          ]
+        },
+        "author_id": "1316829415368798213",
+        "conversation_id": "1418018961275432967",
+        "created_at": "2021-07-22T01:24:00.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2021-07-22T01:54:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1418018961275432967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7vtdy9ULOF",
+              "end": 67,
+              "expanded_url": "https://x.com/weloveyouhassi/status/1418018961275432967/photo/1",
+              "media_key": "3_1418018956280008707",
+              "start": 44,
+              "url": "https://t.co/7vtdy9ULOF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1418018961275432967",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_1418018956280008707"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 462,
+          "impression_count": 0,
+          "like_count": 49181,
+          "quote_count": 380,
+          "reply_count": 164,
+          "retweet_count": 5351
+        },
+        "reply_settings": "everyone",
+        "text": "trying lean for the first time wish me luck https://t.co/7vtdy9ULOF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096634514500100420",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 306,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 621
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-10-15T19:53:08.000Z",
+        "description": "@weloveyouhassi",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 0,
+                "username": "weloveyouhassi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/bighasso",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/bighasso",
+                "start": 0,
+                "url": "https://t.co/2vVSxmdHUb"
+              }
+            ]
+          }
+        },
+        "id": "1316829415368798213",
+        "is_identity_verified": false,
+        "location": "dm for promo",
+        "most_recent_tweet_id": "2095313972815634851",
+        "name": "hassi ＊",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1316829415368798213/1676418661",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1585691946965663749/DJjKRLWY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26493,
+          "following_count": 1146,
+          "like_count": 440182,
+          "listed_count": 52,
+          "media_count": 9657,
+          "tweet_count": 29279
+        },
+        "url": "https://t.co/2vVSxmdHUb",
+        "username": "wlyhassi",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

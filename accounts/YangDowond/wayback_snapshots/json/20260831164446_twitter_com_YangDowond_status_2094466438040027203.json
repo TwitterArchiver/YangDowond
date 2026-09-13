@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2094466438040027203",
+    "created_at": "2026-08-31T16:44:46.000Z",
+    "display_text_range": [
+      0,
+      91
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T17:44:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2094466438040027203"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/yangdowond/sta…",
+          "end": 115,
+          "expanded_url": "https://twitter.com/yangdowond/status/2092772759764136284",
+          "start": 92,
+          "url": "https://t.co/KScHAeRHTg"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094466438040027203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {},
+      "text": "想用dex改善睡眠的可以去找叶老板，他是有人用版本的，兽用的是芬兰orion原研（多咪静）的还挺贵，人用的反而便宜\n我用兽用的原因是因为在宠物医院打过工，近水楼台就直接开始尝试了（）\n叶老板的叫“熵减”，鼻喷，安全起效也很快，然后希望大家不要去买试剂尝试鼻喷和注射，毕竟无菌标准和残留的毒素水平是完全不一样的！"
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092772759764136284",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "想用dex改善睡眠的可以去找叶老板，他是有人用版本的，兽用的是芬兰orion原研（多咪静）的还挺贵，人用的反而便宜\n我用兽用的原因是因为在宠物医院打过工，近水楼台就直接开始尝试了（） https://t.co/KScHAeRHTg"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092772751291580416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQsFurRaAAAqXJj.jpg",
+        "width": 947
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2094466438040027203",
+        "created_at": "2026-08-31T16:44:46.000Z",
+        "display_text_range": [
+          0,
+          91
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T17:44:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2094466438040027203"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/yangdowond/sta…",
+              "end": 115,
+              "expanded_url": "https://twitter.com/yangdowond/status/2092772759764136284",
+              "start": 92,
+              "url": "https://t.co/KScHAeRHTg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094466438040027203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "想用dex改善睡眠的可以去找叶老板，他是有人用版本的，兽用的是芬兰orion原研（多咪静）的还挺贵，人用的反而便宜\n我用兽用的原因是因为在宠物医院打过工，近水楼台就直接开始尝试了（）\n叶老板的叫“熵减”，鼻喷，安全起效也很快，然后希望大家不要去买试剂尝试鼻喷和注射，毕竟无菌标准和残留的毒素水平是完全不一样的！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092772759764136284",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "想用dex改善睡眠的可以去找叶老板，他是有人用版本的，兽用的是芬兰orion原研（多咪静）的还挺贵，人用的反而便宜\n我用兽用的原因是因为在宠物医院打过工，近水楼台就直接开始尝试了（） https://t.co/KScHAeRHTg"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092772751291580416"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2092772759764136284",
+        "created_at": "2026-08-27T00:34:42.000Z",
+        "display_text_range": [
+          0,
+          142
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:34:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092772759764136284"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/91QikZEpEZ",
+              "end": 166,
+              "expanded_url": "https://x.com/YangDowond/status/2092772759764136284/photo/1",
+              "media_key": "3_2092772751291580416",
+              "start": 143,
+              "url": "https://t.co/91QikZEpEZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092772759764136284",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2092772751291580416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 2310,
+          "like_count": 29,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "关于dex这个东西，有的人买到的是人用的，有些人买到的是兽用的，要注意兽用的浓度高很多，因为猫和狗小动物们肾上腺素a2受体数量比人少很多\n人用临床上一般是静脉微量泵输注，兽用一般是肌肉注射，我试验了多次人用的话肌肉注射也可以，但这很随机，受吸收速率影响很大，所以一般还是建议鼻喷就可以 https://t.co/91QikZEpEZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2094466438040027203",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 212,
+          "following_count": 281,
+          "like_count": 424,
+          "listed_count": 0,
+          "media_count": 80,
+          "tweet_count": 494
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

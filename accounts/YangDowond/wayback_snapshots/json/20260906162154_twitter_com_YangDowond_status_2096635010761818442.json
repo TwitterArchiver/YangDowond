@@ -1,0 +1,344 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2096628954400452862",
+    "created_at": "2026-09-06T16:21:54.000Z",
+    "display_text_range": [
+      15,
+      47
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T17:21:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096635010761818442"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2092788164234821632",
+          "start": 0,
+          "username": "Yuki1161_IC26"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096635010761818442",
+    "in_reply_to_user_id": "2092788164234821632",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096628954400452862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yuki1161_IC26 岐哥可以试试曲马多呀，弱阿片里我最喜欢的一个（不过岐哥好像用过？"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 928,
+        "media_key": "3_2096628914718466048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi447ebYAAsAtq.jpg",
+        "width": 1080
+      },
+      {
+        "height": 947,
+        "media_key": "3_2096628925791399936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi45kua8AARZxT.jpg",
+        "width": 1080
+      },
+      {
+        "height": 984,
+        "media_key": "3_2096628934603366401",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi46FjW4AEWXLB.jpg",
+        "width": 1080
+      },
+      {
+        "height": 887,
+        "media_key": "3_2096628943528796162",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRi46mzWIAIcIew.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2096628954400452862",
+        "created_at": "2026-09-06T16:21:54.000Z",
+        "display_text_range": [
+          15,
+          47
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T17:21:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096635010761818442"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2092788164234821632",
+              "start": 0,
+              "username": "Yuki1161_IC26"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096635010761818442",
+        "in_reply_to_user_id": "2092788164234821632",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096628954400452862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yuki1161_IC26 岐哥可以试试曲马多呀，弱阿片里我最喜欢的一个（不过岐哥好像用过？"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096628914718466048",
+            "3_2096628925791399936",
+            "3_2096628934603366401",
+            "3_2096628943528796162"
+          ]
+        },
+        "author_id": "2092788164234821632",
+        "conversation_id": "2096628954400452862",
+        "created_at": "2026-09-06T15:57:50.000Z",
+        "display_text_range": [
+          0,
+          77
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T16:57:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096628954400452862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/z01JczFSI7",
+              "end": 101,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2096628954400452862/photo/1",
+              "media_key": "3_2096628914718466048",
+              "start": 78,
+              "url": "https://t.co/z01JczFSI7"
+            },
+            {
+              "display_url": "pic.x.com/z01JczFSI7",
+              "end": 101,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2096628954400452862/photo/1",
+              "media_key": "3_2096628925791399936",
+              "start": 78,
+              "url": "https://t.co/z01JczFSI7"
+            },
+            {
+              "display_url": "pic.x.com/z01JczFSI7",
+              "end": 101,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2096628954400452862/photo/1",
+              "media_key": "3_2096628934603366401",
+              "start": 78,
+              "url": "https://t.co/z01JczFSI7"
+            },
+            {
+              "display_url": "pic.x.com/z01JczFSI7",
+              "end": 101,
+              "expanded_url": "https://x.com/Yuki1161_IC26/status/2096628954400452862/photo/1",
+              "media_key": "3_2096628943528796162",
+              "start": 78,
+              "url": "https://t.co/z01JczFSI7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096628954400452862",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096628914718466048"
+          },
+          {
+            "media_key": "3_2096628925791399936"
+          },
+          {
+            "media_key": "3_2096628934603366401"
+          },
+          {
+            "media_key": "3_2096628943528796162"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我们大家都要好好的别死，真的，坏人会笑\n\n喵喵喵喵喵喵🐱🐱🐱\n\n你应该是一个可爱的好宝宝\n\nzen有1161不过比较贵，我现在只是通过自己的渠道获得白兔吃 https://t.co/z01JczFSI7"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096635010761818442",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 306,
+          "like_count": 456,
+          "listed_count": 0,
+          "media_count": 100,
+          "tweet_count": 622
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-27T01:37:48.000Z",
+        "description": "🚪8.9/6.4 用于给习主席买包子吃/岐哥第六世\n\n早已逝去之人 早已宽恕之罪——特雷西娅\n属于我的姐姐@Cecey33 ⁺共号\n直fo喜歡的人/喜欢🐱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 61,
+                "start": 53,
+                "username": "Cecey33"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yuki3mepcpy",
+                "end": 23,
+                "expanded_url": "https://ngl.link/yuki3mepcpy",
+                "start": 0,
+                "url": "https://t.co/d3QOTu2Gty"
+              }
+            ]
+          }
+        },
+        "id": "2092788164234821632",
+        "is_identity_verified": false,
+        "location": "衫之宮區 北校 C棟天台",
+        "most_recent_tweet_id": "2096634727092412650",
+        "name": "岐#心宿二",
+        "pinned_tweet_id": "2096634065289871445",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2092788164234821632/1788035697",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096464883303010304/XZtwCCUx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 275,
+          "like_count": 716,
+          "listed_count": 0,
+          "media_count": 73,
+          "tweet_count": 632
+        },
+        "url": "https://t.co/d3QOTu2Gty",
+        "username": "Yuki1161_IC26",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

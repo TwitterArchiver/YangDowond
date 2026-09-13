@@ -1,0 +1,318 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2095138334201045393",
+    "created_at": "2026-09-07T00:44:27.000Z",
+    "display_text_range": [
+      15,
+      20
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T01:44:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096761481262223849"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2066161725322526720",
+          "start": 0,
+          "username": "MTFitness6780"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096761481262223849",
+    "in_reply_to_user_id": "2066161725322526720",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095138334201045393",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MTFitness6780 od无罪！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3697,
+        "media_key": "3_2095138298750705664",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNtLqRaIAAza9C.jpg",
+        "width": 2880
+      },
+      {
+        "height": 3700,
+        "media_key": "3_2095138314575806464",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRNtMlOaAAAB-nK.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2095138334201045393",
+        "created_at": "2026-09-07T00:44:27.000Z",
+        "display_text_range": [
+          15,
+          20
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T01:44:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096761481262223849"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2066161725322526720",
+              "start": 0,
+              "username": "MTFitness6780"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096761481262223849",
+        "in_reply_to_user_id": "2066161725322526720",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095138334201045393",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MTFitness6780 od无罪！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095138298750705664",
+            "3_2095138314575806464"
+          ]
+        },
+        "author_id": "2066161725322526720",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Science",
+              "id": "854692455005921281",
+              "name": "Science"
+            }
+          }
+        ],
+        "conversation_id": "2095138334201045393",
+        "created_at": "2026-09-02T13:14:39.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T14:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095138334201045393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OHPzWPVA9i",
+              "end": 168,
+              "expanded_url": "https://x.com/MTFitness6780/status/2095138334201045393/photo/1",
+              "media_key": "3_2095138298750705664",
+              "start": 145,
+              "url": "https://t.co/OHPzWPVA9i"
+            },
+            {
+              "display_url": "pic.x.com/OHPzWPVA9i",
+              "end": 168,
+              "expanded_url": "https://x.com/MTFitness6780/status/2095138334201045393/photo/1",
+              "media_key": "3_2095138314575806464",
+              "start": 145,
+              "url": "https://t.co/OHPzWPVA9i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095138334201045393",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095138298750705664"
+          },
+          {
+            "media_key": "3_2095138314575806464"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 8,
+          "impression_count": 3871,
+          "like_count": 54,
+          "quote_count": 3,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我不太相信精神科了...O💊给我治好了，之前规律服用医生开的，测出来都远离健全B，现在动不动化学极乐（我停了精神科药物，因为影响效果），反而达到健全B水平了\n多退少补的治疗我已经恨之入骨，我就是在一次下机的过程中突然想到很多事情，分析了一切的原因大彻大悟没有问题了\n支持娱乐性用药合法化! https://t.co/OHPzWPVA9i"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096761481262223849",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 264,
+          "following_count": 307,
+          "like_count": 459,
+          "listed_count": 0,
+          "media_count": 102,
+          "tweet_count": 633
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-14T14:18:33.000Z",
+        "description": "08年MTF一枚 家长党😋 OD（?）紫餐（?）主人：@Antumn_Ink9   随意提问喵↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 27,
+                "username": "Antumn_Ink9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/mtfitness6780",
+                "end": 23,
+                "expanded_url": "https://ngl.link/mtfitness6780",
+                "start": 0,
+                "url": "https://t.co/Z6NiHQe69Q"
+              }
+            ]
+          }
+        },
+        "id": "2066161725322526720",
+        "is_identity_verified": false,
+        "location": "2.8km",
+        "most_recent_tweet_id": "2096642857646055829",
+        "name": "素風motofu",
+        "pinned_tweet_id": "2095138334201045393",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066161725322526720/1782701797",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066716754622173184/mlx9B5Nf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 189,
+          "following_count": 155,
+          "like_count": 1539,
+          "listed_count": 2,
+          "media_count": 54,
+          "tweet_count": 1498
+        },
+        "url": "https://t.co/Z6NiHQe69Q",
+        "username": "MTFitness6780",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

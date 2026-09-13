@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2094436124190253194",
+    "created_at": "2026-08-31T14:47:50.000Z",
+    "display_text_range": [
+      0,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T15:47:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094437010849358324"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2094437010849358324",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094436124190253194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "每次吃巴氯芬都想唱演歌，每次溜点兴奋剂就得听点KMNZ（个人强烈推荐！），至于阿片，那我直接睡过去了，啥也没有啦（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2094436115159932928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRDujMjbYAAZWz1.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2094436124190253194",
+        "created_at": "2026-08-31T14:47:50.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:47:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094437010849358324"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2094437010849358324",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094436124190253194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "每次吃巴氯芬都想唱演歌，每次溜点兴奋剂就得听点KMNZ（个人强烈推荐！），至于阿片，那我直接睡过去了，啥也没有啦（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2094436115159932928"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2094436124190253194",
+        "created_at": "2026-08-31T14:44:19.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T15:44:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094436124190253194"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/fvz2xx0Ie4",
+              "end": 133,
+              "expanded_url": "https://x.com/YangDowond/status/2094436124190253194/photo/1",
+              "media_key": "3_2094436115159932928",
+              "start": 110,
+              "url": "https://t.co/fvz2xx0Ie4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094436124190253194",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2094436115159932928"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这个bzd啊，和巴氯芬联用起来，2t劳拉，9t巴氯芬（感觉我GABA-B已经被拉爆了）我都感觉自己是全知全能的存在了，社交障碍解除max，去抑制max，要开始独自一人发疯的时间了，今天想唱点演歌然后在屋里飞会3寸牙签机 https://t.co/fvz2xx0Ie4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2094437010849358324",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 211,
+          "following_count": 281,
+          "like_count": 423,
+          "listed_count": 0,
+          "media_count": 79,
+          "tweet_count": 485
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

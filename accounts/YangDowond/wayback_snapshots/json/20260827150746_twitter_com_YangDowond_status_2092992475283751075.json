@@ -1,0 +1,237 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2092992461593567233",
+        "3_2092992461576835072"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2092992475283751075",
+    "created_at": "2026-08-27T15:07:46.000Z",
+    "display_text_range": [
+      0,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T16:07:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2092992475283751075"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/yb84pjqQbK",
+          "end": 83,
+          "expanded_url": "https://x.com/YangDowond/status/2092992475283751075/photo/1",
+          "media_key": "3_2092992461593567233",
+          "start": 60,
+          "url": "https://t.co/yb84pjqQbK"
+        },
+        {
+          "display_url": "pic.x.com/yb84pjqQbK",
+          "end": 83,
+          "expanded_url": "https://x.com/YangDowond/status/2092992475283751075/photo/1",
+          "media_key": "3_2092992461576835072",
+          "start": 60,
+          "url": "https://t.co/yb84pjqQbK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092992475283751075",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2092992461593567233"
+      },
+      {
+        "media_key": "3_2092992461576835072"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "100微克右美托咪定肌注，have a nice sleep\n以及，今天玩异环玩的很爽，要是残虹能不吃保底就更好了（） https://t.co/yb84pjqQbK"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2092992461593567233",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvNjf7a4AERMcR.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_2092992461576835072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQvNjf3bkAAkyNB.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2092992461593567233",
+            "3_2092992461576835072"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2092992475283751075",
+        "created_at": "2026-08-27T15:07:46.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T16:07:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092992475283751075"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/yb84pjqQbK",
+              "end": 83,
+              "expanded_url": "https://x.com/YangDowond/status/2092992475283751075/photo/1",
+              "media_key": "3_2092992461593567233",
+              "start": 60,
+              "url": "https://t.co/yb84pjqQbK"
+            },
+            {
+              "display_url": "pic.x.com/yb84pjqQbK",
+              "end": 83,
+              "expanded_url": "https://x.com/YangDowond/status/2092992475283751075/photo/1",
+              "media_key": "3_2092992461576835072",
+              "start": 60,
+              "url": "https://t.co/yb84pjqQbK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092992475283751075",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2092992461593567233"
+          },
+          {
+            "media_key": "3_2092992461576835072"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "100微克右美托咪定肌注，have a nice sleep\n以及，今天玩异环玩的很爽，要是残虹能不吃保底就更好了（） https://t.co/yb84pjqQbK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California Pines, California, United States",
+              "geo": {
+                "coordinates": [
+                  -120.67913,
+                  41.40989
+                ],
+                "type": "Point"
+              },
+              "locality": "California Pines",
+              "region": "California",
+              "sub_region": "Modoc County"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2092992475283751075",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 190,
+          "following_count": 269,
+          "like_count": 414,
+          "listed_count": 0,
+          "media_count": 70,
+          "tweet_count": 442
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

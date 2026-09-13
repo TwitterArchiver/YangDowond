@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2095051220599836943",
+    "created_at": "2026-09-02T07:33:29.000Z",
+    "display_text_range": [
+      0,
+      84
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T08:33:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095052475523006572"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2095052475523006572",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095051220599836943",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "以及提醒各位一个快要被说烂的事情，但这真的很有必要，如果要尝试任何血清素能的共情剂请务必停止使用一切具有血清素再摄取抑制效果的物质，不然血清素综合症就不是说着玩的谈资了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1954,
+        "media_key": "3_2095051209795371009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMd-aobAAE7Apl.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1539,
+        "media_key": "3_2095051209795371008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMd-aobAAAioMf.jpg",
+        "width": 1170
+      },
+      {
+        "height": 453,
+        "media_key": "3_2095051209816395776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMd-atb0AAbGEX.jpg",
+        "width": 1280
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2095051209799573504",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRMd-apbIAAK2lf.jpg",
+        "width": 1050
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2095051220599836943",
+        "created_at": "2026-09-02T07:33:29.000Z",
+        "display_text_range": [
+          0,
+          84
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:33:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095052475523006572"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095052475523006572",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095051220599836943",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "以及提醒各位一个快要被说烂的事情，但这真的很有必要，如果要尝试任何血清素能的共情剂请务必停止使用一切具有血清素再摄取抑制效果的物质，不然血清素综合症就不是说着玩的谈资了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095051209795371009",
+            "3_2095051209795371008",
+            "3_2095051209816395776",
+            "3_2095051209799573504"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2095051220599836943",
+        "created_at": "2026-09-02T07:28:29.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T08:28:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095051220599836943"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h4DVuokatI",
+              "end": 174,
+              "expanded_url": "https://x.com/YangDowond/status/2095051220599836943/photo/1",
+              "media_key": "3_2095051209795371009",
+              "start": 151,
+              "url": "https://t.co/h4DVuokatI"
+            },
+            {
+              "display_url": "pic.x.com/h4DVuokatI",
+              "end": 174,
+              "expanded_url": "https://x.com/YangDowond/status/2095051220599836943/photo/1",
+              "media_key": "3_2095051209795371008",
+              "start": 151,
+              "url": "https://t.co/h4DVuokatI"
+            },
+            {
+              "display_url": "pic.x.com/h4DVuokatI",
+              "end": 174,
+              "expanded_url": "https://x.com/YangDowond/status/2095051220599836943/photo/1",
+              "media_key": "3_2095051209816395776",
+              "start": 151,
+              "url": "https://t.co/h4DVuokatI"
+            },
+            {
+              "display_url": "pic.x.com/h4DVuokatI",
+              "end": 174,
+              "expanded_url": "https://x.com/YangDowond/status/2095051220599836943/photo/1",
+              "media_key": "3_2095051209799573504",
+              "start": 151,
+              "url": "https://t.co/h4DVuokatI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095051220599836943",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095051209795371009"
+          },
+          {
+            "media_key": "3_2095051209795371008"
+          },
+          {
+            "media_key": "3_2095051209816395776"
+          },
+          {
+            "media_key": "3_2095051209799573504"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "多年前舒尔金先生在PIHKAL的115号条目里里为我们留下了一个谜团，一个关于MDPEA（亚甲二氧基苯乙胺，高胡椒乙胺）的谜团，舒尔金先生大剂量服用了它，但没有产生任何精神效果，根据推测很可能是被MAO（单胺氧化酶）分解掉了没有突入血脑屏障，但舒尔金对于配合使用单胺氧化酶抑制剂（MAOI）是否能产生共情效果也有疑问，并且没有进一步的试验\n而在西方世界广为流传MAOI+PEA这种“穷人的冰”的玩法成功之后，自然也有胆大的精神探索者尝试了这种未竟的联用方式，也就是图2中这位reddit用户的体验\n：作者此前曾将普通苯乙胺（PEA）与卡皮木（含MAOI成分）提取物搭配使用，因参考舒尔金关于MDPEA结合MAOI可能具有生物活性的推论，计划尝试将1000毫克MDPEA与大麦芽碱（Hordenine）搭配服用\n效果体验：\n初期表现为头皮发麻与身体发热感，兼具镇静与兴奋的共情物特征（类似MDAI）\n 整体持续时间约 8 小时，他形容其如同“去除了不良躯体负荷与恶劣口感的肉豆蔻体验”，倾向于让人放松、大笑、社交与聊天\n总结评价：更适合偏好温和、社交型体验的人群，而非追求强烈致幻或强刺激效果的使用者，后续作者提到将大麦芽碱替换为卡皮木提取物的体验相对更好\n但如果你在国内想要尝试这种体验我的建议是首先你必须做好血清素综合症和高血压危象的准备，这不是危言耸听，尝试一切冷门的联用之前请一定以安全为第一要务\n其次你购买MDPEA这种物质也请一定准备好相应的资质或者听起来说得过去的理由，尽管它结构上与MDA，MDMA等管制物质结构类似但却不在任何非药用精神物质和易制毒名单列表上，且任何MDA和MDMA的生产工艺和合成路线都不会以它作为原料，但这不妨碍想要急于立功和冲业绩的地方公安和缉毒警以你想要制取管制物质为由查水表，不要为自己惹不必要的麻烦\nMDPEA在现代制药工艺中最大的用量是作为合成黄连素（小劈碱）的中间体，我想各位很多也听说过这种药物\n最后祝做好一切准备真正想要尝试的精神探索者have a good trip！"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 12,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "多年前舒尔金先生在PIHKAL的115号条目里里为我们留下了一个谜团，一个关于MDPEA（亚甲二氧基苯乙胺，高胡椒乙胺）的谜团，舒尔金先生大剂量服用了它，但没有产生任何精神效果，根据推测很可能是被MAO（单胺氧化酶）分解掉了没有突入血脑屏障，但舒尔金对于配合使用单胺氧化酶抑制剂（MAOI）是否能产生 https://t.co/h4DVuokatI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2095052475523006572",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 233,
+          "following_count": 289,
+          "like_count": 433,
+          "listed_count": 0,
+          "media_count": 87,
+          "tweet_count": 528
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

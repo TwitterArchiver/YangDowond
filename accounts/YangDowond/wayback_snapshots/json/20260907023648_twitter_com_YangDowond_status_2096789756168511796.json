@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2096789746693582848",
+        "3_2096789746706219008",
+        "3_2096789746697777152",
+        "3_2096789746697793536"
+      ]
+    },
+    "author_id": "990585162722242560",
+    "conversation_id": "2096789756168511796",
+    "created_at": "2026-09-07T02:36:48.000Z",
+    "display_text_range": [
+      0,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T03:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2096789756168511796"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/HKlAATA8GY",
+          "end": 42,
+          "expanded_url": "https://x.com/YangDowond/status/2096789756168511796/photo/1",
+          "media_key": "3_2096789746693582848",
+          "start": 19,
+          "url": "https://t.co/HKlAATA8GY"
+        },
+        {
+          "display_url": "pic.x.com/HKlAATA8GY",
+          "end": 42,
+          "expanded_url": "https://x.com/YangDowond/status/2096789756168511796/photo/1",
+          "media_key": "3_2096789746706219008",
+          "start": 19,
+          "url": "https://t.co/HKlAATA8GY"
+        },
+        {
+          "display_url": "pic.x.com/HKlAATA8GY",
+          "end": 42,
+          "expanded_url": "https://x.com/YangDowond/status/2096789756168511796/photo/1",
+          "media_key": "3_2096789746697777152",
+          "start": 19,
+          "url": "https://t.co/HKlAATA8GY"
+        },
+        {
+          "display_url": "pic.x.com/HKlAATA8GY",
+          "end": 42,
+          "expanded_url": "https://x.com/YangDowond/status/2096789756168511796/photo/1",
+          "media_key": "3_2096789746697793536",
+          "start": 19,
+          "url": "https://t.co/HKlAATA8GY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096789756168511796",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2096789746693582848"
+      },
+      {
+        "media_key": "3_2096789746706219008"
+      },
+      {
+        "media_key": "3_2096789746697777152"
+      },
+      {
+        "media_key": "3_2096789746697793536"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "“右美沙芬是个毒品，普瑞巴林，没事” https://t.co/HKlAATA8GY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1859,
+        "media_key": "3_2096789746693582848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlLKlRaMAA7B21.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1871,
+        "media_key": "3_2096789746706219008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlLKlUbAAAaYp6.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1635,
+        "media_key": "3_2096789746697777152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlLKlSaMAAYhps.jpg",
+        "width": 1170
+      },
+      {
+        "height": 1855,
+        "media_key": "3_2096789746697793536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRlLKlSacAAtcQN.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096789746693582848",
+            "3_2096789746706219008",
+            "3_2096789746697777152",
+            "3_2096789746697793536"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2096789756168511796",
+        "created_at": "2026-09-07T02:36:48.000Z",
+        "display_text_range": [
+          0,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T03:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096789756168511796"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/HKlAATA8GY",
+              "end": 42,
+              "expanded_url": "https://x.com/YangDowond/status/2096789756168511796/photo/1",
+              "media_key": "3_2096789746693582848",
+              "start": 19,
+              "url": "https://t.co/HKlAATA8GY"
+            },
+            {
+              "display_url": "pic.x.com/HKlAATA8GY",
+              "end": 42,
+              "expanded_url": "https://x.com/YangDowond/status/2096789756168511796/photo/1",
+              "media_key": "3_2096789746706219008",
+              "start": 19,
+              "url": "https://t.co/HKlAATA8GY"
+            },
+            {
+              "display_url": "pic.x.com/HKlAATA8GY",
+              "end": 42,
+              "expanded_url": "https://x.com/YangDowond/status/2096789756168511796/photo/1",
+              "media_key": "3_2096789746697777152",
+              "start": 19,
+              "url": "https://t.co/HKlAATA8GY"
+            },
+            {
+              "display_url": "pic.x.com/HKlAATA8GY",
+              "end": 42,
+              "expanded_url": "https://x.com/YangDowond/status/2096789756168511796/photo/1",
+              "media_key": "3_2096789746697793536",
+              "start": 19,
+              "url": "https://t.co/HKlAATA8GY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096789756168511796",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096789746693582848"
+          },
+          {
+            "media_key": "3_2096789746706219008"
+          },
+          {
+            "media_key": "3_2096789746697777152"
+          },
+          {
+            "media_key": "3_2096789746697793536"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "“右美沙芬是个毒品，普瑞巴林，没事” https://t.co/HKlAATA8GY"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2096789756168511796",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 308,
+          "like_count": 460,
+          "listed_count": 0,
+          "media_count": 103,
+          "tweet_count": 642
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

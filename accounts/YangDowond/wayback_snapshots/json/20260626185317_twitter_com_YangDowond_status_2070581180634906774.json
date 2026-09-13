@@ -1,0 +1,182 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2070577021747663222",
+    "created_at": "2026-06-26T18:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-26T19:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070581180634906774"
+    ],
+    "entities": {},
+    "geo": {},
+    "id": "2070581180634906774",
+    "in_reply_to_user_id": "990585162722242560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2070577021747663222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "可能是最近活的太废物了吧…光是简历投了不知道多少，全没有结果，面试一次还被说“哪来的回哪去吧”…偶尔脱离一次现实晕乎乎的感觉好幸福🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2070577009101860864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLwq0cObcAAltEI.jpg",
+        "width": 1536
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2070577021747663222",
+        "created_at": "2026-06-26T18:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070581180634906774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2070581180634906774",
+        "in_reply_to_user_id": "990585162722242560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2070577021747663222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "可能是最近活的太废物了吧…光是简历投了不知道多少，全没有结果，面试一次还被说“哪来的回哪去吧”…偶尔脱离一次现实晕乎乎的感觉好幸福🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2070577009101860864"
+          ]
+        },
+        "author_id": "990585162722242560",
+        "conversation_id": "2070577021747663222",
+        "created_at": "2026-06-26T18:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-26T19:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070577021747663222"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/25BBi0gPZW",
+              "end": 61,
+              "expanded_url": "https://x.com/YangDowond/status/2070577021747663222/photo/1",
+              "media_key": "3_2070577009101860864",
+              "start": 38,
+              "url": "https://t.co/25BBi0gPZW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070577021747663222",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 21,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我原来怎么没发现巴氯芬这么迷人😭\n我好爱巴氯芬，低估你了，还得是诺华原研啊 https://t.co/25BBi0gPZW"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼",
+        "id": "990585162722242560",
+        "location": "California, USA",
+        "name": "dowond yang",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18,
+          "following_count": 165,
+          "like_count": 209,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 57
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": false
+      }
+    ]
+  }
+}

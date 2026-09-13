@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2095129534467293253",
+    "created_at": "2026-09-03T10:51:34.000Z",
+    "display_text_range": [
+      23,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-03T11:51:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095464714415587643"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2092517131552423936",
+          "start": 0,
+          "username": "MT7276"
+        },
+        {
+          "end": 22,
+          "id": "1977698898841116674",
+          "start": 8,
+          "username": "xiaoyuTnT0304"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095464714415587643",
+    "in_reply_to_user_id": "2092517131552423936",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095463368622846341",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MT7276 @xiaoyuTnT0304 京东上那个可惜现在缺货了，那个能过海关我的今天刚送到的（）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2095129534467293253",
+        "created_at": "2026-09-03T10:51:34.000Z",
+        "display_text_range": [
+          23,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:51:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095464714415587643"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2092517131552423936",
+              "start": 0,
+              "username": "MT7276"
+            },
+            {
+              "end": 22,
+              "id": "1977698898841116674",
+              "start": 8,
+              "username": "xiaoyuTnT0304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095464714415587643",
+        "in_reply_to_user_id": "2092517131552423936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095463368622846341",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MT7276 @xiaoyuTnT0304 京东上那个可惜现在缺货了，那个能过海关我的今天刚送到的（）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2092517131552423936",
+        "conversation_id": "2095129534467293253",
+        "created_at": "2026-09-03T10:46:13.000Z",
+        "display_text_range": [
+          15,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T11:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095463368622846341"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977698898841116674",
+              "start": 0,
+              "username": "xiaoyuTnT0304"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095463368622846341",
+        "in_reply_to_user_id": "1977698898841116674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095129534467293253",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaoyuTnT0304 昨晚买到了，今天一早起来商家就说海关问题劝我退款😿"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2095464714415587643",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 249,
+          "following_count": 297,
+          "like_count": 444,
+          "listed_count": 0,
+          "media_count": 93,
+          "tweet_count": 567
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-26T07:43:46.000Z",
+        "description": "简介。    暂时懒得写了",
+        "id": "2092517131552423936",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095463664442868166",
+        "name": "MT",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092519007610118145/cevOQhIq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15,
+          "following_count": 52,
+          "like_count": 601,
+          "listed_count": 0,
+          "media_count": 6,
+          "tweet_count": 138
+        },
+        "url": "",
+        "username": "MT7276",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-13T11:32:29.000Z",
+        "description": "。",
+        "id": "1977698898841116674",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095129534467293253",
+        "name": "小雨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1977698898841116674/1771528365",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026576873141186566/C1X_2jNA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 20,
+          "like_count": 4254,
+          "listed_count": 0,
+          "media_count": 17,
+          "tweet_count": 210
+        },
+        "url": "",
+        "username": "xiaoyuTnT0304",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

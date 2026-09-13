@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "990585162722242560",
+    "conversation_id": "2095853828335952280",
+    "created_at": "2026-09-04T14:41:32.000Z",
+    "display_text_range": [
+      26,
+      118
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T15:41:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095884975665225974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1547812257676963840",
+          "start": 0,
+          "username": "YLS69979546"
+        },
+        {
+          "end": 25,
+          "id": "1079483498686164992",
+          "start": 13,
+          "username": "KisaragiSue"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095884975665225974",
+    "in_reply_to_user_id": "1547812257676963840",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095872022035493194",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YLS69979546 @KisaragiSue 其实反而是两个极端的医生都好开到氯硝，传统的医生觉得这没什么，前沿的医生知道其实氯硝比阿普一类的好戒（目前成瘾学界的共识是越是起效速度快，药效消退快的成瘾性越高，起效时间长的反而好戒）"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "990585162722242560",
+        "conversation_id": "2095853828335952280",
+        "created_at": "2026-09-04T14:41:32.000Z",
+        "display_text_range": [
+          26,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T15:41:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095884975665225974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1547812257676963840",
+              "start": 0,
+              "username": "YLS69979546"
+            },
+            {
+              "end": 25,
+              "id": "1079483498686164992",
+              "start": 13,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095884975665225974",
+        "in_reply_to_user_id": "1547812257676963840",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095872022035493194",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YLS69979546 @KisaragiSue 其实反而是两个极端的医生都好开到氯硝，传统的医生觉得这没什么，前沿的医生知道其实氯硝比阿普一类的好戒（目前成瘾学界的共识是越是起效速度快，药效消退快的成瘾性越高，起效时间长的反而好戒）"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547812257676963840",
+        "conversation_id": "2095853828335952280",
+        "created_at": "2026-09-04T13:50:04.000Z",
+        "display_text_range": [
+          13,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T14:50:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095872022035493194"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1079483498686164992",
+              "start": 0,
+              "username": "KisaragiSue"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095872022035493194",
+        "in_reply_to_user_id": "1079483498686164992",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 49,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095858847017754665",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KisaragiSue 为什么总有人给我一种很难开的感觉，虽然我本意也不是开它的"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2018-04-29T13:34:41.000Z",
+        "derived": {
+          "locations": [
+            {
+              "country_code": "US",
+              "full_name": "California, United States",
+              "geo": {
+                "coordinates": [
+                  -119.75126,
+                  37.25022
+                ],
+                "type": "Point"
+              },
+              "region": "California"
+            }
+          ]
+        },
+        "description": "咸鱼 \n弟弟@YuukiReina2023",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 6,
+                "username": "YuukiReina2023"
+              }
+            ]
+          }
+        },
+        "id": "990585162722242560",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2095884975665225974",
+        "name": "dowond yang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/990585162722242560/1526221546",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/990789857126436864/Wjtj43g-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 299,
+          "like_count": 447,
+          "listed_count": 0,
+          "media_count": 97,
+          "tweet_count": 581
+        },
+        "url": "",
+        "username": "YangDowond",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-15T05:16:56.000Z",
+        "description": "我可能是个傻逼，我是吗？",
+        "id": "1547812257676963840",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095874102158602288",
+        "name": "jerry",
+        "pinned_tweet_id": "2009890680576061842",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970548554885406728/n5ADRj36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 641,
+          "following_count": 274,
+          "like_count": 11059,
+          "listed_count": 0,
+          "media_count": 154,
+          "tweet_count": 3088
+        },
+        "url": "",
+        "username": "YLS69979546",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-12-30T21:04:56.000Z",
+        "description": "大龄MtF一只，又老又丑又肥警告⚠️\nHRT:2023-12-23\n目前方案：7天1只日雌，每天12.5CPA\n强烈反威权、反民族主义、性自由、性别自决、安那其主义者\nGIST晚期乐观预期寿命不足五年有两处肝脏转移灶被癌痛折磨中\n罕见级别的极其难治性抑郁症患者\n在2023~2024年有疯狂的od加吸毒史\n现已彻底戒断",
+        "id": "1079483498686164992",
+        "is_identity_verified": false,
+        "location": "Pluto",
+        "most_recent_tweet_id": "2095868616482906301",
+        "name": "如月 桃華🍥🏳️‍⚧️",
+        "pinned_tweet_id": "2088824090350227486",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1079483498686164992/1588856713",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085370365417750528/plFG80HW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2862,
+          "following_count": 654,
+          "like_count": 45060,
+          "listed_count": 6,
+          "media_count": 1253,
+          "tweet_count": 24240
+        },
+        "url": "",
+        "username": "KisaragiSue",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
